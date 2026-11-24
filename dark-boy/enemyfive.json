@@ -1,0 +1,527 @@
+{
+"skeleton": { "hash": "ZPX4PqnfeXZUgvuYu8NBlyd8Z9k", "spine": "3.6.38", "width": 452.72, "height": 550, "images": "./enemyfive/" },
+"bones": [
+	{ "name": "root" },
+	{
+		"name": "BloodCircleBig",
+		"parent": "root",
+		"length": 161.23,
+		"rotation": 90,
+		"x": 4.56,
+		"y": 3.04,
+		"scaleX": 0.5,
+		"scaleY": 0.5
+	},
+	{ "name": "BloodExplosion", "parent": "root", "length": 180.71, "rotation": 90, "x": 11.31, "y": -11.9 },
+	{ "name": "Body", "parent": "root", "length": 144.61, "rotation": 90, "x": 0.25, "y": -5.81 },
+	{ "name": "Eye", "parent": "Body", "length": 78.62, "x": 61.85, "y": 37.09 },
+	{ "name": "EyeClosed", "parent": "Body", "length": 137.52, "rotation": -180, "x": 74.18, "y": 38.82 },
+	{ "name": "EyeInside", "parent": "Eye", "length": 25.27, "x": -1.22, "y": -0.26 },
+	{ "name": "EyeTwo", "parent": "Body", "length": 78.62, "x": -0.45, "y": -72.86, "scaleX": 0.8, "scaleY": 0.8 },
+	{ "name": "EyeInside2", "parent": "EyeTwo", "length": 25.27, "x": -1.22, "y": -0.26 },
+	{ "name": "EyeThree", "parent": "Body", "length": 78.62, "x": -59.09, "y": 24.63, "scaleX": 0.6, "scaleY": 0.6 },
+	{ "name": "EyeInside3", "parent": "EyeThree", "length": 25.27, "x": -1.22, "y": -0.26 },
+	{
+		"name": "EyeThreeClosed",
+		"parent": "Body",
+		"length": 137.52,
+		"rotation": -180,
+		"x": -46.76,
+		"y": 26.35,
+		"scaleX": 0.6,
+		"scaleY": 0.6
+	},
+	{
+		"name": "EyeTwoClosed",
+		"parent": "Body",
+		"length": 137.52,
+		"rotation": -180,
+		"x": 11.88,
+		"y": -71.13,
+		"scaleX": 0.8,
+		"scaleY": 0.8
+	},
+	{ "name": "Shooter", "parent": "Body", "length": 163.58, "rotation": -142.5, "x": 9.63, "y": 0.06 },
+	{ "name": "ShooterSmall", "parent": "Shooter", "length": 129.01, "x": 72.58, "y": -1.85 },
+	{ "name": "WingLeft", "parent": "Body", "length": 184.55, "rotation": 51.6, "x": 12.92, "y": -0.33 },
+	{ "name": "WingRight", "parent": "Body", "length": 194.69, "rotation": -48.3, "x": 12.92, "y": -0.33 }
+],
+"slots": [
+	{ "name": "FlyEffect", "bone": "root", "color": "ffffff00", "attachment": "FlyEffect" },
+	{ "name": "FlyEffectTwo", "bone": "root", "color": "ffffff00", "attachment": "FlyEffect" },
+	{ "name": "WingRight", "bone": "WingRight", "dark": "000000", "attachment": "WingRight" },
+	{ "name": "WingLeft", "bone": "WingLeft", "dark": "000000", "attachment": "WingLeft" },
+	{ "name": "Shooter", "bone": "ShooterSmall", "dark": "000000", "attachment": "Shooter" },
+	{ "name": "Body", "bone": "Body", "dark": "000000", "attachment": "Body" },
+	{ "name": "Eye", "bone": "Eye", "dark": "000000", "attachment": "Eye" },
+	{ "name": "EyeTwo", "bone": "EyeTwo", "dark": "000000", "attachment": "Eye" },
+	{ "name": "EyeThree", "bone": "EyeThree", "dark": "000000", "attachment": "Eye" },
+	{ "name": "EyeInside", "bone": "EyeInside", "dark": "000000", "attachment": "EyeInside" },
+	{ "name": "EyeInside2", "bone": "EyeInside2", "dark": "000000", "attachment": "EyeInside" },
+	{ "name": "EyeInside3", "bone": "EyeInside3", "dark": "000000", "attachment": "EyeInside" },
+	{ "name": "EyeClosed", "bone": "EyeClosed", "color": "ffffff00", "dark": "000000", "attachment": "EyeClosed" },
+	{ "name": "EyeTwoClosed", "bone": "EyeTwoClosed", "color": "ffffff00", "dark": "000000", "attachment": "EyeClosed" },
+	{ "name": "EyeThreeClosed", "bone": "EyeThreeClosed", "color": "ffffff00", "dark": "000000", "attachment": "EyeClosed" },
+	{ "name": "BloodCircleBig", "bone": "BloodCircleBig", "color": "ffffff00", "attachment": "BloodCircleBig" },
+	{ "name": "BloodExplosion", "bone": "BloodExplosion", "color": "ffffff00", "attachment": "BloodExplosion" },
+	{ "name": "ShooterPinter", "bone": "Shooter", "attachment": "ShooterPinter" }
+],
+"skins": [
+	{
+		"name" :"default",
+		"attachments": {
+			"BloodCircleBig": {
+				"BloodCircleBig": { "rotation": -90, "width": 322, "height": 322 }
+			},
+			"BloodExplosion": {
+				"BloodExplosion": { "x": 38.71, "y": 45.87, "width": 550, "height": 408 }
+			},
+			"Body": {
+				"Body": { "x": 10.72, "y": -0.25, "rotation": -90, "width": 284, "height": 284 }
+			},
+			"Eye": {
+				"Eye": { "x": 0.65, "y": -0.17, "rotation": -90, "width": 142, "height": 142 }
+			},
+			"EyeClosed": {
+				"EyeClosed": { "x": 19.12, "y": 3.03, "rotation": 90, "width": 108, "height": 14 }
+			},
+			"EyeInside": {
+				"EyeInside": { "x": 1.87, "y": 0.1, "rotation": -90, "width": 48, "height": 48 }
+			},
+			"EyeInside2": {
+				"EyeInside": { "x": 1.87, "y": 0.1, "rotation": -90, "width": 48, "height": 48 }
+			},
+			"EyeInside3": {
+				"EyeInside": { "x": 1.87, "y": 0.1, "rotation": -90, "width": 48, "height": 48 }
+			},
+			"EyeThree": {
+				"Eye": { "x": 0.65, "y": -0.17, "rotation": -90, "width": 142, "height": 142 }
+			},
+			"EyeThreeClosed": {
+				"EyeClosed": { "x": 19.12, "y": 3.03, "rotation": 90, "width": 108, "height": 14 }
+			},
+			"EyeTwo": {
+				"Eye": { "x": 0.65, "y": -0.17, "rotation": -90, "width": 142, "height": 142 }
+			},
+			"EyeTwoClosed": {
+				"EyeClosed": { "x": 19.12, "y": 3.03, "rotation": 90, "width": 108, "height": 14 }
+			},
+			"FlyEffect": {
+				"FlyEffect": { "x": 168.67, "y": 24.64, "width": 91, "height": 328 }
+			},
+			"FlyEffectTwo": {
+				"FlyEffect": { "x": -171.88, "y": 24.64, "rotation": 180, "width": 91, "height": 328 }
+			},
+			"Shooter": {
+				"Shooter": { "x": 67.23, "y": 1.91, "rotation": 45, "width": 131, "height": 132 }
+			},
+			"ShooterPinter": {
+				"ShooterPinter": { "type": "point", "x": 207.38 }
+			},
+			"WingLeft": {
+				"WingLeft": { "x": 162.24, "y": 2.62, "rotation": -180, "width": 123, "height": 131 }
+			},
+			"WingRight": {
+				"WingRight": { "x": 155.76, "y": -2.62, "width": 123, "height": 131 }
+			}
+		}
+	}
+],
+"events": {
+	"DeathEvent": {},
+	"DeathExplosionEvent": {},
+	"FlyStepEvent": {},
+	"HurtEvent": {},
+	"ShootEvent": {}
+},
+"animations": {
+	"DeathAnimation": {
+		"slots": {
+			"BloodCircleBig": {
+				"color": [
+					{ "time": 0.9333, "color": "fffffffe" },
+					{ "time": 1.2, "color": "ffffff00" }
+				]
+			},
+			"BloodExplosion": {
+				"color": [
+					{ "time": 1, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 1.0333, "color": "fffffffe" },
+					{ "time": 1.1333, "color": "ffffff00" }
+				]
+			},
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"Eye": {
+				"twoColor": [
+					{ "time": 0.1667, "light": "ffffff00", "dark": "000000" }
+				]
+			},
+			"EyeClosed": {
+				"twoColor": [
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"EyeInside": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"EyeInside2": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"EyeInside3": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"EyeThree": {
+				"twoColor": [
+					{ "time": 0.1667, "light": "ffffff00", "dark": "000000" }
+				]
+			},
+			"EyeThreeClosed": {
+				"twoColor": [
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"EyeTwo": {
+				"twoColor": [
+					{ "time": 0.1667, "light": "ffffff00", "dark": "000000" }
+				]
+			},
+			"EyeTwoClosed": {
+				"twoColor": [
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"FlyEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"Shooter": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"WingLeft": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"WingRight": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			}
+		},
+		"bones": {
+			"Body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -156.19, "y": 0 },
+					{ "time": 0.5, "x": 81.19, "y": 0 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"WingLeft": {
+				"rotate": [
+					{ "time": 0, "angle": 127.2 },
+					{ "time": 0.1667, "angle": -175.8 },
+					{ "time": 0.2667, "angle": 74.4 },
+					{ "time": 0.6667, "angle": -179.1 },
+					{ "time": 1, "angle": 127.2 }
+				]
+			},
+			"WingRight": {
+				"rotate": [
+					{ "time": 0, "angle": -16.2 },
+					{ "time": 0.1667, "angle": -98.4 },
+					{
+						"time": 0.3333,
+						"angle": 137.7,
+						"curve": 0.391, "c2":0, "c3":0.686, "c4":0.62
+					},
+					{ "time": 0.6333, "angle": -113.4 },
+					{ "time": 1, "angle": 227.7 }
+				]
+			},
+			"Eye": {
+				"translate": [
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -10.89, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 0.065, "y": 1 }
+				]
+			},
+			"BloodCircleBig": {
+				"scale": [
+					{ "time": 0.9333, "x": 1, "y": 1 },
+					{ "time": 1.2, "x": 4, "y": 4 }
+				]
+			},
+			"BloodExplosion": {
+				"rotate": [
+					{ "time": 1, "angle": 0 },
+					{ "time": 1.4667, "angle": -20.7 }
+				],
+				"scale": [
+					{ "time": 1, "x": 1, "y": 1 },
+					{ "time": 1.1333, "x": 0.8, "y": 0.8 }
+				]
+			},
+			"EyeTwo": {
+				"translate": [
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -10.89, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 0.065, "y": 1 }
+				]
+			},
+			"EyeThree": {
+				"translate": [
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -10.89, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 0.065, "y": 1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "DeathEvent" },
+			{ "time": 0.9667, "name": "DeathExplosionEvent" }
+		]
+	},
+	"FlyAnimation": {
+		"slots": {
+			"FlyEffect": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "fffffffe" },
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			},
+			"FlyEffectTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "fffffffe" },
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"WingLeft": {
+				"rotate": [
+					{ "time": 0, "angle": -23.1 },
+					{
+						"time": 0.1667,
+						"angle": 99.3,
+						"curve": 0, "c2":0.8, "c3":0.75, "c4":1
+					},
+					{ "time": 0.5, "angle": -23.1 }
+				]
+			},
+			"WingRight": {
+				"rotate": [
+					{ "time": 0, "angle": 20.1 },
+					{
+						"time": 0.1667,
+						"angle": -103.8,
+						"curve": 0, "c2":0.8, "c3":0.75, "c4":1
+					},
+					{ "time": 0.5, "angle": 20.1 }
+				]
+			},
+			"Body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0, "y": 36.73 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"EyeInside": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -12.95, "y": 14.54 },
+					{ "time": 0.4, "x": -5.91, "y": -21.35 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"EyeInside2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -12.95, "y": 14.54 },
+					{ "time": 0.4, "x": -5.91, "y": -21.35 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"EyeInside3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -12.95, "y": 14.54 },
+					{ "time": 0.4, "x": -5.91, "y": -21.35 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0667, "name": "FlyStepEvent" }
+		]
+	},
+	"HurtAnimation": {
+		"slots": {
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Eye": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EyeInside": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EyeInside2": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EyeInside3": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EyeThree": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EyeTwo": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Shooter": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"WingLeft": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"WingRight": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			}
+		},
+		"bones": {
+			"Eye": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 63.38 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"EyeTwo": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 63.38 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"EyeThree": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 63.38 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HurtEvent" }
+		]
+	},
+	"ShootAnimation": {
+		"bones": {
+			"ShooterSmall": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -47.46, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "ShootEvent" }
+		]
+	}
+}
+}

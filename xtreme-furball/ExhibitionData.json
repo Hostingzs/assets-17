@@ -1,0 +1,360 @@
+{
+    "c2array": true,
+    "size": [
+        10,
+        11,
+        1
+    ],
+    "data": [
+        [
+            [
+                "EN"
+            ],
+            [
+                "Paw Pass Challenge"
+            ],
+            [
+                "Fluffy Goal Fiesta"
+            ],
+            [
+                "Bouncy Dribble Run"
+            ],
+            [
+                "Whisker Cup Knockout"
+            ],
+            [
+                "Furry Champions League"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "DE"
+            ],
+            [
+                "PAW PASS CHALLENGE"
+            ],
+            [
+                "FLUFFY GOAL FIESTA"
+            ],
+            [
+                "BOUNCY DRIBBLE RUN"
+            ],
+            [
+                "WHISKER CUP KNOCKOUT"
+            ],
+            [
+                "FURRY CHAMPIONS LEAGUE"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "JA"
+            ],
+            [
+                "PFOTENPASS HERAUSFORDERUNG"
+            ],
+            [
+                "FLAUSCHIGES TOR FEST"
+            ],
+            [
+                "SPRUNGHAFTES DRIBBELN LAUF"
+            ],
+            [
+                "SCHNURRBART-POKAL K.O."
+            ],
+            [
+                "PELZIGE CHAMPIONS-LIGA"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "ES"
+            ],
+            [
+                "パウパスチャレンジ"
+            ],
+            [
+                "ふわふわゴールフィエスタ"
+            ],
+            [
+                "バウンシードリブルラン"
+            ],
+            [
+                "ウィスカーカップノックアウト"
+            ],
+            [
+                "ふわふわチャンピオンズリーグ"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "IT"
+            ],
+            [
+                "DESAFÍO DEL PASE DE PATA"
+            ],
+            [
+                "FIESTA DE GOLES ESPONJOSA"
+            ],
+            [
+                "CARRERA DE REGATE SALTARÍN"
+            ],
+            [
+                "ELIMINATORIAS DE LA COPA BIGOTE"
+            ],
+            [
+                "LIGA DE CAMPEONES PELUDOS"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "KO"
+            ],
+            [
+                "SFIDA PASSAGGIO ZAMPA"
+            ],
+            [
+                "FESTA DEL GOL SOFFICE"
+            ],
+            [
+                "CORSO DRIBBLING RIMBALZANTE"
+            ],
+            [
+                "KNOCKOUT DELLA COPPA BAFFI"
+            ],
+            [
+                "LEGA DEI CAMPIONI PELUCHE"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "FR"
+            ],
+            [
+                "발바닥 패스 챌린지"
+            ],
+            [
+                "푹신한 골 축제"
+            ],
+            [
+                "탄력적인 드리블 런"
+            ],
+            [
+                "수염 컵 녹아웃"
+            ],
+            [
+                "퍼리 챔피언스 리그"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "PT"
+            ],
+            [
+                "DÉFI PASSE DE PATTE"
+            ],
+            [
+                "FÊTE DU BUT DUVEUTEUX"
+            ],
+            [
+                "COURSE DE DRIBBLE BONDISSANT"
+            ],
+            [
+                "COUPE MOUSTACHES ÉLIMINATOIRE"
+            ],
+            [
+                "LIGUE DES CHAMPIONS DOUILLETS"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "ZH"
+            ],
+            [
+                "DESAFIO DO PASSE DE PATA"
+            ],
+            [
+                "FESTA DE GOLS FOFOS"
+            ],
+            [
+                "CORRIDA DE DRIBLE ELÁSTICO"
+            ],
+            [
+                "ELIMINATÓRIAS DA TAÇA BIGODE"
+            ],
+            [
+                "LIGA DOS CAMPEÕES FOFOS"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                "爪传挑战"
+            ],
+            [
+                "毛茸茸进球节"
+            ],
+            [
+                "弹跳运球赛"
+            ],
+            [
+                "胡须杯淘汰赛"
+            ],
+            [
+                "毛茸茸冠军联赛"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

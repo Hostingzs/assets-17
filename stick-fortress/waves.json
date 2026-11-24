@@ -1,0 +1,236 @@
+{	
+	"wave":[ 
+			{	"sequence": [
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{ "car":{"meele":2, "shooter":2}}],
+							[{"shooter":2}],
+							
+							[{"meele":5}],
+							[{"finished": 1}]
+							],
+				"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob_1", "noob"],
+				"shooter_enemies": ["shooter"]
+			},
+			{	"sequence": [
+				[{"heli":{"shooter":1, "meele": 1}, "shooter":1}],
+				[{"meele":5}],
+				[{"meele":5}],
+				[{"shooter":2}],
+				[{"meele":4}],
+				[{"meele":5}],
+				[{"car":{"meele":1, "shooter":2}}],
+				[{"finished": 1}]
+				],
+				"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+							[{"heli":{"shooter":1}, "shooter":1}],
+							
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"meele":5}],
+							[{"shooter":3}],
+							[{"heli":{"shooter":2}, "shooter":1}],
+							[{"car":{"meele":1, "shooter":3}}],
+							[{"finished": 1}]
+							],
+							"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+							[{ "car":{"meele":2, "shooter":2}}],
+							[{"shooter":2}],
+							[{"meele":5}],
+							[{ "car":{"meele":0, "shooter":3}}],
+							[{"heli":{"shooter":2}}],
+							[{ "car":{"meele":3, "shooter":2}}],
+							[{"heli":{"shooter":2}}],
+							[{"meele":5}],
+							[{"shooter":2}],
+							
+							[{"finished": 1}]
+							],
+							"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+							[{"heli":{"shooter":3}}],
+							[{"heli":{"meele":3}}],
+							[{"meele":5}],
+							[{ "car":{"meele":0, "shooter":3}}],
+							
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"heli":{"shooter":2}, "shooter":1}],
+							[{"heli":{"meele":4}}],
+							[{"meele":5}],
+							[{ "car":{"meele":5, "shooter":2}}],
+							[{"finished": 1}]
+							],
+							"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+							
+							[{ "car":{"meele":2, "shooter":2}}],
+							[{"heli":{"shooter":2}}],
+							[{ "car":{"meele":6, "shooter":2}}],
+							[{"heli":{"shooter":2, "meelee":8}}],
+							[{"meele":5}],
+							[{"heli":{"shooter":1}, "shooter":1}],
+							[{"heli":{"shooter":2}}],
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"car":{"meele":1, "shooter":2}}],
+							[{"finished": 1}]
+							],
+				"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+								[{"meele":5}],
+							[{"shooter":2}],
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"heli":{"shooter":1, "meelee":6}}],
+							[{"heli":{"meele":2}}],
+							[{"meele":5}],
+							[{ "car":{"meele":0, "shooter":3}}],
+							[{"shooter":2}],
+							[{"heli":{"meele":5}}],
+							[{"heli":{"meele":2}}],
+							[{"heli":{"shooter":2, "meelee":6}}],
+							[{"meele":5}],
+							[{ "car":{"meele":8, "shooter":2}}],
+							[{"finished": 1}]
+							],
+							"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+							[{"meele":5}],
+							[{"shooter":3}],
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"shooter":2}],
+							[{"meele":5}],
+							[{"meele":5}],
+							[{ "car":{"meele":2, "shooter":2}}],
+							[{"finished": 1}]
+							],
+				"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob_1", "noob"],
+				"shooter_enemies": ["shooter"]
+			},
+			{	"sequence": [
+							[{"shooter":2}],
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"meele":5}],
+							
+							[{"heli":{"shooter":2}}],
+							[{"heli":{"meele":2}}],
+							[{"meele":5}],
+							[{ "car":{"meele":2, "shooter":2}}],
+							[{"heli":{"shooter":1}, "shooter":1}],
+							[{"heli":{"shooter":2}}],
+							[{"meele":3}],
+							[{ "car":{"meele":5, "shooter":2}}],
+							[{"finished": 1}]
+							],
+							"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+							[{"shooter":2}],
+							[{"heli":{"shooter":2}, "shooter":1}],
+							
+							[{"heli":{"shooter":2}, "shooter":1}],
+							[{"heli":{"shooter":2}}],
+							
+							[{"heli":{"meele":2}}],
+							[{"meele":5}],
+							[{"meele":5}],
+							[{"shooter":2}],
+							[{"heli":{"shooter":2}}],
+							[{"heli":{"meele":2}}],
+							[{"meele":5}],
+							[{"meele":3}],
+							[{ "car":{"meele":5, "shooter":2}}],
+							[{"finished": 1}]
+							],
+							"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+							[{"shooter":2}],
+							
+							[{"shooter":3}],
+							[{"heli":{"shooter":2}}],
+							[{"heli":{"meele":8}}],
+							[{"meele":10}],
+							[{"meele":10}],
+							[{"shooter":3}],
+							[{"heli":{"shooter":2}}],
+							[{"heli":{"meele":2}}],
+							[{"meele":5}],
+							[{"meele":3}],
+							[{ "car":{"meele":5, "shooter":2}}],
+							[{"finished": 1}]
+							],
+							"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			},
+			{	"sequence": [
+							[{"meele":10}],
+							[{"shooter":3}],
+							
+							[{"shooter":3}],
+							[{"meele":10}],
+							[{"shooter":3}],
+							[{"shooter":3}],
+							[{ "car":{"meele":2, "shooter":3}}],
+							[{ "car":{"meele":1, "shooter":3}}],
+							[{ "car":{"meele":3, "shooter":2}}],
+							[{ "car":{"meele":5, "shooter":1}}],
+							[{"heli":{"meele":2}}],
+							[{"meele":5}],
+							[{"meele":3}],
+							[{ "car":{"meele":5, "shooter":3}}],
+							[{"finished": 1}]
+							],
+							"heli_enemies": ["heli_noob"],
+				"car_enemies": ["car_noob"],
+				"meele_enemies": ["noob","noob_1","noob_2"],
+				"shooter_enemies": ["shooter", "shooter_1"]
+			}
+			]
+	
+}

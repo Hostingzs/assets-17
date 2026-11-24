@@ -1,0 +1,6082 @@
+{
+    "c2array": true,
+    "size": [
+        12,
+        168,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Русский"
+            ],
+            [
+                "Поздравляем!"
+            ],
+            [
+                "Попробуй ещё!"
+            ],
+            [
+                "Дальше"
+            ],
+            [
+                "Пропустить"
+            ],
+            [
+                "Загрузка..."
+            ],
+            [
+                "Ежедневные награды"
+            ],
+            [
+                "Получить"
+            ],
+            [
+                "День"
+            ],
+            [
+                "Ресепшн"
+            ],
+            [
+                "Раздевалка"
+            ],
+            [
+                "Технический отдел"
+            ],
+            [
+                "Карантинная зона"
+            ],
+            [
+                "Дегустация зелий"
+            ],
+            [
+                "Медицинский пункт"
+            ],
+            [
+                "Генераторная"
+            ],
+            [
+                "Испытательный цех"
+            ],
+            [
+                "Склад"
+            ],
+            [
+                "Лаборатория"
+            ],
+            [
+                "Пассивный навык"
+            ],
+            [
+                "Активный навык"
+            ],
+            [
+                "Бесплатно через"
+            ],
+            [
+                "Бесплатно"
+            ],
+            [
+                "бесплатное вращение"
+            ],
+            [
+                "Крутить за 10"
+            ],
+            [
+                "Купить"
+            ],
+            [
+                "Увеличивает весь доход"
+            ],
+            [
+                "Увеличивает урон от касаний"
+            ],
+            [
+                "Ускоряет доход в комнатах "
+            ],
+            [
+                "Увеличивает урон созданий"
+            ],
+            [
+                "Увеличивает здоровье созданий"
+            ],
+            [
+                "Привет! Ты - новый директор корпорации зла? Я - твой главный алхимик, и я помогу тебе разобраться."
+            ],
+            [
+                "Мы только что переехали на новое место, чтобы замести следы. Давай построим первую комнату."
+            ],
+            [
+                "Эта комната будет приносить нам доход, а также увеличит урон от касания по врагам в ней."
+            ],
+            [
+                "Важно обеспечить охрану комнаты, поставим создание в строй."
+            ],
+            [
+                "Алон подойдет для защиты от парочки бандитов."
+            ],
+            [
+                "Зачем нам охрана? У нас дорогое оборудование и секретные разработки, которыми хотят завладеть все."
+            ],
+            [
+                "Так и знал! Бандиты снова нашли нас. Давай защитим нашу лабораторию!"
+            ],
+            [
+                "Касайся их, чтобы нанести урон!"
+            ],
+            [
+                "Как положено, после каждой волны тебе будет выпадать сундук с сокровищами, хе-хе. Чем сильнее волна, тем больше награда!"
+            ],
+            [
+                "Тебе выпали микстуры создания. Их можно использовать, чтобы улучшить его."
+            ],
+            [
+                "Давай улучшим Алона!"
+            ],
+            [
+                "Теперь, с таким созданием, мы сможем устроить этим бандитам настоящую бойню. Запускай следующую волну!"
+            ],
+            [
+                "За каждое прохождение волны ты получаешь особую валюту."
+            ],
+            [
+                "На данный момент ты не можешь её потратить в этой лаборатории. Чтобы купить за неё реликвии, нужно замести следы и переехать на новое место."
+            ],
+            [
+                "Давай переедем на новое место. Не переживай, все твои создания останутся с тобой, а прогресс в этой лаборатории будет потерян."
+            ],
+            [
+                "Теперь у тебя достаточно особой валюты, чтобы купить новую реликвию!"
+            ],
+            [
+                "А вот и первая реликвия! Ха-ха-ха."
+            ],
+            [
+                "Заходи, выбирай, покупай!"
+            ],
+            [
+                "Надумал переехать?"
+            ],
+            [
+                "Начать волну"
+            ],
+            [
+                "Открыть"
+            ],
+            [
+                "Коснись, чтобы продолжить"
+            ],
+            [
+                "Назначить"
+            ],
+            [
+                "Раскрошить"
+            ],
+            [
+                "Высокие технологии"
+            ],
+            [
+                "Хил от наги"
+            ],
+            [
+                "Боевой дух"
+            ],
+            [
+                "Вонь"
+            ],
+            [
+                "Водный натиск"
+            ],
+            [
+                "Милая ловушка"
+            ],
+            [
+                "Разумное решение"
+            ],
+            [
+                "Перемотать видео"
+            ],
+            [
+                "Критический удар"
+            ],
+            [
+                "Дополнительная рука"
+            ],
+            [
+                "Предусмотрительный навык"
+            ],
+            [
+                "Быстрые царапки"
+            ],
+            [
+                "Ментальная атака"
+            ],
+            [
+                "Липкие хитрости"
+            ],
+            [
+                "Вампиризм"
+            ],
+            [
+                "Секреты гробниц"
+            ],
+            [
+                "Подработка детективом"
+            ],
+            [
+                "Атакует сразу всех врагов в комнате"
+            ],
+            [
+                "Увеличивает весь урон от касаний X"
+            ],
+            [
+                "Каждые 3 секунды восстанавливает всем созданиям "
+            ],
+            [
+                "Увеличивает урон всех созданий на"
+            ],
+            [
+                "Наносит всем врагам в комнате "
+            ],
+            [
+                "При использовании наносит всем врагам"
+            ],
+            [
+                "Ошеломляет всех врагов на "
+            ],
+            [
+                "Увеличивает доход всего золота X"
+            ],
+            [
+                "увеличивает скорость дохода в комнатах X"
+            ],
+            [
+                "каждая 3 атака наносит X"
+            ],
+            [
+                "Увеличивает урон от касаний в комнате X"
+            ],
+            [
+                "Получает на 50% меньше урона"
+            ],
+            [
+                "Атакует сразу всех врагов"
+            ],
+            [
+                "При использовании наносит всем врагам"
+            ],
+            [
+                "Уменьшает скорость движения всех врагов на 90% в течении "
+            ],
+            [
+                "При каждом ударе восстанавливает"
+            ],
+            [
+                "Увеличивает доход золота в комнате X"
+            ],
+            [
+                "Мгновенно даёт "
+            ],
+            [
+                "урона! [color=#00e1ff] Восстановление 60 секунд  [/color] "
+            ],
+            [
+                "золота"
+            ],
+            [
+                "ед. здоровья"
+            ],
+            [
+                "ед."
+            ],
+            [
+                "урона раз в 2 секунды"
+            ],
+            [
+                "сек. [color=#00e1ff] Восстановление 60 секунд  [/color] "
+            ],
+            [
+                "урона"
+            ],
+            [
+                "ед. здоровья"
+            ],
+            [
+                "Заработай"
+            ],
+            [
+                "Пройди до"
+            ],
+            [
+                "Улучши любое создания до"
+            ],
+            [
+                "Покрути рулетку"
+            ],
+            [
+                "Открой"
+            ],
+            [
+                "Получи"
+            ],
+            [
+                "Заработай "
+            ],
+            [
+                "Прокачай любую комнату до"
+            ],
+            [
+                "Волны"
+            ],
+            [
+                "Уровня"
+            ],
+            [
+                "раз"
+            ],
+            [
+                "сундуков"
+            ],
+            [
+                "создания"
+            ],
+            [
+                "особой валюты"
+            ],
+            [
+                "Награда"
+            ],
+            [
+                "Легендарный"
+            ],
+            [
+                "Эпический"
+            ],
+            [
+                "Обычный"
+            ],
+            [
+                "Мега"
+            ],
+            [
+                "Гипер"
+            ],
+            [
+                "Ультра"
+            ],
+            [
+                "Крошер"
+            ],
+            [
+                "Осьминог"
+            ],
+            [
+                "Скорпнага"
+            ],
+            [
+                "Райдер"
+            ],
+            [
+                "Вонючка"
+            ],
+            [
+                "Акула"
+            ],
+            [
+                "Тявкин"
+            ],
+            [
+                "Аквамозг"
+            ],
+            [
+                "Видиус"
+            ],
+            [
+                "Мачете"
+            ],
+            [
+                "Ливидия"
+            ],
+            [
+                "Окулус"
+            ],
+            [
+                "Скарлетт"
+            ],
+            [
+                "Эфирокт"
+            ],
+            [
+                "Арахна"
+            ],
+            [
+                "Алон"
+            ],
+            [
+                "Мумцикло"
+            ],
+            [
+                "Разорволк"
+            ],
+            [
+                "улучшить"
+            ],
+            [
+                "ур"
+            ],
+            [
+                "улучшение"
+            ],
+            [
+                "С каждой волной мы привлекаем к нашей лаборатории бандитов все сильней и чтобы замести следы иногда стоит переезжать на новое место, после переезда ты получишь накопленную особую валюту, а также сбросишь весь прогресс в текущей лаборатории. Не переживай твои создания останутся с тобой!"
+            ],
+            [
+                "Получишь при переезде:"
+            ],
+            [
+                "Переехать"
+            ],
+            [
+                "Купить"
+            ],
+            [
+                "Переезд"
+            ],
+            [
+                "Пройденные волны"
+            ],
+            [
+                "Доход с лаборатории"
+            ],
+            [
+                "Всего заработано"
+            ],
+            [
+                "Победа"
+            ],
+            [
+                "Поражение"
+            ],
+            [
+                "Тебя ограбили:"
+            ],
+            [
+                "Крутить за рекламу"
+            ],
+            [
+                "За рекламу"
+            ],
+            [
+                "Смотреть"
+            ],
+            [
+                "Рекламная пауза за награду!"
+            ],
+            [
+                "Воскресить"
+            ],
+            [
+                "Дальше чем"
+            ],
+            [
+                "игроков"
+            ],
+            [
+                "Макс."
+            ],
+            [
+                "С возвращением!"
+            ],
+            [
+                "Забрать"
+            ],
+            [
+                "Пока тебя не было, лаборатория заработала"
+            ],
+            [
+                "Забрать х3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Английский"
+            ],
+            [
+                "Congratulations!"
+            ],
+            [
+                "Try again!"
+            ],
+            [
+                "Next"
+            ],
+            [
+                "Skip"
+            ],
+            [
+                "Loading..."
+            ],
+            [
+                "Daily rewards"
+            ],
+            [
+                "Receive daily rewards"
+            ],
+            [
+                "Day"
+            ],
+            [
+                "Reception"
+            ],
+            [
+                "Dressing Room"
+            ],
+            [
+                "Technical Department"
+            ],
+            [
+                "Quarantine Zone"
+            ],
+            [
+                "Potion Tasting"
+            ],
+            [
+                "Medical Point"
+            ],
+            [
+                "Generator Room"
+            ],
+            [
+                "Testing Workshop"
+            ],
+            [
+                "Warehouse"
+            ],
+            [
+                "Laboratory"
+            ],
+            [
+                "Passive skill"
+            ],
+            [
+                "Active skill"
+            ],
+            [
+                "Free through"
+            ],
+            [
+                "Free"
+            ],
+            [
+                "free spin"
+            ],
+            [
+                "Spin for 10"
+            ],
+            [
+                "Buy"
+            ],
+            [
+                "Increases all income"
+            ],
+            [
+                "Increases touch damage"
+            ],
+            [
+                "Speeds up income in rooms"
+            ],
+            [
+                "Increases creature damage"
+            ],
+            [
+                "Increases creature health"
+            ],
+            [
+                "Hello! Are you the new director of the evil corporation? I am your chief alchemist, and I will help you figure things out."
+            ],
+            [
+                "We have just moved to a new place to cover our tracks. Let's build the first room."
+            ],
+            [
+                "This room will bring us income and also increase the damage from touching enemies inside it."
+            ],
+            [
+                "It is important to ensure the room's security, so let's put the creation to work."
+            ],
+            [
+                "Alon will be suitable for protection against a couple of bandits."
+            ],
+            [
+                "Why do we need security? We have expensive equipment and secret developments that everyone wants to seize."
+            ],
+            [
+                "I knew it! The bandits have found us again. Let's defend our laboratory!"
+            ],
+            [
+                "Touch them to inflict damage!"
+            ],
+            [
+                "As it should be, after each wave, a chest with treasures will drop for you, hehe. The stronger the wave, the greater the reward!"
+            ],
+            [
+                "You have received creation potions. You can use them to improve it."
+            ],
+            [
+                "Let's enhance Alon!"
+            ],
+            [
+                "Now with this creation, we can give these bandits a real beating. Launch the next wave!"
+            ],
+            [
+                "For each wave completion, you earn a special currency."
+            ],
+            [
+                "At the moment, you cannot spend it in this laboratory. To buy relics with it, you need to cover your tracks and move to a new location."
+            ],
+            [
+                "Let's move to a new place. Don't worry, all your creations will stay with you, but the progress in this laboratory will be lost."
+            ],
+            [
+                "Now you have enough special currency to buy a new relic!"
+            ],
+            [
+                "Here's the first relic! Ha-ha-ha."
+            ],
+            [
+                "Come in, choose... buy!"
+            ],
+            [
+                "Thinking of moving?"
+            ],
+            [
+                "Start a wave"
+            ],
+            [
+                "Open"
+            ],
+            [
+                "Tap to continue"
+            ],
+            [
+                "Assign"
+            ],
+            [
+                "Crush"
+            ],
+            [
+                "High technology"
+            ],
+            [
+                "Heal from nagging"
+            ],
+            [
+                "Fighting spirit"
+            ],
+            [
+                "Stench"
+            ],
+            [
+                "Water pressure"
+            ],
+            [
+                "Cute trap"
+            ],
+            [
+                "Sensible solution"
+            ],
+            [
+                "Rewind the video"
+            ],
+            [
+                "Critical hit"
+            ],
+            [
+                "Extra hand"
+            ],
+            [
+                "Prudent skill"
+            ],
+            [
+                "Swift scratches"
+            ],
+            [
+                "Mental attack"
+            ],
+            [
+                "Tricky tricks"
+            ],
+            [
+                "Vampirism"
+            ],
+            [
+                "Tomb secrets"
+            ],
+            [
+                "Part-time detective work"
+            ],
+            [
+                "Attacks all enemies in the room at once"
+            ],
+            [
+                "Increases all touch damage by X"
+            ],
+            [
+                "Every 3 seconds restores all creatures"
+            ],
+            [
+                "Increases damage of all creatures by"
+            ],
+            [
+                "Inflicts damage to all enemies in the room"
+            ],
+            [
+                "When used, deals damage to all enemies"
+            ],
+            [
+                "Stuns all enemies for "
+            ],
+            [
+                "Increases the income of all gold by X"
+            ],
+            [
+                "increases the speed of income in the rooms by X"
+            ],
+            [
+                "every 3 attacks inflicts X"
+            ],
+            [
+                "Increases touch damage in the room by X"
+            ],
+            [
+                "Takes 50% less damage"
+            ],
+            [
+                "Attacks all enemies at once"
+            ],
+            [
+                "When used, deals damage to all enemies"
+            ],
+            [
+                "Reduces the movement speed of all enemies by 90% for "
+            ],
+            [
+                "With each hit restores"
+            ],
+            [
+                "Increases the income of gold in the room by X"
+            ],
+            [
+                "Instantly gives "
+            ],
+            [
+                "damage! [color=#00e1ff] Restoration 60 seconds [/color]"
+            ],
+            [
+                "gold"
+            ],
+            [
+                "health"
+            ],
+            [
+                "units"
+            ],
+            [
+                "damage once every 2 seconds"
+            ],
+            [
+                "seconds [color=#00e1ff] Restoration 60 seconds [/color]"
+            ],
+            [
+                "damage"
+            ],
+            [
+                "health"
+            ],
+            [
+                "Earn"
+            ],
+            [
+                "Complete to"
+            ],
+            [
+                "Upgrade any creature to"
+            ],
+            [
+                "Spin the roulette"
+            ],
+            [
+                "Open"
+            ],
+            [
+                "Get"
+            ],
+            [
+                "Earn"
+            ],
+            [
+                "Upgrade any room to"
+            ],
+            [
+                "Waves"
+            ],
+            [
+                "Level"
+            ],
+            [
+                "times"
+            ],
+            [
+                "chests"
+            ],
+            [
+                "creatures"
+            ],
+            [
+                "special currency"
+            ],
+            [
+                "Reward"
+            ],
+            [
+                "Legendary"
+            ],
+            [
+                "Epic"
+            ],
+            [
+                "Normal"
+            ],
+            [
+                "Mega"
+            ],
+            [
+                "Hyper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Shreder"
+            ],
+            [
+                "Octopus"
+            ],
+            [
+                "Scorpnaga"
+            ],
+            [
+                "Ryder"
+            ],
+            [
+                "Stinkey"
+            ],
+            [
+                "Shark"
+            ],
+            [
+                "Wuff"
+            ],
+            [
+                "AquaBrain"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Machete"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Oculus"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Mumcyclo"
+            ],
+            [
+                "Razorwolf"
+            ],
+            [
+                "improve"
+            ],
+            [
+                "lvl"
+            ],
+            [
+                "improvement"
+            ],
+            [
+                "With each wave, we attract stronger and stronger bandits to our laboratory, and sometimes it's worth moving to a new location to cover our tracks. After the move, you will receive accumulated special currency, as well as reset all progress in the current laboratory. Don't worry, your creatures will stay with you!"
+            ],
+            [
+                "Receive when moving:"
+            ],
+            [
+                "Move"
+            ],
+            [
+                "Buy"
+            ],
+            [
+                "Move"
+            ],
+            [
+                "Waves passed"
+            ],
+            [
+                "Lab income"
+            ],
+            [
+                "Total earned"
+            ],
+            [
+                "Victory"
+            ],
+            [
+                "Defeat"
+            ],
+            [
+                "You were robbed:"
+            ],
+            [
+                "Spin for ads"
+            ],
+            [
+                "For ads"
+            ],
+            [
+                "Watch"
+            ],
+            [
+                "Ad break for a reward!"
+            ],
+            [
+                "respawn"
+            ],
+            [
+                "Beyond"
+            ],
+            [
+                "of players"
+            ],
+            [
+                "Max."
+            ],
+            [
+                "Welcome back!"
+            ],
+            [
+                "Pick up"
+            ],
+            [
+                "While you were away, the lab started working"
+            ],
+            [
+                "Pick up x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "испанский"
+            ],
+            [
+                "Felicidades!"
+            ],
+            [
+                "¡Inténtalo de nuevo!"
+            ],
+            [
+                "Siguiente"
+            ],
+            [
+                "Saltar"
+            ],
+            [
+                "Cargando..."
+            ],
+            [
+                "Recompensas diarias"
+            ],
+            [
+                "Obtener"
+            ],
+            [
+                "Día"
+            ],
+            [
+                "Recepción"
+            ],
+            [
+                "Vestuario"
+            ],
+            [
+                "Departamento Técnico"
+            ],
+            [
+                "Zona de Cuarentena"
+            ],
+            [
+                "Degustación de pociones"
+            ],
+            [
+                "Enfermería"
+            ],
+            [
+                "Sala de Generadores"
+            ],
+            [
+                "Taller de Pruebas"
+            ],
+            [
+                "Almacén"
+            ],
+            [
+                "Laboratorio"
+            ],
+            [
+                "Habilidad Pasiva"
+            ],
+            [
+                "Habilidad Activa"
+            ],
+            [
+                "Gratis en"
+            ],
+            [
+                "Libre"
+            ],
+            [
+                "giro gratuito"
+            ],
+            [
+                "Girar por 10"
+            ],
+            [
+                "Comprar"
+            ],
+            [
+                "Aumenta todos los ingresos"
+            ],
+            [
+                "Aumenta el daño por toque"
+            ],
+            [
+                "Acelera los ingresos en las habitaciones"
+            ],
+            [
+                "Aumenta el daño de las criaturas"
+            ],
+            [
+                "Aumenta la salud de las criaturas"
+            ],
+            [
+                "¡Hola! ¿Eres el nuevo director de la corporación del mal? Soy tu principal alquimista y te ayudaré a entender."
+            ],
+            [
+                "Acabamos de mudarnos a un nuevo lugar para cubrir nuestras huellas. Construyamos la primera habitación."
+            ],
+            [
+                "Esta habitación nos generará ingresos y aumentará el daño por contacto a los enemigos dentro de ella."
+            ],
+            [
+                "Es importante asegurar la protección de la habitación, coloquemos una criatura en guardia."
+            ],
+            [
+                "Alon será útil para defendernos de un par de bandidos."
+            ],
+            [
+                "¿Por qué necesitamos protección? Tenemos equipos costosos y desarrollos secretos que todos quieren apropiarse."
+            ],
+            [
+                "¡Lo sabía! Los bandidos nos han encontrado de nuevo. ¡Defendamos nuestro laboratorio!"
+            ],
+            [
+                "¡Tócalos para infligir daño!"
+            ],
+            [
+                "Como es habitual, después de cada ola recibirás un cofre del tesoro, jeje. ¡Cuanto más fuerte sea la ola, mayor será la recompensa!"
+            ],
+            [
+                "Has obtenido pociones de creación. Se pueden usar para mejorarla."
+            ],
+            [
+                "¡Vamos a mejorar a Alon!"
+            ],
+            [
+                "Ahora, con esta criatura, podremos hacer una verdadera matanza con esos bandidos. ¡Lanza la siguiente ola!"
+            ],
+            [
+                "Por cada paso de una ola, obtienes una moneda especial."
+            ],
+            [
+                "Actualmente, no puedes gastarla en este laboratorio. Para comprar reliquias con ella, necesitas cubrir tus huellas y mudarte a un nuevo lugar."
+            ],
+            [
+                "¡Vamos a mudarnos a un nuevo lugar! No te preocupes, todas tus criaturas permanecerán contigo, pero el progreso en este laboratorio se perderá."
+            ],
+            [
+                "Ahora tienes suficiente moneda especial para comprar una nueva reliquia."
+            ],
+            [
+                "¡Aquí tienes la primera reliquia! Ja-ja-ja."
+            ],
+            [
+                "Entra, elige, compra."
+            ],
+            [
+                "¿Estás pensando en mudarte?"
+            ],
+            [
+                "Iniciar ola"
+            ],
+            [
+                "Abrir"
+            ],
+            [
+                "Toca para continuar"
+            ],
+            [
+                "Designar"
+            ],
+            [
+                "Aplastar"
+            ],
+            [
+                "Tecnología avanzada"
+            ],
+            [
+                "Curación por toque"
+            ],
+            [
+                "Espíritu de lucha"
+            ],
+            [
+                "Hedor"
+            ],
+            [
+                "Embiste acuático"
+            ],
+            [
+                "Trampa encantadora"
+            ],
+            [
+                "Decisión inteligente"
+            ],
+            [
+                "Rebobinar video"
+            ],
+            [
+                "Ataque crítico"
+            ],
+            [
+                "Mano adicional"
+            ],
+            [
+                "Habilidad precavida"
+            ],
+            [
+                "Raspas rápidas"
+            ],
+            [
+                "Ataque mental"
+            ],
+            [
+                "Trucos pegajosos"
+            ],
+            [
+                "Vampirismo"
+            ],
+            [
+                "Secretos de las tumbas"
+            ],
+            [
+                "Trabajo de detective"
+            ],
+            [
+                "Ataca a todos los enemigos en la habitación"
+            ],
+            [
+                "Aumenta todo el daño por contacto X"
+            ],
+            [
+                "Restaura a todas las criaturas cada 3 segundos"
+            ],
+            [
+                "Aumenta el daño de todas las criaturas en"
+            ],
+            [
+                "Inflige a todos los enemigos en la habitación"
+            ],
+            [
+                "Al ser usado, inflige a todos los enemigos"
+            ],
+            [
+                "Aturde a todos los enemigos durante"
+            ],
+            [
+                "Aumenta los ingresos de todo el oro X"
+            ],
+            [
+                "Aumenta la velocidad de obtención en las habitaciones X"
+            ],
+            [
+                "Cada 3 ataques inflige X"
+            ],
+            [
+                "Aumenta el daño por contacto en la habitación X"
+            ],
+            [
+                "Recibe un 50% menos de daño"
+            ],
+            [
+                "Ataca a todos los enemigos de inmediato"
+            ],
+            [
+                "Al ser usado, inflige a todos los enemigos"
+            ],
+            [
+                "Reduce la velocidad de movimiento de todos los enemigos en un 90% durante"
+            ],
+            [
+                "En cada golpe restaura"
+            ],
+            [
+                "Aumenta los ingresos de oro en la habitación X"
+            ],
+            [
+                "Da instantáneamente"
+            ],
+            [
+                "Daño! [color=#00e1ff] Recuperación en 60 segundos  [/color] "
+            ],
+            [
+                "oro"
+            ],
+            [
+                "pts. de vida"
+            ],
+            [
+                "pts."
+            ],
+            [
+                "de daño cada 2 segundos"
+            ],
+            [
+                "seg. [color=#00e1ff] Recuperación en 60 segundos  [/color] "
+            ],
+            [
+                "de daño"
+            ],
+            [
+                "pts. de vida"
+            ],
+            [
+                "Gana"
+            ],
+            [
+                "Avanza hasta"
+            ],
+            [
+                "Mejora cualquier criatura hasta"
+            ],
+            [
+                "Gira la ruleta"
+            ],
+            [
+                "Abre"
+            ],
+            [
+                "Obtén"
+            ],
+            [
+                "Gana"
+            ],
+            [
+                "Mejora cualquier habitación hasta"
+            ],
+            [
+                "Nivel"
+            ],
+            [
+                "Ola"
+            ],
+            [
+                "de"
+            ],
+            [
+                "cofres"
+            ],
+            [
+                "Crear"
+            ],
+            [
+                "moneda especial"
+            ],
+            [
+                "Recompensa"
+            ],
+            [
+                "Legendario"
+            ],
+            [
+                "Épico"
+            ],
+            [
+                "Común"
+            ],
+            [
+                "Mega"
+            ],
+            [
+                "Hiper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Crusher"
+            ],
+            [
+                "Pulpo"
+            ],
+            [
+                "Escornagante"
+            ],
+            [
+                "Jinete"
+            ],
+            [
+                "Apestoso"
+            ],
+            [
+                "Tiburón"
+            ],
+            [
+                "Yapper"
+            ],
+            [
+                "Cerebro Acuático"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Machete"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Oculus"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Ciclo Mumm"
+            ],
+            [
+                "Lobo Devastador"
+            ],
+            [
+                "mejorar"
+            ],
+            [
+                "nivel"
+            ],
+            [
+                "mejora"
+            ],
+            [
+                "Con cada oleada, atraemos a nuestra guarida a bandas cada vez más fuertes y, a veces, para cubrir nuestras huellas, vale la pena mudarse a un lugar nuevo. Después de la mudanza, obtendrás la moneda especial acumulada y también reiniciarás todo tu progreso en la guarida actual. ¡No te preocupes, tus creaciones permanecerán contigo!"
+            ],
+            [
+                "Recibirás al mudarte:"
+            ],
+            [
+                "Moverse"
+            ],
+            [
+                "Comprar"
+            ],
+            [
+                "Mudanza"
+            ],
+            [
+                "Oleadas superadas"
+            ],
+            [
+                "Ingresos de la guarida"
+            ],
+            [
+                "Total ganado"
+            ],
+            [
+                "Victoria"
+            ],
+            [
+                "Derrota"
+            ],
+            [
+                "Fuiste robado:"
+            ],
+            [
+                "Girar por publicidad"
+            ],
+            [
+                "Por la publicidad"
+            ],
+            [
+                "Ver"
+            ],
+            [
+                "¡Pausa publicitaria a cambio de recompensa!"
+            ],
+            [
+                "Resucitar"
+            ],
+            [
+                "Más allá que"
+            ],
+            [
+                "jugadores"
+            ],
+            [
+                "Máx."
+            ],
+            [
+                "¡Bienvenido de vuelta!"
+            ],
+            [
+                "Recoger"
+            ],
+            [
+                "Mientras no estabas, la guarida ganó"
+            ],
+            [
+                "Recoger x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "португальский"
+            ],
+            [
+                "Parabéns!"
+            ],
+            [
+                "Tente novamente!"
+            ],
+            [
+                "Próximo"
+            ],
+            [
+                "Pular"
+            ],
+            [
+                "Carregando..."
+            ],
+            [
+                "Recompensas diárias"
+            ],
+            [
+                "Obter"
+            ],
+            [
+                "Dia"
+            ],
+            [
+                "Recepção"
+            ],
+            [
+                "Vestiário"
+            ],
+            [
+                "Departamento Técnico"
+            ],
+            [
+                "Zona de Quarentena"
+            ],
+            [
+                "Degustação de poções"
+            ],
+            [
+                "Posto Médico"
+            ],
+            [
+                "Sala de Geradores"
+            ],
+            [
+                "Oficina de Testes"
+            ],
+            [
+                "Armazém"
+            ],
+            [
+                "Laboratório"
+            ],
+            [
+                "Habilidade Passiva"
+            ],
+            [
+                "Habilidade Ativa"
+            ],
+            [
+                "Grátis em"
+            ],
+            [
+                "Grátis"
+            ],
+            [
+                "giro grátis"
+            ],
+            [
+                "Girar por 10"
+            ],
+            [
+                "Comprar"
+            ],
+            [
+                "Zwiększa wszystkie przychody"
+            ],
+            [
+                "Zwiększa obrażenia z dotknięć"
+            ],
+            [
+                "Przyspiesza przychody w pokojach"
+            ],
+            [
+                "Zwiększa obrażenia od stworzeń"
+            ],
+            [
+                "Zwiększa zdrowie stworzeń"
+            ],
+            [
+                "Cześć! Jesteś nowym dyrektorem korporacji zła? Jestem twój główny alchemik i pomogę ci zrozumieć."
+            ],
+            [
+                "Właśnie przeprowadziliśmy się na nowe miejsce, aby zacierać ślady. Postawmy pierwszy pokój."
+            ],
+            [
+                "Ten pokój będzie generował dla nas dochód, a także zwiększy obrażenia od dotyku wrogów w nim."
+            ],
+            [
+                "Ważne jest zapewnienie ochrony pokoju, postawimy stworzenie na wartę."
+            ],
+            [
+                "Alon przyda się do obrony przed paroma bandytami."
+            ],
+            [
+                "Po co nam ochrona? Posiadamy drogą sprzęt i tajne opracowania, którymi chcą się wszystkie zainteresować."
+            ],
+            [
+                "Wiedziałem! Bandytów znowu nas znaleźli. Bronmy nasze laboratorium!"
+            ],
+            [
+                "Dotknij ich, aby zadać obrażenia!"
+            ],
+            [
+                "Jak zawsze, po każdej fali dostaniesz skrzynkę z skarbami, hehe. Im silniejsza fala, tym większa nagroda!"
+            ],
+            [
+                "Zdobyłeś mikstury twórcze. Można je wykorzystać do ich ulepszenia."
+            ],
+            [
+                "Ulepszmy Alona!"
+            ],
+            [
+                "Teraz, z takim stworzeniem, możemy urządzić tym bandytom prawdziwy rzeź. Wprowadź kolejną falę!"
+            ],
+            [
+                "Za każdą fale otrzymujesz specjalną walutę."
+            ],
+            [
+                "Obecnie nie możesz jej wydać w tym laboratorium. Aby kupić za nią relikty, musisz zacierać ślady i przenieść się na nowe miejsce."
+            ],
+            [
+                "Przenieśmy się na nowe miejsce. Nie martw się, wszystkie twoje stworzenia zostaną z tobą, a postęp w tym laboratorium będzie utracony."
+            ],
+            [
+                "Teraz masz wystarczająco specjalnej waluty, aby kupić nowy relikwiarz!"
+            ],
+            [
+                "Oto pierwszy relikwiarz! Ha-ha-ha."
+            ],
+            [
+                "Wejdź, wybierz, kup!"
+            ],
+            [
+                "Zamierzasz się przeprowadzić?"
+            ],
+            [
+                "Zacznij falę"
+            ],
+            [
+                "Otwórz"
+            ],
+            [
+                "Dotknij, aby kontynuować"
+            ],
+            [
+                "Przydzielić"
+            ],
+            [
+                "Zgnieść"
+            ],
+            [
+                "Zaawansowana technologia"
+            ],
+            [
+                "Leczenie z dotyku"
+            ],
+            [
+                "Duch walki"
+            ],
+            [
+                "Smród"
+            ],
+            [
+                "Atak wodny"
+            ],
+            [
+                "Urocza pułapka"
+            ],
+            [
+                "Rozsądne rozwiązanie"
+            ],
+            [
+                "Przewiń wideo"
+            ],
+            [
+                "Krytyczne uderzenie"
+            ],
+            [
+                "Dodatkowa ręka"
+            ],
+            [
+                "Ostrożna umiejętność"
+            ],
+            [
+                "Szybkie zadrapania"
+            ],
+            [
+                "Atak umysłowy"
+            ],
+            [
+                "Lekka podstawa"
+            ],
+            [
+                "To jest podstawa."
+            ],
+            [
+                "Segredos das tumbas"
+            ],
+            [
+                "Trabalho de detetive"
+            ],
+            [
+                "Ataca imediatamente todos os inimigos na sala"
+            ],
+            [
+                "Aumenta todo o dano por toque X"
+            ],
+            [
+                "Restaura a todas as criaturas a cada 3 segundos"
+            ],
+            [
+                "Aumenta o dano de todas as criaturas em"
+            ],
+            [
+                "Inflige a todos os inimigos na sala"
+            ],
+            [
+                "Ao ser usado, inflige a todos os inimigos"
+            ],
+            [
+                "Deixa todos os inimigos estonteantes por"
+            ],
+            [
+                "Aumenta a receita de todo o ouro X"
+            ],
+            [
+                "Aumenta a velocidade de ganho nas salas X"
+            ],
+            [
+                "Cada 3 ataques inflige X"
+            ],
+            [
+                "Aumenta o dano por toque na sala X"
+            ],
+            [
+                "Recebe 50% menos de dano"
+            ],
+            [
+                "Ataca imediatamente todos os inimigos"
+            ],
+            [
+                "Ao ser usado, inflige a todos os inimigos"
+            ],
+            [
+                "Reduz a velocidade de movimento de todos os inimigos em 90% durante"
+            ],
+            [
+                "Em cada golpe, restaura"
+            ],
+            [
+                "Aumenta a receita de ouro na sala X"
+            ],
+            [
+                "Dá instantaneamente"
+            ],
+            [
+                "Dano! [color=#00e1ff] Recuperação em 60 segundos  [/color] "
+            ],
+            [
+                "ouro"
+            ],
+            [
+                "pts. de vida"
+            ],
+            [
+                "pts."
+            ],
+            [
+                "de dano a cada 2 segundos"
+            ],
+            [
+                "seg. [color=#00e1ff] Recuperação em 60 segundos  [/color] "
+            ],
+            [
+                "de dano"
+            ],
+            [
+                "pts. de vida"
+            ],
+            [
+                "Ganhe"
+            ],
+            [
+                "Avance até"
+            ],
+            [
+                "Melhore qualquer criatura até"
+            ],
+            [
+                "Gire a roleta"
+            ],
+            [
+                "Abra"
+            ],
+            [
+                "Obtenha"
+            ],
+            [
+                "Ganhe"
+            ],
+            [
+                "Aprimore qualquer sala até"
+            ],
+            [
+                "Onda"
+            ],
+            [
+                "Nível"
+            ],
+            [
+                "vez"
+            ],
+            [
+                "baús"
+            ],
+            [
+                "Criar"
+            ],
+            [
+                "moeda especial"
+            ],
+            [
+                "Recompensa"
+            ],
+            [
+                "Lendário"
+            ],
+            [
+                "Épico"
+            ],
+            [
+                "Comum"
+            ],
+            [
+                "Mega"
+            ],
+            [
+                "Hiper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Esmagador"
+            ],
+            [
+                "Polvo"
+            ],
+            [
+                "Escorpinagante"
+            ],
+            [
+                "Cavaleiro"
+            ],
+            [
+                "Fedorento"
+            ],
+            [
+                "Tubarão"
+            ],
+            [
+                "Yapper"
+            ],
+            [
+                "Cérebro Aquático"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Machete"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Óculos"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Mumm Ciclo"
+            ],
+            [
+                "Lobo Devastador"
+            ],
+            [
+                "melhorar"
+            ],
+            [
+                "nível"
+            ],
+            [
+                "melhoria"
+            ],
+            [
+                "A cada onda, atraímos para nossa guarida bandidos cada vez mais fortes e, às vezes, para encobrir nossas pegadas, vale a pena mudar para um lugar novo. Após a mudança, você receberá a moeda especial acumulada e também reiniciará todo o seu progresso na guarida atual. Não se preocupe, suas criações permanecerão com você!"
+            ],
+            [
+                "Receber ao mudar:"
+            ],
+            [
+                "Mover"
+            ],
+            [
+                "Comprar"
+            ],
+            [
+                "Mudança"
+            ],
+            [
+                "Ondas superadas"
+            ],
+            [
+                "Renda da guarida"
+            ],
+            [
+                "Total ganho"
+            ],
+            [
+                "Vitória"
+            ],
+            [
+                "Derrota"
+            ],
+            [
+                "Você foi roubado"
+            ],
+            [
+                "Girar por publicidade"
+            ],
+            [
+                "Pela publicidade"
+            ],
+            [
+                "Assistir"
+            ],
+            [
+                "Pausa publicitária em troca de recompensa!"
+            ],
+            [
+                "Ressuscitar"
+            ],
+            [
+                "Mais do que"
+            ],
+            [
+                "jogadores"
+            ],
+            [
+                "Máx."
+            ],
+            [
+                "Bem-vindo de volta!"
+            ],
+            [
+                "Coletar"
+            ],
+            [
+                "Enquanto você estava fora, a guarida ganhou"
+            ],
+            [
+                "Coletar x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "турецкий"
+            ],
+            [
+                "Tebrikler!"
+            ],
+            [
+                "Tekrar dene!"
+            ],
+            [
+                "Sonraki"
+            ],
+            [
+                "Atla"
+            ],
+            [
+                "Yükleniyor..."
+            ],
+            [
+                "Günlük ödüller"
+            ],
+            [
+                "Al"
+            ],
+            [
+                "Gün"
+            ],
+            [
+                "Resepsiyon"
+            ],
+            [
+                "Soyunma odası"
+            ],
+            [
+                "Teknik Departman"
+            ],
+            [
+                "Karantina Bölgesi"
+            ],
+            [
+                "İksir tadımı"
+            ],
+            [
+                "Sağlık Noktası"
+            ],
+            [
+                "Jeneratör Odası"
+            ],
+            [
+                "Test Atölyesi"
+            ],
+            [
+                "Depo"
+            ],
+            [
+                "Laboratuvar"
+            ],
+            [
+                "Pasif Yetenek"
+            ],
+            [
+                "Aktif Yetenek"
+            ],
+            [
+                "Ücretsiz olarak"
+            ],
+            [
+                "Ücretsiz"
+            ],
+            [
+                "bedava dönüş"
+            ],
+            [
+                "10 için döndür"
+            ],
+            [
+                "Satın al"
+            ],
+            [
+                "Tüm geliri artırır"
+            ],
+            [
+                "Dokunmatik hasarı artırır"
+            ],
+            [
+                "Odalardaki geliri hızlandırır"
+            ],
+            [
+                "Yaratıkların hasarını artırır"
+            ],
+            [
+                "Yaratıkların sağlığını artırır"
+            ],
+            [
+                "Merhaba! Kötülük şirketinin yeni yöneticisi misin? Ben senin baş alkimistine ve seni anlamanıza yardımcı olacağım."
+            ],
+            [
+                "İzleri silmek için yeni bir yere taşındık. İlk odayı inşa edelim."
+            ],
+            [
+                "Bu oda bize gelir sağlayacak ve aynı zamanda içindeki düşmanlara dokunarak hasarını artıracak."
+            ],
+            [
+                "Oda korumasının sağlanması önemlidir, bir yaratık yerleştirelim."
+            ],
+            [
+                "Alon, birkaç hayduttan korunmada bize yardımcı olacaktır."
+            ],
+            [
+                "Neden koruma ihtiyacımız var? Herkesin elinde olmak istediği değerli ekipmanlar ve gizli projelerimiz var."
+            ],
+            [
+                "Biliyordum! Haydutlar bizi tekrar buldular. Laboratuvarımızı savunalım!"
+            ],
+            [
+                "Onlara dokunarak hasar verin!"
+            ],
+            [
+                "Her dalgadan sonra bir hazine sandığı alacaksınız, hehe. Dalga ne kadar güçlüyse, ödül o kadar büyük olacaktır!"
+            ],
+            [
+                "Yaratık karışıkları kazandınız. Onu geliştirmek için kullanabilirsiniz."
+            ],
+            [
+                "Alon'u yükseltelim!"
+            ],
+            [
+                "Şimdi, bu yaratıkla, bu haydutlara gerçek bir katliam yapabiliriz. Bir sonraki dalgayı başlat!"
+            ],
+            [
+                "Her dalga geçişinizde özel bir para birimi alırsınız."
+            ],
+            [
+                "Şu anda bu laboratuvarda harcamıyorsunuz. Onunla almak için izleri silmeniz ve yeni bir yere taşınmanız gerekecek."
+            ],
+            [
+                "Yeni bir yere taşınalım! Endişelenme, tüm yaratıkların seninle kalacak, ancak bu laboratuvardaki ilerleme kaybolacak."
+            ],
+            [
+                "Şimdi yeni bir relik satın almak için yeterli özel paranız var!"
+            ],
+            [
+                "İşte ilk relik! Ha-ha-ha."
+            ],
+            [
+                "Gir, seç, satın al!"
+            ],
+            [
+                "Taşınmayı mı düşünüyorsun?"
+            ],
+            [
+                "Dalgayı başlat"
+            ],
+            [
+                "Aç"
+            ],
+            [
+                "Devam etmek için dokun"
+            ],
+            [
+                "Atamak"
+            ],
+            [
+                "Ezmek"
+            ],
+            [
+                "Yüksek teknoloji"
+            ],
+            [
+                "Dokunmatik iyileşme"
+            ],
+            [
+                "Savaş ruhu"
+            ],
+            [
+                "Koku"
+            ],
+            [
+                "Su saldırısı"
+            ],
+            [
+                "Tatlı tuzağı"
+            ],
+            [
+                "Mantıklı karar"
+            ],
+            [
+                "Videoyu geri sarma"
+            ],
+            [
+                "Kritik vuruş"
+            ],
+            [
+                "Ekstra el"
+            ],
+            [
+                "Dikkatli yetenek"
+            ],
+            [
+                "Hızlı çizikler"
+            ],
+            [
+                "Zihinsel saldırı"
+            ],
+            [
+                "Yapışkan hileler"
+            ],
+            [
+                "Vampirizm"
+            ],
+            [
+                "Mezarlarım sırları"
+            ],
+            [
+                "Dedektiflik işi"
+            ],
+            [
+                "Hemen odadaki tüm düşmanları hedef alır"
+            ],
+            [
+                "Tüm temas hasarını X artırır"
+            ],
+            [
+                "Her 3 saniyede tüm yaratıkları iyileştirir"
+            ],
+            [
+                "Tüm yaratıkların hasarını artırır"
+            ],
+            [
+                "Odada bulunan tüm düşmanları etkiler"
+            ],
+            [
+                "Kullanıldığında, tüm düşmanlara zarar verir"
+            ],
+            [
+                "Tüm düşmanları sersemletir"
+            ],
+            [
+                "Tüm altın gelirini X artırır"
+            ],
+            [
+                "Odalardaki kazanç hızını X artırır"
+            ],
+            [
+                "Her 3 saldırı X hasar verir"
+            ],
+            [
+                "Odadaki temas hasarını X artırır"
+            ],
+            [
+                "Yüzde 50 daha az hasar alır"
+            ],
+            [
+                "Hemen tüm düşmanlara saldırır"
+            ],
+            [
+                "Kullanıldığında, tüm düşmanlara zarar verir"
+            ],
+            [
+                "Hareket hızını %90 azaltır"
+            ],
+            [
+                "Her vuruşta iyileştirir"
+            ],
+            [
+                "Odalardaki altın gelirini X artırır"
+            ],
+            [
+                "Anında verir"
+            ],
+            [
+                "Hasar! [color=#00e1ff] 60 saniye iyileşme  [/color] "
+            ],
+            [
+                "altın"
+            ],
+            [
+                "sağlık puanları"
+            ],
+            [
+                "hasar puanı"
+            ],
+            [
+                "her 2 saniyede bir"
+            ],
+            [
+                "sn. [color=#00e1ff] 60 saniye iyileşme  [/color] "
+            ],
+            [
+                "hasar"
+            ],
+            [
+                "sağlık puanları"
+            ],
+            [
+                "Kazan"
+            ],
+            [
+                "İlerle"
+            ],
+            [
+                "Herhangi bir yaratığı yükselt"
+            ],
+            [
+                "Rulet çevir"
+            ],
+            [
+                "Aç"
+            ],
+            [
+                "Al"
+            ],
+            [
+                "Kazan"
+            ],
+            [
+                "Herhangi bir odayı yükselt"
+            ],
+            [
+                "Dalgalar"
+            ],
+            [
+                "Seviye"
+            ],
+            [
+                "kez"
+            ],
+            [
+                "sandıklar"
+            ],
+            [
+                "Yaratmak"
+            ],
+            [
+                "özel para birimi"
+            ],
+            [
+                "Ödül"
+            ],
+            [
+                "Efsanevi"
+            ],
+            [
+                "Epik"
+            ],
+            [
+                "Normal"
+            ],
+            [
+                "Mega"
+            ],
+            [
+                "Hiper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Ezici"
+            ],
+            [
+                "Ahtapot"
+            ],
+            [
+                "Akrepbalığı"
+            ],
+            [
+                "Binici"
+            ],
+            [
+                "Kokusuz"
+            ],
+            [
+                "Köpekbalığı"
+            ],
+            [
+                "Yapper"
+            ],
+            [
+                "Su Beyni"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Machete"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Oculus"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Mumm Döngüsü"
+            ],
+            [
+                "Yırtıcı Kurt"
+            ],
+            [
+                "geliştirmek"
+            ],
+            [
+                "seviye"
+            ],
+            [
+                "gelişme"
+            ],
+            [
+                "Her dalgayla, sığınmamıza giderek daha güçlü haydutlar çekiyoruz ve bazen izlerimizi örtmek için yeni bir yere taşınmak mantıklı olabiliyor. Taşındıktan sonra biriken özel para birimini alacaksınız ve mevcut sığınaktaki tüm ilerlemenizi sıfırlayacaksınız. Endişelenmeyin, yaratımlarınız sizinle kalacak!"
+            ],
+            [
+                "Taşınırken alacaksınız:"
+            ],
+            [
+                "Taşın"
+            ],
+            [
+                "Satın al"
+            ],
+            [
+                "Taşınma"
+            ],
+            [
+                "Aşılan dalgalar"
+            ],
+            [
+                "Sığınağın geliri"
+            ],
+            [
+                "Toplam kazanılan"
+            ],
+            [
+                "Zafer"
+            ],
+            [
+                "Yenilgi"
+            ],
+            [
+                "Soyulmuşsunuz:"
+            ],
+            [
+                "Reklam için döndür"
+            ],
+            [
+                "Reklam için"
+            ],
+            [
+                "İzle"
+            ],
+            [
+                "Ödül karşılığında reklam arası!"
+            ],
+            [
+                "Dirilt"
+            ],
+            [
+                "Daha ötede"
+            ],
+            [
+                "oyunculardan"
+            ],
+            [
+                "Maks."
+            ],
+            [
+                "Hoş geldiniz!"
+            ],
+            [
+                "Al"
+            ],
+            [
+                "Siz yokken, sığınak kazandı"
+            ],
+            [
+                "Al x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Немецкий"
+            ],
+            [
+                "Herzlichen Glückwunsch!"
+            ],
+            [
+                "Versuch es noch einmal!"
+            ],
+            [
+                "Nächster"
+            ],
+            [
+                "Überspringen"
+            ],
+            [
+                "Wird geladen..."
+            ],
+            [
+                "Tägliche Belohnungen"
+            ],
+            [
+                "Erhalten"
+            ],
+            [
+                "Tag"
+            ],
+            [
+                "Rezeption"
+            ],
+            [
+                "Umkleideraum"
+            ],
+            [
+                "Technische Abteilung"
+            ],
+            [
+                "Quarantänebereich"
+            ],
+            [
+                "Verkostung von Zaubertränken"
+            ],
+            [
+                "Krankenstation"
+            ],
+            [
+                "Generatorraum"
+            ],
+            [
+                "Testwerkstatt"
+            ],
+            [
+                "Lager"
+            ],
+            [
+                "Labor"
+            ],
+            [
+                "Passive Fähigkeit"
+            ],
+            [
+                "Aktive Fähigkeit"
+            ],
+            [
+                "Kostenlos über"
+            ],
+            [
+                "Kostenlos"
+            ],
+            [
+                "kostenloser Spin"
+            ],
+            [
+                "Für 10 drehen"
+            ],
+            [
+                "Kaufen"
+            ],
+            [
+                "Erhöht alle Einnahmen"
+            ],
+            [
+                "Erhöht den Berührungsschaden"
+            ],
+            [
+                "Beschleunigt die Einnahmen in den Räumen"
+            ],
+            [
+                "Erhöht den Schaden der Kreaturen"
+            ],
+            [
+                "Erhöht die Gesundheit der Kreaturen"
+            ],
+            [
+                "Hallo! Bist du der neue Geschäftsführer des bösen Unternehmens? Ich bin dein Hauptalchemist und werde dir helfen, es zu verstehen."
+            ],
+            [
+                "Wir sind gerade umgezogen, um alle Spuren zu verwischen. Lass uns den ersten Raum bauen."
+            ],
+            [
+                "Der Raum wird uns Einnahmen bringen und auch den Schaden erhöhen, den Feinde in ihm durch Berührung erleiden."
+            ],
+            [
+                "Es ist wichtig, den Raum zu schützen, lassen wir eine Kreatur postieren."
+            ],
+            [
+                "Alon wird nützlich sein, um uns vor ein paar Banditen zu schützen."
+            ],
+            [
+                "Warum brauchen wir Schutz? Wir haben teure Ausrüstung und geheime Entwicklungen, die alle wollen."
+            ],
+            [
+                "Ich wusste es! Die Banditen haben uns wieder gefunden. Verteidigen wir unser Labor!"
+            ],
+            [
+                "Berühre sie, um Schaden zuzufügen!"
+            ],
+            [
+                "Nach jeder Welle erhältst du eine Schatztruhe, haha. Je stärker die Welle, desto größer die Belohnung!"
+            ],
+            [
+                "Du hast Schöpfungstränke erhalten. Du kannst sie verwenden, um sie zu verbessern."
+            ],
+            [
+                "Lass uns Alon verbessern!"
+            ],
+            [
+                "Jetzt können wir mit einer solchen Kreatur diesen Banditen wirklich einheizen. Lass die nächste Welle beginnen!"
+            ],
+            [
+                "Für jede Welle erhältst du eine spezielle Währung."
+            ],
+            [
+                "Derzeit kannst du sie nicht in diesem Labor ausgeben. Um Relikte damit zu kaufen, musst du die Spuren verwischen und an einen neuen Ort ziehen."
+            ],
+            [
+                "Lass uns an einen neuen Ort ziehen! Keine Sorge, alle deine Kreaturen bleiben bei dir, aber der Fortschritt in diesem Labor wird verloren gehen."
+            ],
+            [
+                "Du hast jetzt genug spezielle Währung, um ein neues Relikt zu kaufen!"
+            ],
+            [
+                "Hier ist das erste Relikt! Ha-ha-ha."
+            ],
+            [
+                "Komm rein, wähle aus, kaufe ein!"
+            ],
+            [
+                "Möchtest du umziehen?"
+            ],
+            [
+                "Welle starten"
+            ],
+            [
+                "Öffnen"
+            ],
+            [
+                "Berühren, um fortzufahren"
+            ],
+            [
+                "Zuweisen"
+            ],
+            [
+                "Zerdrücken"
+            ],
+            [
+                "Hochtechnologie"
+            ],
+            [
+                "Heilung durch Berührung"
+            ],
+            [
+                "Kampfgeist"
+            ],
+            [
+                "Gestank"
+            ],
+            [
+                "Wasserangriff"
+            ],
+            [
+                "Niedliche Falle"
+            ],
+            [
+                "Kluger Entschluss"
+            ],
+            [
+                "Video zurückspulen"
+            ],
+            [
+                "Kritischer Treffer"
+            ],
+            [
+                "Zusätzliche Hand"
+            ],
+            [
+                "Vorsichtige Fähigkeit"
+            ],
+            [
+                "Schnelle Kratzer"
+            ],
+            [
+                "Mentaler Angriff"
+            ],
+            [
+                "Listige Tricks"
+            ],
+            [
+                "Vampirismus"
+            ],
+            [
+                "Grabgeheimnisse"
+            ],
+            [
+                "Detektivarbeit"
+            ],
+            [
+                "Greift sofort alle Feinde im Raum an"
+            ],
+            [
+                "Erhöht jeden Berührungsschaden X"
+            ],
+            [
+                "Stellt alle Kreaturen alle 3 Sekunden wieder her"
+            ],
+            [
+                "Erhöht den Schaden aller Kreaturen um"
+            ],
+            [
+                "Fügt allen Feinden im Raum Schaden zu"
+            ],
+            [
+                "Fügt bei Verwendung allen Feinden Schaden zu"
+            ],
+            [
+                "Betäubt alle Feinde für "
+            ],
+            [
+                "Erhöht das Einkommen aller Gold X"
+            ],
+            [
+                "Erhöht die Geschwindigkeit des Erwerbs in den Räumen X"
+            ],
+            [
+                "Jeder 3. Angriff fügt X zu"
+            ],
+            [
+                "Erhöht den Berührungsschaden im Raum X"
+            ],
+            [
+                "Erleidet 50% weniger Schaden"
+            ],
+            [
+                "Greift sofort alle Feinde an"
+            ],
+            [
+                "Fügt bei Verwendung allen Feinden Schaden zu"
+            ],
+            [
+                "Reduziert die Bewegungsgeschwindigkeit aller Feinde um 90% für "
+            ],
+            [
+                "Stellt bei jedem Schlag wieder her"
+            ],
+            [
+                "Erhöht das Gold-Einkommen im Raum X"
+            ],
+            [
+                "Gibt sofort"
+            ],
+            [
+                "Schaden! [color=#00e1ff] Erholung in 60 Sekunden  [/color] "
+            ],
+            [
+                "Gold"
+            ],
+            [
+                "Lebenspunkte"
+            ],
+            [
+                "Schaden"
+            ],
+            [
+                "alle 2 Sekunden"
+            ],
+            [
+                "Sek. [color=#00e1ff] Erholung in 60 Sekunden  [/color] "
+            ],
+            [
+                "Schaden"
+            ],
+            [
+                "Lebenspunkte"
+            ],
+            [
+                "Verdiene"
+            ],
+            [
+                "Erreiche"
+            ],
+            [
+                "Verbessere eine Kreatur auf"
+            ],
+            [
+                "Roulette drehen"
+            ],
+            [
+                "Öffnen"
+            ],
+            [
+                "Bekommen"
+            ],
+            [
+                "Verdiene"
+            ],
+            [
+                "Verbessere einen Raum auf"
+            ],
+            [
+                "Wellen"
+            ],
+            [
+                "Stufe"
+            ],
+            [
+                "Mal"
+            ],
+            [
+                "Truhen"
+            ],
+            [
+                "Erstellen"
+            ],
+            [
+                "Sondereinheit"
+            ],
+            [
+                "Belohnung"
+            ],
+            [
+                "Legendär"
+            ],
+            [
+                "Episch"
+            ],
+            [
+                "Gewöhnlich"
+            ],
+            [
+                "Mega"
+            ],
+            [
+                "Hyper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Zerkleinerer"
+            ],
+            [
+                "Krake"
+            ],
+            [
+                "Skorpionfisch"
+            ],
+            [
+                "Reiter"
+            ],
+            [
+                "Stinker"
+            ],
+            [
+                "Hai"
+            ],
+            [
+                "Kläffer"
+            ],
+            [
+                "Wassergehirn"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Machete"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Oculus"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Mummzyklus"
+            ],
+            [
+                "Zerfleischer"
+            ],
+            [
+                "verbessern"
+            ],
+            [
+                "Stufe"
+            ],
+            [
+                "Verbesserung"
+            ],
+            [
+                "Mit jeder Welle locken wir immer stärkere Banditen in unsere Höhle und manchmal lohnt es sich, um Spuren zu verwischen, an einen neuen Ort zu ziehen. Nach dem Umzug erhalten Sie die angesammelte spezielle Währung und setzen auch alle Fortschritte in der aktuellen Höhle zurück. Machen Sie sich keine Sorgen, Ihre Kreationen bleiben bei Ihnen!"
+            ],
+            [
+                "Erhalten Sie beim Umzug:"
+            ],
+            [
+                "Umziehen"
+            ],
+            [
+                "Kaufen"
+            ],
+            [
+                "Umzug"
+            ],
+            [
+                "Überwundene Wellen"
+            ],
+            [
+                "Einkommen aus der Höhle"
+            ],
+            [
+                "Insgesamt verdient"
+            ],
+            [
+                "Sieg"
+            ],
+            [
+                "Niederlage"
+            ],
+            [
+                "Sie wurden ausgeraubt:"
+            ],
+            [
+                "Für Werbung drehen"
+            ],
+            [
+                "Für Werbung"
+            ],
+            [
+                "Ansehen"
+            ],
+            [
+                "Werbepause gegen Belohnung!"
+            ],
+            [
+                "Wiederbeleben"
+            ],
+            [
+                "Weiter als"
+            ],
+            [
+                "Spieler"
+            ],
+            [
+                "Max."
+            ],
+            [
+                "Willkommen zurück!"
+            ],
+            [
+                "Abholen"
+            ],
+            [
+                "Während Sie weg waren, hat die Höhle verdient"
+            ],
+            [
+                "Abholen x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Французский"
+            ],
+            [
+                "Félicitations !"
+            ],
+            [
+                "Essayer à nouveau !"
+            ],
+            [
+                "Suivant"
+            ],
+            [
+                "Passer"
+            ],
+            [
+                "Chargement en cours..."
+            ],
+            [
+                "Récompenses quotidiennes"
+            ],
+            [
+                "Obtenir"
+            ],
+            [
+                "Jour"
+            ],
+            [
+                "Réception"
+            ],
+            [
+                "Vestiaire"
+            ],
+            [
+                "Service technique"
+            ],
+            [
+                "Zone de quarantaine"
+            ],
+            [
+                "Dégustation de potions"
+            ],
+            [
+                "Point médical"
+            ],
+            [
+                "Salle des générateurs"
+            ],
+            [
+                "Atelier de test"
+            ],
+            [
+                "Entrepôt"
+            ],
+            [
+                "Laboratoire"
+            ],
+            [
+                "Compétence passive"
+            ],
+            [
+                "Compétence active"
+            ],
+            [
+                "Gratuit via"
+            ],
+            [
+                "Gratuit"
+            ],
+            [
+                "tour gratuit"
+            ],
+            [
+                "Tourner pour 10"
+            ],
+            [
+                "Acheter"
+            ],
+            [
+                "Augmente tous les revenus"
+            ],
+            [
+                "Augmente les dégâts au toucher"
+            ],
+            [
+                "Accélère les revenus dans les chambres"
+            ],
+            [
+                "Augmente les dégâts des créatures"
+            ],
+            [
+                "Augmente la santé des créatures"
+            ],
+            [
+                "Salut ! Es-tu le nouveau directeur de la corporation maléfique ? Je suis ton principal alchimiste et je vais t'aider à comprendre."
+            ],
+            [
+                "Nous venons de déménager dans un nouvel endroit pour effacer nos traces. Construisons la première pièce."
+            ],
+            [
+                "Cette pièce nous apportera des revenus et augmentera également les dégâts de contact aux ennemis à l'intérieur."
+            ],
+            [
+                "Il est important de protéger la pièce, mettons une créature en garde."
+            ],
+            [
+                "Alon sera utile pour nous défendre contre quelques bandits."
+            ],
+            [
+                "Pourquoi avons-nous besoin de protection ? Nous avons des équipements coûteux et des développements secrets que tout le monde veut s'approprier."
+            ],
+            [
+                "Je le savais ! Les bandits nous ont encore trouvés. Défendons notre laboratoire !"
+            ],
+            [
+                "Touchez-les pour leur infliger des dégâts !"
+            ],
+            [
+                "Comme d'habitude, après chaque vague, vous recevrez un coffre au trésor, haha. Plus la vague est forte, plus la récompense est grande !"
+            ],
+            [
+                "Vous avez obtenu des potions de création. Vous pouvez les utiliser pour l'améliorer."
+            ],
+            [
+                "Améliorons Alon !"
+            ],
+            [
+                "Maintenant, avec une telle créature, nous pourrons vraiment faire un carnage de ces bandits. Lancez la prochaine vague !"
+            ],
+            [
+                "Pour chaque passage d'une vague, vous obtenez une monnaie spéciale."
+            ],
+            [
+                "Actuellement, vous ne pouvez pas la dépenser dans ce laboratoire. Pour acheter des reliques avec elle, vous devez effacer vos traces et déménager à un nouvel endroit."
+            ],
+            [
+                "Déménageons dans un nouvel endroit ! Ne vous inquiétez pas, toutes vos créatures resteront avec vous, mais le progrès dans ce laboratoire sera perdu."
+            ],
+            [
+                "Maintenant, vous avez suffisamment de monnaie spéciale pour acheter une nouvelle relique !"
+            ],
+            [
+                "Voici la première relique ! Ha-ha-ha."
+            ],
+            [
+                "Entrez, choisissez, achetez !"
+            ],
+            [
+                "Envisagez-vous de déménager ?"
+            ],
+            [
+                "Démarrer la vague"
+            ],
+            [
+                "Ouvrir"
+            ],
+            [
+                "Touchez pour continuer"
+            ],
+            [
+                "Assigner"
+            ],
+            [
+                "Écraser"
+            ],
+            [
+                "Haute technologie"
+            ],
+            [
+                "Soins du toucher"
+            ],
+            [
+                "Esprit de combat"
+            ],
+            [
+                "Puanteur"
+            ],
+            [
+                "Attaque aquatique"
+            ],
+            [
+                "Piège mignon"
+            ],
+            [
+                "Décision judicieuse"
+            ],
+            [
+                "Rembobiner la vidéo"
+            ],
+            [
+                "Coup critique"
+            ],
+            [
+                "Main supplémentaire"
+            ],
+            [
+                "Compétence prudente"
+            ],
+            [
+                "Griffes rapides"
+            ],
+            [
+                "Attaque mentale"
+            ],
+            [
+                "Tours malins"
+            ],
+            [
+                "Vampirisme"
+            ],
+            [
+                "Les secrets des tombes"
+            ],
+            [
+                "Travail de détective"
+            ],
+            [
+                "Attaque immédiatement tous les ennemis dans la pièce"
+            ],
+            [
+                "Augmente tout les dégâts de contact X"
+            ],
+            [
+                "Restaure toutes les créatures toutes les 3 secondes"
+            ],
+            [
+                "Augmente les dégâts de toutes les créatures de"
+            ],
+            [
+                "Inflige à tous les ennemis dans la salle"
+            ],
+            [
+                "En étant utilisé, inflige à tous les ennemis"
+            ],
+            [
+                "Etourdit tous les ennemis pour"
+            ],
+            [
+                "Augmente les revenus de tout l'or X"
+            ],
+            [
+                "Augmente la vitesse de gain dans les pièces X"
+            ],
+            [
+                "Chaque 3 attaques inflige X"
+            ],
+            [
+                "Augmente les dégâts de contact dans la pièce X"
+            ],
+            [
+                "Reçoit 50% de dégâts en moins"
+            ],
+            [
+                "Attaque immédiatement tous les ennemis"
+            ],
+            [
+                "En étant utilisé, inflige à tous les ennemis"
+            ],
+            [
+                "Réduit la vitesse de déplacement de tous les ennemis de 90% pour"
+            ],
+            [
+                "À chaque coup, restaure"
+            ],
+            [
+                "Augmente les revenus en or dans la pièce X"
+            ],
+            [
+                "Donne instantanément"
+            ],
+            [
+                "Dommages ! [color=#00e1ff] Récupération en 60 secondes  [/color] "
+            ],
+            [
+                "or"
+            ],
+            [
+                "points de vie"
+            ],
+            [
+                "points de dommages"
+            ],
+            [
+                "toutes les 2 secondes"
+            ],
+            [
+                "sec. [color=#00e1ff] Récupération en 60 secondes  [/color] "
+            ],
+            [
+                "dommages"
+            ],
+            [
+                "points de vie"
+            ],
+            [
+                "Gagnez"
+            ],
+            [
+                "Avancez jusqu'à"
+            ],
+            [
+                "Améliorez une créature à"
+            ],
+            [
+                "Faites tourner la roulette"
+            ],
+            [
+                "Ouvrir"
+            ],
+            [
+                "Recevez"
+            ],
+            [
+                "Gagnez"
+            ],
+            [
+                "Améliorez une pièce à"
+            ],
+            [
+                "Vagues"
+            ],
+            [
+                "Niveau"
+            ],
+            [
+                "fois"
+            ],
+            [
+                "coffres"
+            ],
+            [
+                "Créer"
+            ],
+            [
+                "monnaie spéciale"
+            ],
+            [
+                "Récompense"
+            ],
+            [
+                "Légendaire"
+            ],
+            [
+                "Épique"
+            ],
+            [
+                "Ordinaire"
+            ],
+            [
+                "Méga"
+            ],
+            [
+                "Hyper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Broyeur"
+            ],
+            [
+                "Poulpe"
+            ],
+            [
+                "Poisson-scorpion"
+            ],
+            [
+                "Cavalier"
+            ],
+            [
+                "Puant"
+            ],
+            [
+                "Requin"
+            ],
+            [
+                "Yapper"
+            ],
+            [
+                "Cerveau Aquatique"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Machette"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Oculus"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Cycle Mumm"
+            ],
+            [
+                "Déchireur"
+            ],
+            [
+                "améliorer"
+            ],
+            [
+                "niveau"
+            ],
+            [
+                "amélioration"
+            ],
+            [
+                "Avec chaque vague, nous attirons des bandits de plus en plus forts dans notre repaire et parfois, afin d'effacer nos traces, il vaut la peine de déménager dans un nouvel endroit. Après le déménagement, vous recevrez la monnaie spéciale accumulée et réinitialiserez également tout votre progrès dans le repaire actuel. Ne vous inquiétez pas, vos créations resteront avec vous !"
+            ],
+            [
+                "Recevoir lors du déménagement :"
+            ],
+            [
+                "Déménager"
+            ],
+            [
+                "Acheter"
+            ],
+            [
+                "Déménagement"
+            ],
+            [
+                "Vagues surmontées"
+            ],
+            [
+                "Revenu du repaire"
+            ],
+            [
+                "Total gagné"
+            ],
+            [
+                "Victoire"
+            ],
+            [
+                "Défaite"
+            ],
+            [
+                "Vous avez été volé :"
+            ],
+            [
+                "Faire tourner pour la publicité"
+            ],
+            [
+                "Pour la publicité"
+            ],
+            [
+                "Regarder"
+            ],
+            [
+                "Pause publicitaire en échange de récompense !"
+            ],
+            [
+                "Ressusciter"
+            ],
+            [
+                "Plus de"
+            ],
+            [
+                "joueurs"
+            ],
+            [
+                "Max."
+            ],
+            [
+                "Bienvenue de retour !"
+            ],
+            [
+                "Ramasser"
+            ],
+            [
+                "Pendant votre absence, le repaire a gagné"
+            ],
+            [
+                "Ramasser x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "арабский"
+            ],
+            [
+                "تهانينا!"
+            ],
+            [
+                "حاول مرة أخرى!"
+            ],
+            [
+                "التالي"
+            ],
+            [
+                "تخطى"
+            ],
+            [
+                "جار التحميل..."
+            ],
+            [
+                "مكافآت يومية"
+            ],
+            [
+                "احصل على"
+            ],
+            [
+                "يوم"
+            ],
+            [
+                "استقبال"
+            ],
+            [
+                "غرفة تغيير الملابس"
+            ],
+            [
+                "القسم الفني"
+            ],
+            [
+                "منطقة الحجر الصحي"
+            ],
+            [
+                "تذوق الجرعات"
+            ],
+            [
+                "العيادة"
+            ],
+            [
+                "غرفة المولدات"
+            ],
+            [
+                "ورشة الاختبار"
+            ],
+            [
+                "مستودع"
+            ],
+            [
+                "مختبر"
+            ],
+            [
+                "مهارة سلبية"
+            ],
+            [
+                "مهارة نشطة"
+            ],
+            [
+                "مجانا عبر"
+            ],
+            [
+                "مجانا"
+            ],
+            [
+                "دورة مجانية"
+            ],
+            [
+                "تدوير لمدة 10"
+            ],
+            [
+                "شراء"
+            ],
+            [
+                "يزيد جميع الإيرادات"
+            ],
+            [
+                "يزيد الضرر من اللمس"
+            ],
+            [
+                "يسرع الدخل في الغرف"
+            ],
+            [
+                "يزيد ضرر المخلوقات"
+            ],
+            [
+                "يزيد صحة المخلوقات"
+            ],
+            [
+                "مرحبًا! هل أنت المدير الجديد لشركة الشر الشريرة؟ أنا الكيميائي الأول لديك وسأساعدك على فهم الأمور."
+            ],
+            [
+                "لقد انتقلنا للتو إلى مكان جديد لمسح الآثار. دعونا نبني أول غرفة."
+            ],
+            [
+                "ستجلب لنا هذه الغرفة دخلاً، كما أنها ستزيد الضرر من اللمس للأعداء بداخلها."
+            ],
+            [
+                "من المهم تأمين الحماية للغرفة، لنضع مخلوقًا في الخدمة."
+            ],
+            [
+                "ستكون \"ألون\" مفيدة للدفاع ضد عدد قليل من اللصوص."
+            ],
+            [
+                "لماذا نحتاج إلى الحماية؟ لدينا معدات ثمينة وتطويرات سرية يرغب الجميع في الاستيلاء عليها."
+            ],
+            [
+                "كنت أعلم! لقد وجد اللصوص طريقهم إلينا مرة أخرى. دعونا ندافع عن مختبرنا!"
+            ],
+            [
+                "اضغط عليهم لتسبب الضرر!"
+            ],
+            [
+                "كما هو معتاد، بعد كل موجة، ستحصل على صندوق كنز، ههه. كلما كانت الموجة أقوى، زادت الجائزة!"
+            ],
+            [
+                "لقد حصلت على مشروبات خلط الإنشاء. يمكنك استخدامها لتحسينها."
+            ],
+            [
+                "لنقم بتحسين \"ألون\"!"
+            ],
+            [
+                "الآن، مع مثل هذا المخلوق، يمكننا فعلًا إحداث كارثة مع هؤلاء اللصوص. دعنا نبدأ الموجة التالية!"
+            ],
+            [
+                "عن كل مرور لموجة ستحصل على عملة خاصة."
+            ],
+            [
+                "في الوقت الحالي، لا يمكنك صرفها في هذا المختبر. لشراء الأثار بها، يجب أن تقوم بمسح الآثار والانتقال إلى مكان جديد."
+            ],
+            [
+                "دعنا ننتقل إلى مكان جديد! لا تقلق، ستبقى جميع مخلوقاتك معك، ولكن سيضيع التقدم في هذا المعمل."
+            ],
+            [
+                "الآن، لديك ما يكفي من العملة الخاصة لشراء أثر جديد!"
+            ],
+            [
+                "ها هي الأثر الأولى! هه-هه-هه."
+            ],
+            [
+                "انضم، اختر، اشتر!"
+            ],
+            [
+                "هل تفكر في الانتقال؟"
+            ],
+            [
+                "بدء الموجة"
+            ],
+            [
+                "افتح"
+            ],
+            [
+                "اضغط للمتابعة"
+            ],
+            [
+                "تعيين"
+            ],
+            [
+                "سحق"
+            ],
+            [
+                "تكنولوجيا متقدمة"
+            ],
+            [
+                "الشفاء من اللمس"
+            ],
+            [
+                "روح القتال"
+            ],
+            [
+                "رائحة كريهة"
+            ],
+            [
+                "هجوم مائي"
+            ],
+            [
+                "فخ ساحر"
+            ],
+            [
+                "قرار ذكي"
+            ],
+            [
+                "إعادة تشغيل الفيديو"
+            ],
+            [
+                "ضربة حاسمة"
+            ],
+            [
+                "يد إضافية"
+            ],
+            [
+                "مهارة حذرة"
+            ],
+            [
+                "خدوش سريعة"
+            ],
+            [
+                "هجوم عقلي"
+            ],
+            [
+                "حيل ملتصقة"
+            ],
+            [
+                "تنمر"
+            ],
+            [
+                "أسرار القبور"
+            ],
+            [
+                "عمل المُحقّق"
+            ],
+            [
+                "يهاجم فورًا جميع الأعداء في الغرفة"
+            ],
+            [
+                "يزيد كل الضرر من اللمس X"
+            ],
+            [
+                "يعيد جميع المخلوقات كل 3 ثوانٍ"
+            ],
+            [
+                "يزيد الضرر لجميع المخلوقات بـ"
+            ],
+            [
+                "يصيب جميع الأعداء في الغرفة"
+            ],
+            [
+                "عند الاستخدام، يصيب جميع الأعداء"
+            ],
+            [
+                "يُصدِّ جميع الأعداء لمدة"
+            ],
+            [
+                "يزيد من دخل كل الذهب X"
+            ],
+            [
+                "يزيد سرعة الحصول في الغرف بـ X"
+            ],
+            [
+                "كل 3 هجوم يصيب بـ X"
+            ],
+            [
+                "يزيد الضرر من اللمس في الغرفة X"
+            ],
+            [
+                "يستقبل 50% أقل ضررًا"
+            ],
+            [
+                "يهاجم فورًا جميع الأعداء"
+            ],
+            [
+                "عند الاستخدام، يصيب جميع الأعداء"
+            ],
+            [
+                "يُقلل سرعة حركة جميع الأعداء بنسبة 90% لمدة"
+            ],
+            [
+                "عند كل ضربة، يُعيد"
+            ],
+            [
+                "يزيد من دخل الذهب في الغرفة X"
+            ],
+            [
+                "يمنح على الفور"
+            ],
+            [
+                "ضرر! [color=#00e1ff] استعادة في 60 ثانية  [/color] "
+            ],
+            [
+                "ذهب"
+            ],
+            [
+                "نقاط الصحة"
+            ],
+            [
+                "نقاط الضرر"
+            ],
+            [
+                "كل 2 ثانية"
+            ],
+            [
+                "ثانية [color=#00e1ff] استعادة في 60 ثانية  [/color] "
+            ],
+            [
+                "ضرر"
+            ],
+            [
+                "نقاط الصحة"
+            ],
+            [
+                "اكتسب"
+            ],
+            [
+                "انتقل إلى"
+            ],
+            [
+                "قم بتحسين أي مخلوق إلى"
+            ],
+            [
+                "ادورة الروليت"
+            ],
+            [
+                "افتح"
+            ],
+            [
+                "احصل على"
+            ],
+            [
+                "اكسب"
+            ],
+            [
+                "قم بتحسين أي غرفة إلى"
+            ],
+            [
+                "موجات"
+            ],
+            [
+                "مستوى"
+            ],
+            [
+                "مرة"
+            ],
+            [
+                "صناديق"
+            ],
+            [
+                "خلق"
+            ],
+            [
+                "عملة خاصة"
+            ],
+            [
+                "مكافأة"
+            ],
+            [
+                "أسطوري"
+            ],
+            [
+                "حماسي"
+            ],
+            [
+                "عادي"
+            ],
+            [
+                "ميغا"
+            ],
+            [
+                "هايبر"
+            ],
+            [
+                "ألترا"
+            ],
+            [
+                "محطم"
+            ],
+            [
+                "أخطبوط"
+            ],
+            [
+                "سمكة العقرب"
+            ],
+            [
+                "فارس"
+            ],
+            [
+                "كريه الرائحة"
+            ],
+            [
+                "سمكة قرش"
+            ],
+            [
+                "يابر"
+            ],
+            [
+                "دماغ مائي"
+            ],
+            [
+                "فيديوس"
+            ],
+            [
+                "ماشيت"
+            ],
+            [
+                "ليفيديا"
+            ],
+            [
+                "عدسة مصراعية"
+            ],
+            [
+                "سكارليت"
+            ],
+            [
+                "إيثيروكت"
+            ],
+            [
+                "أراخنة"
+            ],
+            [
+                "آلون"
+            ],
+            [
+                "دورة موم"
+            ],
+            [
+                "ممزق"
+            ],
+            [
+                "تحسين"
+            ],
+            [
+                "مستوى"
+            ],
+            [
+                "تحسين"
+            ],
+            [
+                "مع كل موجة، نجذب عصابات أقوى إلى متسللنا وأحيانًا، من المستحسن أن ننتقل إلى مكان جديد لتمحو آثارنا. بعد التحرك، ستحصل على العملة الخاصة المتراكمة وستعيد أيضًا كل تقدمك في متسللك الحالي. لا تقلق، إبداعاتك ستبقى معك!"
+            ],
+            [
+                "ستتلقى عند التحرك:"
+            ],
+            [
+                "نقل"
+            ],
+            [
+                "شراء"
+            ],
+            [
+                "تحرك"
+            ],
+            [
+                "الموجات المتغلب عليها"
+            ],
+            [
+                "دخل المتسلل"
+            ],
+            [
+                "الإجمالي المكتسب"
+            ],
+            [
+                "نصر"
+            ],
+            [
+                "هزيمة"
+            ],
+            [
+                "لقد تعرضت للسرقة:"
+            ],
+            [
+                "استدارة للإعلان"
+            ],
+            [
+                "مقابل الإعلان"
+            ],
+            [
+                "مشاهدة"
+            ],
+            [
+                "استراحة إعلانية مقابل مكافأة!"
+            ],
+            [
+                "إحياء"
+            ],
+            [
+                "أكثر من"
+            ],
+            [
+                "لاعبين"
+            ],
+            [
+                "الحد الأقصى"
+            ],
+            [
+                "أهلا بعودتك!"
+            ],
+            [
+                "جمع"
+            ],
+            [
+                "بينما كنت بعيدًا، حققت المتسلل أرباحًا"
+            ],
+            [
+                "جمع ضرب 3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Японский"
+            ],
+            [
+                "おめでとうございます！"
+            ],
+            [
+                "もう一度やってみてください！"
+            ],
+            [
+                "次へ"
+            ],
+            [
+                "スキップ"
+            ],
+            [
+                "ロード中..."
+            ],
+            [
+                "デイリーリワード"
+            ],
+            [
+                "受け取る"
+            ],
+            [
+                "日"
+            ],
+            [
+                "レセプション"
+            ],
+            [
+                "更衣室"
+            ],
+            [
+                "テクニカル部門"
+            ],
+            [
+                "隔離区域"
+            ],
+            [
+                "ポーション試飲"
+            ],
+            [
+                "医務室"
+            ],
+            [
+                "発電室"
+            ],
+            [
+                "試験工場"
+            ],
+            [
+                "倉庫"
+            ],
+            [
+                "ラボ"
+            ],
+            [
+                "パッシブスキル"
+            ],
+            [
+                "アクティブスキル"
+            ],
+            [
+                "無料で"
+            ],
+            [
+                "無料"
+            ],
+            [
+                "無料スピン"
+            ],
+            [
+                "10回転する"
+            ],
+            [
+                "購入"
+            ],
+            [
+                "すべての収入を増やす"
+            ],
+            [
+                "接触ダメージを増やす"
+            ],
+            [
+                "部屋の収入を加速する"
+            ],
+            [
+                "クリーチャーのダメージを増やす"
+            ],
+            [
+                "クリーチャーの体力を増やす"
+            ],
+            [
+                "こんにちは！あなたは邪悪な企業の新しいディレクターですか？私はあなたの主要な錬金術師であり、あなたが理解するのを手伝います。"
+            ],
+            [
+                "私たちは跡を消すために新しい場所に引っ越したばかりです。最初の部屋を建てましょう。"
+            ],
+            [
+                "この部屋は収入をもたらし、また中の敵に接触ダメージを増やすでしょう。"
+            ],
+            [
+                "部屋を守ることは重要です、クリーチャーを配置しましょう。"
+            ],
+            [
+                "アロンは数人の盗賊から身を守るのに役立ちます。"
+            ],
+            [
+                "なぜ保護が必要なのか？高価な装備と秘密の開発があり、誰もがそれを手に入れたいと考えています。"
+            ],
+            [
+                "分かっていた！盗賊たちが再び私たちを見つけました。私たちの研究所を守りましょう！"
+            ],
+            [
+                "ダメージを与えるために彼らに触れてください！"
+            ],
+            [
+                "通常どおり、各波の後に宝箱が出現します、はは。波が強いほど、報酬も大きくなります！"
+            ],
+            [
+                "クリーチャーのポーションを手に入れました。それを使って改善できます。"
+            ],
+            [
+                "アロンをアップグレードしましょう！"
+            ],
+            [
+                "さて、このクリーチャーがいると、これらの盗賊に本当の殺戮を与えることができます。次の波を発生させましょう！"
+            ],
+            [
+                "それぞれの波の通過に特別な通貨を獲得します。"
+            ],
+            [
+                "現時点では、この研究所でそれを使うことはできません。それを使用して遺物を購入するには、跡を消し、新しい場所に移動する必要があります。"
+            ],
+            [
+                "新しい場所に移動しましょう！心配しないで、すべてのクリーチャーはあなたと一緒にいるでしょうが、この研究所の進捗は失われます。"
+            ],
+            [
+                "今、新しい遺物を購入するに十分な特別な通貨を持っています！"
+            ],
+            [
+                "はい、最初の遺物です！ははは。"
+            ],
+            [
+                "入って、選んで、買ってください！"
+            ],
+            [
+                "引っ越しを検討していますか？"
+            ],
+            [
+                "波を開始する"
+            ],
+            [
+                "開く"
+            ],
+            [
+                "続行するにはタッチ"
+            ],
+            [
+                "割り当て"
+            ],
+            [
+                "砕く"
+            ],
+            [
+                "高度な技術"
+            ],
+            [
+                "タッチからの癒し"
+            ],
+            [
+                "戦闘精神"
+            ],
+            [
+                "臭い"
+            ],
+            [
+                "水攻撃"
+            ],
+            [
+                "かわいい罠"
+            ],
+            [
+                "賢明な決定"
+            ],
+            [
+                "ビデオを巻き戻す"
+            ],
+            [
+                "致命的な打撃"
+            ],
+            [
+                "追加のハンド"
+            ],
+            [
+                "用心深い能力"
+            ],
+            [
+                "速いひっかき"
+            ],
+            [
+                "メンタルアタック"
+            ],
+            [
+                "トリッキートリック"
+            ],
+            [
+                "吸血"
+            ],
+            [
+                "墓の秘密"
+            ],
+            [
+                "探偵業務"
+            ],
+            [
+                "即座に部屋のすべての敵に攻撃する"
+            ],
+            [
+                "すべてのタッチダメージをX増やします"
+            ],
+            [
+                "3秒ごとにすべての生物を回復します"
+            ],
+            [
+                "すべての生物のダメージを増やします"
+            ],
+            [
+                "部屋のすべての敵にダメージを与える"
+            ],
+            [
+                "使用すると、すべての敵にダメージを与える"
+            ],
+            [
+                "すべての敵を石鹸で"
+            ],
+            [
+                "すべてのゴールドの収入をX増やします"
+            ],
+            [
+                "部屋での収入速度をX増やします"
+            ],
+            [
+                "3つの攻撃ごとにXを与えます"
+            ],
+            [
+                "部屋のタッチダメージをX増やします"
+            ],
+            [
+                "ダメージを50%受けます"
+            ],
+            [
+                "即座にすべての敵を攻撃する"
+            ],
+            [
+                "使用すると、すべての敵にダメージを与える"
+            ],
+            [
+                "動きを90%減速させる"
+            ],
+            [
+                "各ヒットで回復します"
+            ],
+            [
+                "部屋のゴールド収入をX増やします"
+            ],
+            [
+                "即座に给与します"
+            ],
+            [
+                "ダメージ！[color=#00e1ff] 60秒毎の回復  [/color]"
+            ],
+            [
+                "ゴールド"
+            ],
+            [
+                "体力ポイント"
+            ],
+            [
+                "ダメージポイント"
+            ],
+            [
+                "2秒ごとに"
+            ],
+            [
+                "秒 [color=#00e1ff] 60秒毎の回復  [/color]"
+            ],
+            [
+                "ダメージ"
+            ],
+            [
+                "体力ポイント"
+            ],
+            [
+                "獲得"
+            ],
+            [
+                "進む"
+            ],
+            [
+                "どのクリーチャーでもアップグレード"
+            ],
+            [
+                "ルーレットを回す"
+            ],
+            [
+                "開く"
+            ],
+            [
+                "取得"
+            ],
+            [
+                "ゲット"
+            ],
+            [
+                "どの部屋でもアップグレード"
+            ],
+            [
+                "波"
+            ],
+            [
+                "レベル"
+            ],
+            [
+                "回"
+            ],
+            [
+                "宝箱"
+            ],
+            [
+                "作成"
+            ],
+            [
+                "特別な通貨"
+            ],
+            [
+                "報酬"
+            ],
+            [
+                "伝説的な"
+            ],
+            [
+                "エピック"
+            ],
+            [
+                "普通"
+            ],
+            [
+                "メガ"
+            ],
+            [
+                "ハイパー"
+            ],
+            [
+                "ウルトラ"
+            ],
+            [
+                "クラッシャー"
+            ],
+            [
+                "イカ"
+            ],
+            [
+                "スコーピオンフィッシュ"
+            ],
+            [
+                "ライダー"
+            ],
+            [
+                "臭い"
+            ],
+            [
+                "サメ"
+            ],
+            [
+                "ヤッパー"
+            ],
+            [
+                "水の脳"
+            ],
+            [
+                "ヴィディウス"
+            ],
+            [
+                "マチェテ"
+            ],
+            [
+                "リヴィディア"
+            ],
+            [
+                "オクルス"
+            ],
+            [
+                "スカーレット"
+            ],
+            [
+                "エーテロクト"
+            ],
+            [
+                "アラクナ"
+            ],
+            [
+                "アロン"
+            ],
+            [
+                "マムサイクル"
+            ],
+            [
+                "デストロイヤー"
+            ],
+            [
+                "改善"
+            ],
+            [
+                "レベル"
+            ],
+            [
+                "アップグレード"
+            ],
+            [
+                "各波ごとに、より強力な盗賊たちを私たちのアジトに引き寄せ、時には足跡を消すために新しい場所に移動する価値があります。移動後には、積み上げた特別な通貨を受け取り、現在のアジトでのすべての進捗をリセットします。心配しないでください、あなたの創造物はあなたとともに残ります！"
+            ],
+            [
+                "移動時に受け取るもの："
+            ],
+            [
+                "移動"
+            ],
+            [
+                "購入"
+            ],
+            [
+                "移動"
+            ],
+            [
+                "クリアした波"
+            ],
+            [
+                "アジトからの収入"
+            ],
+            [
+                "総収入"
+            ],
+            [
+                "勝利"
+            ],
+            [
+                "敗北"
+            ],
+            [
+                "あなたは盗まれました："
+            ],
+            [
+                "広告のために回転"
+            ],
+            [
+                "広告に対して"
+            ],
+            [
+                "見る"
+            ],
+            [
+                "報酬と引き換えの広告休憩！"
+            ],
+            [
+                "復活"
+            ],
+            [
+                "より遠く"
+            ],
+            [
+                "プレイヤー"
+            ],
+            [
+                "最大"
+            ],
+            [
+                "お帰りなさい！"
+            ],
+            [
+                "収集する"
+            ],
+            [
+                "あなたがいない間、アジトは稼ぎました"
+            ],
+            [
+                "収集する x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Голландский"
+            ],
+            [
+                "Gefeliciteerd!"
+            ],
+            [
+                "Probeer opnieuw!"
+            ],
+            [
+                "Volgende"
+            ],
+            [
+                "Overslaan"
+            ],
+            [
+                "Laden..."
+            ],
+            [
+                "Dagelijkse beloningen"
+            ],
+            [
+                "Ontvangen"
+            ],
+            [
+                "Dag"
+            ],
+            [
+                "Receptie"
+            ],
+            [
+                "Kleedkamer"
+            ],
+            [
+                "Technische afdeling"
+            ],
+            [
+                "Quarantainezone"
+            ],
+            [
+                "Proeverij van toverdranken"
+            ],
+            [
+                "Medische post"
+            ],
+            [
+                "Generatorruimte"
+            ],
+            [
+                "Testatelier"
+            ],
+            [
+                "Magazijn"
+            ],
+            [
+                "Laboratorium"
+            ],
+            [
+                "Passieve vaardigheid"
+            ],
+            [
+                "Actieve vaardigheid"
+            ],
+            [
+                "Gratis via"
+            ],
+            [
+                "Gratis"
+            ],
+            [
+                "gratis spin"
+            ],
+            [
+                "Draaien voor 10"
+            ],
+            [
+                "Kopen"
+            ],
+            [
+                "Verhoogt alle inkomsten"
+            ],
+            [
+                "Verhoogt aanraakschade"
+            ],
+            [
+                "Versnelt de inkomsten in de kamers"
+            ],
+            [
+                "Verhoogt de schade van wezens"
+            ],
+            [
+                "Verhoogt de gezondheid van wezens"
+            ],
+            [
+                "Hallo! Ben jij de nieuwe directeur van het kwaadaardige bedrijf? Ik ben je hoofdalchemist en ik zal je helpen het te begrijpen."
+            ],
+            [
+                "We zijn net verhuisd naar een nieuwe plek om onze sporen uit te wissen. Laten we de eerste kamer bouwen."
+            ],
+            [
+                "Deze kamer zal ons inkomen genereren en ook de schade vergroten bij aanraking van vijanden erin."
+            ],
+            [
+                "Het is belangrijk om de kamer te beschermen, laten we een wezen inzetten."
+            ],
+            [
+                "Alon zal van pas komen om ons te beschermen tegen een stel bandieten."
+            ],
+            [
+                "Waarom hebben we beveiliging nodig? We hebben dure apparatuur en geheime ontwikkelingen die iedereen wil bemachtigen."
+            ],
+            [
+                "Ik wist het wel! De bandieten hebben ons weer gevonden. Laten we ons laboratorium verdedigen!"
+            ],
+            [
+                "Raak ze aan om schade te doen!"
+            ],
+            [
+                "Na elke golf krijg je een schatkist met schatten, haha. Hoe sterker de golf, hoe groter de beloning!"
+            ],
+            [
+                "Je hebt wezenscheuren gekregen. Je kunt ze gebruiken om het te verbeteren."
+            ],
+            [
+                "Laten we Alon upgraden!"
+            ],
+            [
+                "Nu, met zo'n wezen, kunnen we die bandieten echt aanpakken. Start de volgende golf!"
+            ],
+            [
+                "Voor elke golfloop ontvang je speciale valuta."
+            ],
+            [
+                "Op dit moment kun je het niet uitgeven in dit laboratorium. Om met het teken te kopen, moet u uw sporen uitwissen en verhuizen naar een nieuwe locatie."
+            ],
+            [
+                "Laten we naar een nieuwe plek verhuizen! Maak je geen zorgen, al je wezens blijven bij je, maar de voortgang in dit laboratorium gaat verloren."
+            ],
+            [
+                "Je hebt nu genoeg speciale valuta om een nieuwe relikwie te kopen!"
+            ],
+            [
+                "Hier is de eerste relikwie! Ha-ha-ha."
+            ],
+            [
+                "Kom binnen, kies, koop!"
+            ],
+            [
+                "Ben je van plan te verhuizen?"
+            ],
+            [
+                "Start golf"
+            ],
+            [
+                "Open"
+            ],
+            [
+                "Tik om door te gaan"
+            ],
+            [
+                "Toewijzen"
+            ],
+            [
+                "Verpletteren"
+            ],
+            [
+                "Hoge technologie"
+            ],
+            [
+                "Heal from touch"
+            ],
+            [
+                "Fighting spirit"
+            ],
+            [
+                "Stank"
+            ],
+            [
+                "Wateraanval"
+            ],
+            [
+                "Leuke valstrik"
+            ],
+            [
+                "Verstandige beslissing"
+            ],
+            [
+                "Video terugspoelen"
+            ],
+            [
+                "Kritieke hit"
+            ],
+            [
+                "Extra hand"
+            ],
+            [
+                "Voorzichtige vaardigheid"
+            ],
+            [
+                "Snelle krabben"
+            ],
+            [
+                "Mentale aanval"
+            ],
+            [
+                "Plakkerige trucs"
+            ],
+            [
+                "Vampirisme"
+            ],
+            [
+                "Geheimen van de graven"
+            ],
+            [
+                "Detectivewerk"
+            ],
+            [
+                "Valt onmiddellijk alle vijanden in de kamer aan"
+            ],
+            [
+                "Verhoogt alle schade door aanraking X"
+            ],
+            [
+                "Herstelt alle wezens elke 3 seconden"
+            ],
+            [
+                "Verhoogt de schade van alle wezens met"
+            ],
+            [
+                "Veroorzaakt schade aan alle vijanden in de kamer"
+            ],
+            [
+                "Bij gebruik, schade toebrengen aan alle vijanden"
+            ],
+            [
+                "Verdooft alle vijanden gedurende"
+            ],
+            [
+                "Verhoogt het inkomen van al het goud X"
+            ],
+            [
+                "Verhoogt de snelheid van verdienen in de kamers X"
+            ],
+            [
+                "Elke 3 aanvallen veroorzaken X"
+            ],
+            [
+                "Verhoogt de schade door aanraking in de kamer X"
+            ],
+            [
+                "Ontvangt 50% minder schade"
+            ],
+            [
+                "Valt onmiddellijk alle vijanden aan"
+            ],
+            [
+                "Bij gebruik, schade toebrengen aan alle vijanden"
+            ],
+            [
+                "Verlaagt de bewegingssnelheid van alle vijanden met 90% gedurende"
+            ],
+            [
+                "Bij elke klap herstellen"
+            ],
+            [
+                "Verhoogt het goudinkomen in de kamer X"
+            ],
+            [
+                "Geeft direct"
+            ],
+            [
+                "Schade! [color=#00e1ff] Herstel elke 60 seconden  [/color]"
+            ],
+            [
+                "goud"
+            ],
+            [
+                "levenspunten"
+            ],
+            [
+                "schadepunten"
+            ],
+            [
+                "elke 2 seconden"
+            ],
+            [
+                "sec. [color=#00e1ff] Herstel elke 60 seconden  [/color]"
+            ],
+            [
+                "schade"
+            ],
+            [
+                "levenspunten"
+            ],
+            [
+                "Verdien"
+            ],
+            [
+                "Ga naar"
+            ],
+            [
+                "Upgrade een wezen naar"
+            ],
+            [
+                "Draai aan het rad"
+            ],
+            [
+                "Open"
+            ],
+            [
+                "Krijg"
+            ],
+            [
+                "Verdien"
+            ],
+            [
+                "Upgrade een kamer naar"
+            ],
+            [
+                "Golven"
+            ],
+            [
+                "Niveau"
+            ],
+            [
+                "keer"
+            ],
+            [
+                "kisten"
+            ],
+            [
+                "Creëren"
+            ],
+            [
+                "speciale valuta"
+            ],
+            [
+                "Beloning"
+            ],
+            [
+                "Legendarisch"
+            ],
+            [
+                "Episch"
+            ],
+            [
+                "Gewoon"
+            ],
+            [
+                "Mega"
+            ],
+            [
+                "Hyper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Verpletteraar"
+            ],
+            [
+                "Octopus"
+            ],
+            [
+                "Schorpioenvis"
+            ],
+            [
+                "Ruiter"
+            ],
+            [
+                "Stinker"
+            ],
+            [
+                "Haai"
+            ],
+            [
+                "Yapper"
+            ],
+            [
+                "Waterbrein"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Machete"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Oculus"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Mumm Cycle"
+            ],
+            [
+                "Vernietiger"
+            ],
+            [
+                "verbeteren"
+            ],
+            [
+                "niveau"
+            ],
+            [
+                "verbetering"
+            ],
+            [
+                "Met elke golf lokken we steeds sterkere bandieten naar ons hol en soms is het de moeite waard om naar een nieuwe plek te verhuizen om onze sporen uit te wissen. Na de verhuizing ontvang je de opgebouwde speciale valuta en reset je ook al je voortgang in het huidige hol. Maak je geen zorgen, je creaties blijven bij je!"
+            ],
+            [
+                "Ontvangen bij het verhuizen:"
+            ],
+            [
+                "Verhuizen"
+            ],
+            [
+                "Kopen"
+            ],
+            [
+                "Verhuizing"
+            ],
+            [
+                "Opgeloste golven"
+            ],
+            [
+                "Inkomen van het hol"
+            ],
+            [
+                "Totaal verdiend"
+            ],
+            [
+                "Overwinning"
+            ],
+            [
+                "Nederlaag"
+            ],
+            [
+                "Je bent beroofd:"
+            ],
+            [
+                "Draaien voor advertenties"
+            ],
+            [
+                "Voor advertenties"
+            ],
+            [
+                "Kijken"
+            ],
+            [
+                "Adempauze in ruil voor beloning!"
+            ],
+            [
+                "Opleven"
+            ],
+            [
+                "Verder dan"
+            ],
+            [
+                "spelers"
+            ],
+            [
+                "Max."
+            ],
+            [
+                "Welkom terug!"
+            ],
+            [
+                "Ophalen"
+            ],
+            [
+                "Terwijl je weg was, verdiende het hol"
+            ],
+            [
+                "Ophalen x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Польский"
+            ],
+            [
+                "Gratulacje!"
+            ],
+            [
+                "Spróbuj ponownie!"
+            ],
+            [
+                "Następny"
+            ],
+            [
+                "Pomiń"
+            ],
+            [
+                "Ładowanie..."
+            ],
+            [
+                "Codzienne nagrody"
+            ],
+            [
+                "Odbierz"
+            ],
+            [
+                "Dzień"
+            ],
+            [
+                "Recepcja"
+            ],
+            [
+                "Szatnia"
+            ],
+            [
+                "Dział Techniczny"
+            ],
+            [
+                "Strefa kwarantanny"
+            ],
+            [
+                "Degustacja eliksirów"
+            ],
+            [
+                "Punk medyczny"
+            ],
+            [
+                "Sala generatorów"
+            ],
+            [
+                "Warsztat testowy"
+            ],
+            [
+                "Magazyn"
+            ],
+            [
+                "Laboratorium"
+            ],
+            [
+                "Umiejętność pasywna"
+            ],
+            [
+                "Umiejętność aktywna"
+            ],
+            [
+                "Darmowe przez"
+            ],
+            [
+                "Darmowe"
+            ],
+            [
+                "darmowy spin"
+            ],
+            [
+                "Obróć za 10"
+            ],
+            [
+                "Kup"
+            ],
+            [
+                "Zwiększa wszystkie przychody"
+            ],
+            [
+                "Zwiększa obrażenia z dotknięć"
+            ],
+            [
+                "Przyspiesza przychody w pokojach"
+            ],
+            [
+                "Zwiększa obrażenia stworzeń"
+            ],
+            [
+                "Zwiększa zdrowie stworzeń"
+            ],
+            [
+                "Cześć! Jesteś nowym dyrektorem korporacji zła? Jestem twój główny alchemik i pomogę ci zrozumieć."
+            ],
+            [
+                "Właśnie przeprowadziliśmy się na nowe miejsce, aby zacierać ślady. Postawmy pierwszy pokój."
+            ],
+            [
+                "Ta komnata będzie generować dla nas dochód, a także zwiększy obrażenia od dotyku do wrogów w niej."
+            ],
+            [
+                "Ważne jest zapewnienie ochrony komnacie, postawimy stworzenie w gotowości."
+            ],
+            [
+                "Alon będzie użyteczny do obrony przed paroma bandytami."
+            ],
+            [
+                "Dlaczego mamy potrzebę ochrony? Mamy drogą sprzęt i sekretne rozwinięcia, które wszyscy chcą zdobyć."
+            ],
+            [
+                "Wiedziałem! Bandytów znowu nas widzą. Obraniowujmy naszą laboratorium!"
+            ],
+            [
+                "Dotknij ich, aby zadawać im obrażenia!"
+            ],
+            [
+                "Jak zawsze, po każdej fali dostaniesz skrzynkę ze skarbami, hehe. Im silniejsza wala, tym większa nagroda!"
+            ],
+            [
+                "Zdobyłeś mikstury stworzenia. Możesz je wykorzystać, aby je ulepszyć."
+            ],
+            [
+                "Ulepszmy Alona!"
+            ],
+            [
+                "Teraz, z takim stworzeniem, możemy skazać bandytów na prawdziwą rzeź. Wprowadź kolejną falę!"
+            ],
+            [
+                "Зa każdym przeprowadzeniem fali otrzymujesz specjalną walutę."
+            ],
+            [
+                "Obecnie nie możesz jej wydać w tym laboratorium. Aby kupić za nią reliktów, musisz zacierać ślady i przenieść się na nowe miejsce."
+            ],
+            [
+                "Przenieśmy się na nowe miejsce. Nie martw się, wszystkie twoje stworzenia zostaną z tobą, a postęp w tym laboratorium zostanie utracony."
+            ],
+            [
+                "Teraz masz wystarczającą ilość specjalnej waluty, aby zakupić nowy relikwiarz!"
+            ],
+            [
+                "Haha, oto pierwszy relikwiarz! He-he-he."
+            ],
+            [
+                "Wejdź, wybierz, kupuj!"
+            ],
+            [
+                "Czy zdecydowałeś się przeprowadzić?"
+            ],
+            [
+                "Rozpocznij falę"
+            ],
+            [
+                "Otwórz"
+            ],
+            [
+                "Kosnij, aby kontynuować"
+            ],
+            [
+                "Przydziel"
+            ],
+            [
+                "Zmiażdżyć"
+            ],
+            [
+                "Nowoczesne technologie"
+            ],
+            [
+                "Leczenie od nagonki"
+            ],
+            [
+                "Duch walki"
+            ],
+            [
+                "Śmierć"
+            ],
+            [
+                "Napór wodny"
+            ],
+            [
+                "Słodka pułapka"
+            ],
+            [
+                "Rozsądne rozwiązanie"
+            ],
+            [
+                "Przewiń wideo"
+            ],
+            [
+                "Krytyczny cios"
+            ],
+            [
+                "Dodatkowa ręka"
+            ],
+            [
+                "Ostrożna umiejętność"
+            ],
+            [
+                "Szybkie zadrapania"
+            ],
+            [
+                "Atak mentalny"
+            ],
+            [
+                "Chytrość łapczyńska"
+            ],
+            [
+                "Wampiryzm"
+            ],
+            [
+                "Sekrety grobów"
+            ],
+            [
+                "Praca dorywcza detektywa"
+            ],
+            [
+                "Atakuje natychmiast wszystkich wrogów w pomieszczeniu"
+            ],
+            [
+                "Zwiększa cały zadawany przez dotyk X"
+            ],
+            [
+                "Co 3 sekundy przywraca wszystkim stworzeniom"
+            ],
+            [
+                "Zwiększa zadawany przez wszystkie stworzenia"
+            ],
+            [
+                "Zadaje wszystkim wrogom w pomieszczeniu "
+            ],
+            [
+                "Przy użyciu zadaje wszystkim wrogom"
+            ],
+            [
+                "Ogłusza wszystkich wrogów na "
+            ],
+            [
+                "Zwiększa całkowity dochód złota X"
+            ],
+            [
+                "Zwiększa prędkość dochodu w pomieszczeniach X"
+            ],
+            [
+                "Każde 3 ataki zadaje X"
+            ],
+            [
+                "Zwiększa zadawany przez dotyk w pomieszczeniu X"
+            ],
+            [
+                "Otrzymuje o 50% mniej obrażeń"
+            ],
+            [
+                "Atakuje natychmiast wszystkich wrogów"
+            ],
+            [
+                "Przy użyciu zadaje wszystkim wrogom"
+            ],
+            [
+                "Zmniejsza prędkość poruszania się wszystkich wrogów o 90% przez "
+            ],
+            [
+                "Przy każdym ciosie przywraca"
+            ],
+            [
+                "Zwiększa dochód złota w pomieszczeniu X"
+            ],
+            [
+                "Natychmiastowo dodaje"
+            ],
+            [
+                "Uszkodzenie! [color=#00e1ff] Odbudowa co 60 sekund  [/color]"
+            ],
+            [
+                "złoto"
+            ],
+            [
+                "punkty życia"
+            ],
+            [
+                "punkty obrażeń"
+            ],
+            [
+                "co 2 sekundy"
+            ],
+            [
+                "sek. [color=#00e1ff] Odbudowa co 60 sekund  [/color]"
+            ],
+            [
+                "obrażenia"
+            ],
+            [
+                "punkty życia"
+            ],
+            [
+                "Zarób"
+            ],
+            [
+                "Przejdź do"
+            ],
+            [
+                "Ulepsz dowolne stworzenie do"
+            ],
+            [
+                "Obróć ruletkę"
+            ],
+            [
+                "Otwórz"
+            ],
+            [
+                "Otrzymaj"
+            ],
+            [
+                "Zarób"
+            ],
+            [
+                "Ulepsz dowolny pokój do"
+            ],
+            [
+                "Fale"
+            ],
+            [
+                "Poziom"
+            ],
+            [
+                "razy"
+            ],
+            [
+                "skrzyń"
+            ],
+            [
+                "Tworzenie"
+            ],
+            [
+                "specjalna waluta"
+            ],
+            [
+                "Nagroda"
+            ],
+            [
+                "Legendarny"
+            ],
+            [
+                "Epicki"
+            ],
+            [
+                "Zwykły"
+            ],
+            [
+                "Mega"
+            ],
+            [
+                "Hiper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Rozdrabniacz"
+            ],
+            [
+                "Ośmiornica"
+            ],
+            [
+                "Ryba Skorpion"
+            ],
+            [
+                "Jeździec"
+            ],
+            [
+                "Śmierdziel"
+            ],
+            [
+                "Rekin"
+            ],
+            [
+                "Yapper"
+            ],
+            [
+                "Mózg Wodny"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Maczeta"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Oculus"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Cykl Mumm"
+            ],
+            [
+                "Niszczyciel"
+            ],
+            [
+                "ulepszać"
+            ],
+            [
+                "poziom"
+            ],
+            [
+                "ulepszenie"
+            ],
+            [
+                "Z każdą falą przyciągamy do naszej kryjówki coraz silniejszych bandytów, a czasem warto przenieść się na nowe miejsce, aby zatrzeć nasze ślady. Po przeprowadzce otrzymasz zgromadzoną specjalną walutę i zresetujesz cały swój postęp w bieżącej kryjówce. Nie martw się, twoje stworzenia zostaną z tobą!"
+            ],
+            [
+                "Otrzymasz podczas przeprowadzki:"
+            ],
+            [
+                "Przenieś"
+            ],
+            [
+                "Kupić"
+            ],
+            [
+                "Przeprowadzka"
+            ],
+            [
+                "Pokonane fale"
+            ],
+            [
+                "Dochód z kryjówki"
+            ],
+            [
+                "Razem zarobione"
+            ],
+            [
+                "Zwycięstwo"
+            ],
+            [
+                "Porażka"
+            ],
+            [
+                "Zostałeś okradziony:"
+            ],
+            [
+                "Kręcić dla reklamy"
+            ],
+            [
+                "Za reklamę"
+            ],
+            [
+                "Oglądać"
+            ],
+            [
+                "Przerwa reklamowa za nagrodę!"
+            ],
+            [
+                "Ożywienie"
+            ],
+            [
+                "Dalej niż"
+            ],
+            [
+                "gracze"
+            ],
+            [
+                "Max."
+            ],
+            [
+                "Witaj z powrotem!"
+            ],
+            [
+                "Zbierać"
+            ],
+            [
+                "Podczas twojej nieobecności, kryjówka zarobiła"
+            ],
+            [
+                "Zbierać x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "итальянский"
+            ],
+            [
+                "Congratulazioni!"
+            ],
+            [
+                "Prova ancora!"
+            ],
+            [
+                "Successivo"
+            ],
+            [
+                "Salta"
+            ],
+            [
+                "Caricamento..."
+            ],
+            [
+                "Premi giornalieri"
+            ],
+            [
+                "Ottieni"
+            ],
+            [
+                "Giorno"
+            ],
+            [
+                "Reception"
+            ],
+            [
+                "Vestitoio"
+            ],
+            [
+                "Reparto Tecnico"
+            ],
+            [
+                "Zona di quarantena"
+            ],
+            [
+                "Degustazione di pozioni"
+            ],
+            [
+                "Ambulatorio"
+            ],
+            [
+                "Sala dei generatori"
+            ],
+            [
+                "Laboratorio di prova"
+            ],
+            [
+                "Magazzino"
+            ],
+            [
+                "Laboratorio"
+            ],
+            [
+                "Abilità passiva"
+            ],
+            [
+                "Abilità attiva"
+            ],
+            [
+                "Gratis tramite"
+            ],
+            [
+                "Gratis"
+            ],
+            [
+                "gira gratuito"
+            ],
+            [
+                "Girare per 10"
+            ],
+            [
+                "Acquista"
+            ],
+            [
+                "Aumenta tutti i redditi"
+            ],
+            [
+                "Aumenta i danni da contatto"
+            ],
+            [
+                "Accelera i redditi nelle stanze"
+            ],
+            [
+                "Aumenta i danni delle creature"
+            ],
+            [
+                "Aumenta la salute delle creature"
+            ],
+            [
+                "Ciao! Sei il nuovo direttore della corporazione del male? Sono il tuo principale alchimista e ti aiuterò a capire."
+            ],
+            [
+                "Ci siamo appena trasferiti in un nuovo posto per cancellare le tracce. Costruiamo la prima stanza."
+            ],
+            [
+                "Questa stanza ci genererà reddito e aumenterà anche i danni per contatto ai nemici al suo interno."
+            ],
+            [
+                "È importante proteggere la stanza, mettiamo una creatura in guardia."
+            ],
+            [
+                "Alon sarà utile per difenderci da un paio di banditi."
+            ],
+            [
+                "Perché abbiamo bisogno di protezione? Abbiamo attrezzature costose e sviluppi segreti che tutti vogliono prendere."
+            ],
+            [
+                "Lo sapevo! I banditi ci hanno di nuovo trovato. Difendiamo il nostro laboratorio!"
+            ],
+            [
+                "Toccali per infliggere danni!"
+            ],
+            [
+                "Come al solito, dopo ogni ondata riceverai un baule del tesoro, haha. Più è forte l'onda, maggiore sarà la ricompensa!"
+            ],
+            [
+                "Hai ottenuto pozioni di creazione. Puoi usarle per migliorarle."
+            ],
+            [
+                "Miglioriamo Alon!"
+            ],
+            [
+                "Ora, con una tale creatura, possiamo veramente fare strage di quei banditi. Lanciamo la prossima ondata!"
+            ],
+            [
+                "Per ogni passaggio di un'onda, ricevi una valuta speciale."
+            ],
+            [
+                "Attualmente non puoi spendere in questo laboratorio. Per acquistare reliquie con essa, devi cancellare le traccie e trasferirti in un nuovo luogo."
+            ],
+            [
+                "Trasferiamoci in un nuovo posto! Non preoccuparti, tutte le tue creature rimarranno con te, ma il progresso in questo laboratorio andrà perso."
+            ],
+            [
+                "Ora hai abbastanza valuta speciale per acquistare una nuova reliquia!"
+            ],
+            [
+                "Ecco la prima reliquia! Ah-ah-ah."
+            ],
+            [
+                "Entra, scegli, acquista!"
+            ],
+            [
+                "Stai pensando di trasferirti?"
+            ],
+            [
+                "Inizia ondata"
+            ],
+            [
+                "Apri"
+            ],
+            [
+                "Tocca per continuare"
+            ],
+            [
+                "Assegnare"
+            ],
+            [
+                "Schicciare"
+            ],
+            [
+                "Alta tecnologia"
+            ],
+            [
+                "Cura dal tocco"
+            ],
+            [
+                "Spirito combattivo"
+            ],
+            [
+                "Puzza"
+            ],
+            [
+                "Attacco d'acqua"
+            ],
+            [
+                "Trappola carina"
+            ],
+            [
+                "Decisione saggia"
+            ],
+            [
+                "Riavvolgi video"
+            ],
+            [
+                "Colpo critico"
+            ],
+            [
+                "Mano aggiuntiva"
+            ],
+            [
+                "Abilità cauta"
+            ],
+            [
+                "Graffi veloci"
+            ],
+            [
+                "Attacco mentale"
+            ],
+            [
+                "Trucioli astuti"
+            ],
+            [
+                "Vampirismo"
+            ],
+            [
+                "Segreti delle tombe"
+            ],
+            [
+                "Lavoro secondario da detective"
+            ],
+            [
+                "Attacca tutti i nemici nella stanza simultaneamente"
+            ],
+            [
+                "Aumenta tutto il danno da contatto di X"
+            ],
+            [
+                "Ogni 3 secondi ripristina a tutti i creazioni"
+            ],
+            [
+                "Aumenta il danno di tutte le creazioni di"
+            ],
+            [
+                "Infligge a tutti i nemici nella stanza "
+            ],
+            [
+                "All'uso infligge a tutti i nemici"
+            ],
+            [
+                "Stordisce tutti i nemici per "
+            ],
+            [
+                "Aumenta il guadagno totale dell'oro di X"
+            ],
+            [
+                "Aumenta la velocità di guadagno nelle stanze di X"
+            ],
+            [
+                "Ogni 3 attacchi infligge X"
+            ],
+            [
+                "Aumenta il danno da contatto nella stanza di X"
+            ],
+            [
+                "Riceve il 50% di danno in meno"
+            ],
+            [
+                "Attacca tutti i nemici simultaneamente"
+            ],
+            [
+                "All'uso infligge a tutti i nemici"
+            ],
+            [
+                "Riduce la velocità di movimento di tutti i nemici del 90% per "
+            ],
+            [
+                "Ad ogni colpo ripristina"
+            ],
+            [
+                "Aumenta il guadagno d'oro nella stanza di X"
+            ],
+            [
+                "Concede istantaneamente"
+            ],
+            [
+                "Danno! [color=#00e1ff] Recupero ogni 60 secondi  [/color] "
+            ],
+            [
+                "oro"
+            ],
+            [
+                "punti vita"
+            ],
+            [
+                "punti danno"
+            ],
+            [
+                "ogni 2 secondi"
+            ],
+            [
+                "sec. [color=#00e1ff] Recupero ogni 60 secondi  [/color] "
+            ],
+            [
+                "danno"
+            ],
+            [
+                "punti vita"
+            ],
+            [
+                "Guadagna"
+            ],
+            [
+                "Avanza fino a"
+            ],
+            [
+                "Potenzia una creatura fino a"
+            ],
+            [
+                "Gira la roulette"
+            ],
+            [
+                "Apri"
+            ],
+            [
+                "Ottieni"
+            ],
+            [
+                "Guadagna"
+            ],
+            [
+                "Potenzia una stanza fino a"
+            ],
+            [
+                "Onde"
+            ],
+            [
+                "Livello"
+            ],
+            [
+                "volte"
+            ],
+            [
+                "cassette"
+            ],
+            [
+                "Creare"
+            ],
+            [
+                "valuta speciale"
+            ],
+            [
+                "Ricompensa"
+            ],
+            [
+                "Leggendario"
+            ],
+            [
+                "Epico"
+            ],
+            [
+                "Normale"
+            ],
+            [
+                "Mega"
+            ],
+            [
+                "Iper"
+            ],
+            [
+                "Ultra"
+            ],
+            [
+                "Frantumatore"
+            ],
+            [
+                "Polpo"
+            ],
+            [
+                "Pesce scorpione"
+            ],
+            [
+                "Cavaliere"
+            ],
+            [
+                "Puzzone"
+            ],
+            [
+                "Squalo"
+            ],
+            [
+                "Yapper"
+            ],
+            [
+                "Cervello acquatico"
+            ],
+            [
+                "Vidius"
+            ],
+            [
+                "Machete"
+            ],
+            [
+                "Lividia"
+            ],
+            [
+                "Occhiali"
+            ],
+            [
+                "Scarlett"
+            ],
+            [
+                "Etheroct"
+            ],
+            [
+                "Arachna"
+            ],
+            [
+                "Alon"
+            ],
+            [
+                "Ciclo Mumm"
+            ],
+            [
+                "Distruttore"
+            ],
+            [
+                "migliorare"
+            ],
+            [
+                "livello"
+            ],
+            [
+                "miglioramento"
+            ],
+            [
+                "Con ogni ondata attiriamo banditi sempre più forti nella nostra tana e a volte vale la pena spostarsi in un posto nuovo per cancellare le nostre tracce. Dopo il trasferimento, riceverai la valuta speciale accumulata e reimposterai anche tutto il tuo progresso nella tana attuale. Non preoccuparti, le tue creazioni rimarranno con te!"
+            ],
+            [
+                "Riceverai durante il trasferimento:"
+            ],
+            [
+                "Trasferire"
+            ],
+            [
+                "Acquistare"
+            ],
+            [
+                "Trasloco"
+            ],
+            [
+                "Onde superate"
+            ],
+            [
+                "Entrate della tana"
+            ],
+            [
+                "Totale guadagnato"
+            ],
+            [
+                "Vittoria"
+            ],
+            [
+                "Sconfitta"
+            ],
+            [
+                "Sei stato derubato:"
+            ],
+            [
+                "Girare per la pubblicità"
+            ],
+            [
+                "Per la pubblicità"
+            ],
+            [
+                "Guardare"
+            ],
+            [
+                "Pausa pubblicitaria in cambio di ricompensa!"
+            ],
+            [
+                "Risuscitare"
+            ],
+            [
+                "Oltre ai"
+            ],
+            [
+                "giocatori"
+            ],
+            [
+                "Massimo"
+            ],
+            [
+                "Benvenuto di nuovo!"
+            ],
+            [
+                "Raccogliere"
+            ],
+            [
+                "Mentre non c'eri, la tana ha guadagnato"
+            ],
+            [
+                "Raccogliere x3"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

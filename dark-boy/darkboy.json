@@ -1,0 +1,1697 @@
+{
+"skeleton": { "hash": "1iHQv3shHOLmPbmMD9DZQBuSryk", "spine": "3.6.38", "width": 916.46, "height": 773.7, "images": "./darkboy/" },
+"bones": [
+	{ "name": "root", "x": 0.75, "y": 2.08 },
+	{ "name": "Pants", "parent": "root", "length": 100, "rotation": 90.5, "x": 4.24, "y": 110.81 },
+	{ "name": "Body", "parent": "Pants", "length": 160.24, "rotation": 0.52, "x": 18.25, "y": 6.58 },
+	{ "name": "Arm", "parent": "Body", "length": 100, "rotation": -110.77, "x": 40.84, "y": 17.34 },
+	{ "name": "ArmHoldGun", "parent": "Arm", "length": 66.9, "rotation": 6.58, "x": 174.44, "y": 42.28 },
+	{ "name": "Blood", "parent": "root", "length": 155.88, "rotation": 180, "x": -77.23, "y": -4.2 },
+	{ "name": "BloodTwo", "parent": "root", "length": 155.88, "rotation": 180, "x": -119.38, "y": -3.88 },
+	{ "name": "Head", "parent": "Body", "length": 203.85, "rotation": -1.02, "x": 85.9, "y": -12.31 },
+	{ "name": "EYEONE", "parent": "Head", "length": 41.33, "x": 57.52, "y": -8.48 },
+	{ "name": "EYETWO", "parent": "Head", "length": 40.47, "x": 81.63, "y": -107.49 },
+	{ "name": "LegOne", "parent": "Pants", "length": 100, "rotation": 178.32, "x": 20.43, "y": 32.82 },
+	{ "name": "FootOne", "parent": "LegOne", "length": 47.5, "rotation": 1.98, "x": 79.02, "y": -3.06 },
+	{ "name": "HairPartOne", "parent": "Head", "length": 55.72, "rotation": 33.16, "x": 155.45, "y": 97.52 },
+	{ "name": "HairPartTwo", "parent": "Head", "length": 56.04, "rotation": 81.38, "x": 148.2, "y": 92.08 },
+	{ "name": "HealCrossEffects", "parent": "root", "length": 48.4, "x": 12.7, "y": 226.03 },
+	{ "name": "HealEffectOne", "parent": "root", "length": 102.35, "x": 9.33, "y": 224.42 },
+	{ "name": "HealEffectTwo", "parent": "root", "length": 102.35, "x": 9.33, "y": 224.42 },
+	{ "name": "HitAirEffect", "parent": "root", "length": 300.24, "rotation": 90, "x": -25.99, "y": 221.14 },
+	{ "name": "HitDownEffect", "parent": "root", "length": 236.47, "rotation": 90, "x": 282.15, "y": -1.38 },
+	{ "name": "SWORD", "parent": "ArmHoldGun", "rotation": 90.56, "x": 26.99, "y": 6.32 },
+	{
+		"name": "HitEndEffect",
+		"parent": "SWORD",
+		"length": 143.2,
+		"rotation": 91.58,
+		"x": 148.81,
+		"y": 14.22,
+		"scaleX": 1.5,
+		"scaleY": 1.5
+	},
+	{ "name": "LegTwo", "parent": "Pants", "length": 100, "rotation": 178.61, "x": 28.68, "y": -18.1 },
+	{ "name": "Mask", "parent": "root", "x": -0.75, "y": -2.08 }
+],
+"slots": [
+	{ "name": "Mask", "bone": "Mask" },
+	{ "name": "LegTwo", "bone": "LegTwo", "dark": "000000", "attachment": "LegTwo" },
+	{ "name": "Pants", "bone": "Pants", "dark": "000000", "attachment": "Pants" },
+	{ "name": "LegOne", "bone": "LegOne", "dark": "000000", "attachment": "LegOne" },
+	{ "name": "FootOne", "bone": "FootOne", "dark": "000000", "attachment": "FootOne" },
+	{ "name": "Body", "bone": "Body", "dark": "000000", "attachment": "Body" },
+	{ "name": "HitDownEffect", "bone": "HitDownEffect", "color": "ffffff00", "attachment": "HitDownEffect" },
+	{ "name": "HitEndEffect", "bone": "HitEndEffect", "color": "ffffff00", "attachment": "HitEndEffect" },
+	{ "name": "HitAirEffect", "bone": "HitAirEffect", "color": "ffffff00", "attachment": "HitAirEffect" },
+	{ "name": "Sword", "bone": "SWORD", "dark": "000000", "attachment": "Sword" },
+	{ "name": "Arm", "bone": "Arm", "dark": "000000", "attachment": "Arm" },
+	{ "name": "ArmHoldGun", "bone": "ArmHoldGun", "dark": "000000", "attachment": "ArmHoldGun" },
+	{ "name": "Head", "bone": "Head", "dark": "000000", "attachment": "Face" },
+	{ "name": "EYETWO", "bone": "EYETWO", "dark": "000000", "attachment": "EyeTwoPlaceholder" },
+	{ "name": "Nose", "bone": "Head", "dark": "000000", "attachment": "Nose" },
+	{ "name": "EYEONE", "bone": "EYEONE", "dark": "000000", "attachment": "EyeOnePlaceholder" },
+	{ "name": "HairPartTwo", "bone": "HairPartTwo", "dark": "000000", "attachment": "HairPartTwo" },
+	{ "name": "HairPartOne", "bone": "HairPartOne", "dark": "000000", "attachment": "HairPartOne" },
+	{ "name": "Hair", "bone": "Head", "dark": "000000", "attachment": "Hair" },
+	{ "name": "Blood", "bone": "Blood", "color": "ffffff00", "attachment": "Blood" },
+	{ "name": "BloodTwo", "bone": "BloodTwo", "color": "ffffff00", "attachment": "Blood" },
+	{ "name": "HitSimpleEffect", "bone": "root", "color": "ffffff00", "attachment": "HitSimpleEffect" },
+	{ "name": "HitUpEffect", "bone": "root", "color": "ffffff00", "attachment": "HitUpEffect" },
+	{ "name": "HealCrossEffects", "bone": "HealCrossEffects", "color": "ffffff00", "attachment": "HealCrossEffect" },
+	{ "name": "HealEffectOne", "bone": "HealEffectOne", "color": "ffffff00", "attachment": "HealEffect" },
+	{ "name": "HealEffectTwo", "bone": "HealEffectTwo", "color": "ffffff00", "attachment": "HealEffectTwo" }
+],
+"skins": [
+	{
+		"name" :"default",
+		"attachments": {
+			"Arm": {
+				"Arm": { "x": 82.41, "y": 18.29, "rotation": 35.05, "width": 236, "height": 150 }
+			},
+			"ArmHoldGun": {
+				"ArmHoldGun": { "x": 24.33, "y": 1.96, "rotation": 13.43, "width": 121, "height": 96 }
+			},
+			"Blood": {
+				"Blood": { "x": -8.13, "y": -3.94, "rotation": 180, "width": 384, "height": 39 }
+			},
+			"BloodTwo": {
+				"Blood": { "x": -8.14, "y": -3.3, "rotation": 180, "width": 384, "height": 39 }
+			},
+			"Body": {
+				"Body": { "x": 73.65, "y": -12.56, "rotation": -91.02, "width": 173, "height": 206 }
+			},
+			"FootOne": {
+				"FootOne": { "x": 17.45, "y": 0.17, "rotation": 89.19, "width": 90, "height": 73 }
+			},
+			"Hair": {
+				"Hair": { "x": 111.7, "rotation": -90, "width": 331, "height": 239 }
+			},
+			"HairPartOne": {
+				"HairPartOne": { "x": 24.85, "y": 2.99, "rotation": -121.66, "width": 77, "height": 76 }
+			},
+			"HairPartTwo": {
+				"HairPartTwo": { "x": 25.76, "y": -2.25, "rotation": 177.21, "width": 88, "height": 53 }
+			},
+			"Head": {
+				"Face": { "x": 72.32, "rotation": -90, "width": 271, "height": 261 }
+			},
+			"HealCrossEffects": {
+				"HealCrossEffect": { "x": -0.1, "y": 0.7, "width": 100, "height": 100 }
+			},
+			"HealEffectOne": {
+				"HealEffect": { "x": 0.5, "y": 1.62, "width": 260, "height": 261 }
+			},
+			"HealEffectTwo": {
+				"HealEffectTwo": { "width": 122, "height": 123 }
+			},
+			"HitAirEffect": {
+				"HitAirEffect": { "x": -2.37, "y": 22.21, "scaleX": 1.8, "scaleY": 1.8, "rotation": -90, "width": 427, "height": 392 }
+			},
+			"HitDownEffect": {
+				"HitDownEffect": { "x": 195.11, "y": 68.48, "scaleX": 1.5, "scaleY": 1.5, "rotation": -90, "width": 191, "height": 272 }
+			},
+			"HitEndEffect": {
+				"HitEndEffect": { "x": 72.77, "y": -3.56, "rotation": 86.33, "width": 102, "height": 175 }
+			},
+			"HitSimpleEffect": {
+				"HitSimpleEffect": { "x": 147.75, "y": 192.88, "scaleX": 2, "scaleY": 2, "rotation": -6.61, "width": 314, "height": 211 }
+			},
+			"HitUpEffect": {
+				"HitUpEffect": { "x": 258.09, "y": 289.19, "scaleX": 2, "scaleY": 2, "rotation": -1.75, "width": 152, "height": 346 }
+			},
+			"LegOne": {
+				"LegOne": { "x": 35.75, "y": -1.22, "rotation": 91.18, "width": 73, "height": 135 }
+			},
+			"LegTwo": {
+				"LegTwo": { "x": 54.24, "y": 18.08, "rotation": 90.9, "width": 104, "height": 175 }
+			},
+			"Mask": {
+				"Mask": {
+					"type": "clipping",
+					"end": "Mask",
+					"vertexCount": 4,
+					"vertices": [ -703.65, -14.82, 542.58, -14.82, 544.98, 604.71, -708.43, 604.71 ],
+					"color": "3aa0ceff"
+				}
+			},
+			"Nose": {
+				"Nose": { "x": 66.29, "y": -60.91, "rotation": -90, "width": 96, "height": 129 }
+			},
+			"Pants": {
+				"Pants": { "x": 10.37, "y": -1.54, "rotation": -94.94, "width": 120, "height": 114 }
+			},
+			"Sword": {
+				"Sword": { "x": 110.34, "y": 3.95, "rotation": -77.34, "width": 130, "height": 270 }
+			}
+		}
+	},
+	{
+		"name":"RedEyesSkin", 
+		"attachments":{
+			"EYEONE": {
+				"EyeOnePlaceholder": { "name": "EyeRedOne", "x": 4.29, "y": 1.74, "rotation": -90, "width": 85, "height": 85 }
+			},
+			"EYETWO": {
+				"EyeTwoPlaceholder": { "name": "EyeRedTwo", "x": 5.14, "y": 3.77, "rotation": -90, "width": 85, "height": 85 }
+			}
+		}
+	},
+	{
+		"name":"YellowEyesSkin", 
+		"attachments":{
+			"EYEONE": {
+				"EyeOnePlaceholder": { "name": "EyeYellowOne", "x": 4.29, "y": 1.74, "rotation": -90, "width": 85, "height": 85 }
+			},
+			"EYETWO": {
+				"EyeTwoPlaceholder": { "name": "EyeYellowTwo", "x": 5.18, "y": 3.74, "rotation": -90, "width": 85, "height": 85 }
+			}
+		}
+	},
+	{
+		"name":"PurpleEyesSkin",
+		"attachments":{ 
+			"EYEONE": {
+				"EyeOnePlaceholder": { "name": "EyePurpleOne", "x": 4.29, "y": 1.74, "rotation": -90, "width": 85, "height": 85 }
+			},
+			"EYETWO": {
+				"EyeTwoPlaceholder": { "name": "EyePurpleTwo", "x": 5.18, "y": 3.74, "rotation": -90, "width": 85, "height": 85 }
+			}
+		}
+	},
+	{
+		"name":"GreenEyesSkin",
+		"attachments":{ 
+			"EYEONE": {
+				"EyeOnePlaceholder": { "name": "EyeGreenOne", "x": 4.29, "y": 1.74, "rotation": -90, "width": 85, "height": 85 }
+			},
+			"EYETWO": {
+				"EyeTwoPlaceholder": { "name": "EyeGreenTwo", "x": 5.18, "y": 3.74, "rotation": -90, "width": 85, "height": 85 }
+			}
+		}
+	}
+],
+"events": {
+	"ClimpEvent": {},
+	"DeathEvent": {},
+	"HealEvent": {},
+	"HitEvent": {},
+	"HitGroundEvent": {},
+	"HurtEvent": {},
+	"LandingEvent": {},
+	"OpenEvent": {},
+	"SlideStepEvent": {},
+	"StepEvent": {},
+	"SwordOnGroundEvent": {}
+},
+"animations": {
+	"ClimbAnimation": {
+		"bones": {
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": 13.8 }
+				]
+			},
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 55.5 },
+					{ "time": 0.1667, "angle": 43.5 },
+					{ "time": 0.3333, "angle": 55.5 },
+					{ "time": 0.5, "angle": 43.5 },
+					{ "time": 0.6667, "angle": 55.5 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": 28.2 },
+					{ "time": 0.1667, "angle": 23.1 },
+					{ "time": 0.3333, "angle": 28.2 },
+					{ "time": 0.5, "angle": 23.1 },
+					{ "time": 0.6667, "angle": 28.2 }
+				]
+			},
+			"LegOne": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 41.42, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"LegTwo": {
+				"translate": [
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 58.85, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"HairPartTwo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 28.2 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			},
+			"HairPartOne": {
+				"translate": [
+					{ "time": 0, "x": -102.33, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.3, "name": "ClimpEvent" },
+			{ "time": 0.6333, "name": "ClimpEvent" }
+		]
+	},
+	"DeathAnimation": {
+		"slots": {
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "fffffffe" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "fffffffe" }
+				]
+			},
+			"Mask": {
+				"attachment": [
+					{ "time": 0, "name": "Mask" }
+				]
+			}
+		},
+		"bones": {
+			"LegTwo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -242.43 },
+					{ "time": 0.3333, "angle": -272.73 },
+					{ "time": 0.4333, "angle": -299.27 },
+					{ "time": 0.5, "angle": -258.75 },
+					{ "time": 0.6667, "angle": -298.14 },
+					{ "time": 0.7333, "angle": -292.39 },
+					{ "time": 0.8, "angle": -298.14 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -10.24, "y": 20.83 }
+				]
+			},
+			"Body": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": 87.27 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -287.59 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -38.33, "y": -26.58 }
+				]
+			},
+			"Pants": {
+				"translate": [
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -69.27 },
+					{ "time": 0.4333, "x": 0, "y": -50.51 },
+					{ "time": 0.5, "x": 0, "y": -69.27 }
+				]
+			},
+			"FootOne": {
+				"translate": [
+					{ "time": 0.1667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 4.2, "y": 23.2 }
+				]
+			},
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.0667, "angle": 0 },
+					{ "time": 0.3333, "angle": 8.1 },
+					{ "time": 0.4333, "angle": -7.8 },
+					{
+						"time": 0.5333,
+						"angle": -3.6,
+						"curve": 0.415, "c2":0.19, "c3":0.913, "c4":0.63
+					},
+					{ "time": 0.7333, "angle": -82.5 }
+				]
+			},
+			"BloodTwo": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": 0.009, "c2":0.45, "c3":0.75, "c4":1
+					},
+					{ "time": 1.3333, "x": -149.44, "y": 1.12 }
+				]
+			},
+			"Blood": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": 0.002, "c2":0.55, "c3":0.75, "c4":1
+					},
+					{ "time": 1.3333, "x": 70.86, "y": -0.53 }
+				]
+			},
+			"SWORD": {
+				"rotate": [
+					{
+						"time": 0.8,
+						"angle": 0,
+						"curve": 0.296, "c2":0.1, "c3":1, "c4":0.82
+					},
+					{ "time": 1, "angle": -84 },
+					{ "time": 1.0667, "angle": -68.4 },
+					{ "time": 1.1667, "angle": -84 },
+					{ "time": 1.2333, "angle": -79.5 },
+					{ "time": 1.3333, "angle": -84 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0, "name": "DeathEvent" },
+			{ "time": 0.9667, "name": "SwordOnGroundEvent" }
+		]
+	},
+	"FallAnimation": {
+		"slots": {
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"LegTwo": {
+				"rotate": [
+					{ "time": 0, "angle": -322.8 },
+					{ "time": 0.1667, "angle": -324.9 },
+					{ "time": 0.3333, "angle": -322.8 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{ "time": 0, "angle": -334.8 },
+					{ "time": 0.1667, "angle": -339.3 },
+					{ "time": 0.3333, "angle": -334.8 }
+				],
+				"translate": [
+					{ "time": 0, "x": -10.87, "y": -10.05 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": -18.6 },
+					{ "time": 0.1667, "angle": -15.6 },
+					{ "time": 0.3333, "angle": -18.6 }
+				]
+			}
+		}
+	},
+	"HealAnimation": {
+		"slots": {
+			"Arm": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"ArmHoldGun": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EYEONE": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EYETWO": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"FootOne": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Hair": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HairPartOne": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HairPartTwo": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Head": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HealCrossEffects": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.6667, "color": "fffffffe" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"HealEffectOne": {
+				"color": [
+					{ "time": 0, "color": "a0d000fe" },
+					{ "time": 0.8333, "color": "a0d00000" }
+				]
+			},
+			"HealEffectTwo": {
+				"color": [
+					{ "time": 0, "color": "a0d000fe", "curve": "stepped" },
+					{ "time": 0.0333, "color": "a0d000fe" },
+					{ "time": 0.2667, "color": "a0d00000" }
+				]
+			},
+			"LegOne": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"LegTwo": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Nose": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Pants": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Sword": {
+				"twoColor": [
+					{ "time": 0, "light": "569b15fe", "dark": "000000" },
+					{ "time": 0.5, "light": "559b14fe", "dark": "000000" },
+					{ "time": 0.8333, "light": "fffffffe", "dark": "000000" }
+				]
+			}
+		},
+		"bones": {
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1, "angle": -23.7 },
+					{ "time": 0.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -57.97, "y": -1.03 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 57.9 },
+					{ "time": 0.1667, "angle": -37.8 },
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 42 },
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2333, "angle": 18 },
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"HealEffectOne": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.084, 0.56, 0.491, 0.89 ]
+					},
+					{ "time": 0.8333, "x": 2, "y": 2 }
+				]
+			},
+			"HealEffectTwo": {
+				"scale": [
+					{ "time": 0, "x": 5, "y": 5 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"HealCrossEffects": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0667, "x": 2, "y": 2 },
+					{ "time": 0.2, "x": 1.3, "y": 1.3 },
+					{ "time": 0.3333, "x": 2, "y": 2, "curve": "stepped" },
+					{ "time": 0.5, "x": 2, "y": 2 },
+					{ "time": 0.8333, "x": 1.8, "y": 1.8 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HealEvent" }
+		]
+	},
+	"HitDownAnimation": {
+		"slots": {
+			"HitDownEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.0667, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"HitEndEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.3333, "color": "fffffffe" }
+				]
+			}
+		},
+		"bones": {
+			"Body": {
+				"rotate": [
+					{ "time": 0, "angle": -20.7 },
+					{ "time": 0.1667, "angle": -27 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{ "time": 0, "angle": -60.9 },
+					{ "time": 0.1333, "angle": -88.2 },
+					{ "time": 0.2667, "angle": -67.8 },
+					{ "time": 0.4, "angle": -88.2 }
+				]
+			},
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": 7.2 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": -64.2 },
+					{ "time": 0.1333, "angle": -41.22 },
+					{ "time": 0.3333, "angle": -66.3 }
+				]
+			},
+			"HitEndEffect": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 0.067, "y": 0.067 }
+				]
+			},
+			"HitDownEffect": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 29.77, "y": 44.06 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.2, "y": 1.2 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2, "angle": -23.1 },
+					{ "time": 0.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -14.04, "y": -20.04 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": 57.6 },
+					{ "time": 0.3, "angle": -33.9 },
+					{ "time": 0.5, "angle": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HitGroundEvent" }
+		]
+	},
+	"HitOnFlyAnimation": {
+		"slots": {
+			"HitEndEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.1667, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"HitSimpleEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.0667, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 195 },
+					{ "time": 0.3333, "angle": 183.9 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": -53.4 },
+					{ "time": 0.3333, "angle": -64.5 }
+				]
+			},
+			"HitEndEffect": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 0.067, "y": 0.067 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": -18.6 },
+					{ "time": 0.1, "angle": -36 },
+					{ "time": 0.3333, "angle": -18.6 }
+				],
+				"translate": [
+					{ "time": 0, "x": -0.27, "y": 0 },
+					{ "time": 0.1, "x": -57.97, "y": -1.03 },
+					{ "time": 0.3333, "x": -0.27, "y": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 57.9 },
+					{ "time": 0.1667, "angle": -37.8 },
+					{ "time": 0.3333, "angle": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HitEvent" }
+		]
+	},
+	"HitOnFlyTwoAnimation": {
+		"slots": {
+			"HitAirEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.1, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"HitEndEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.1667, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 176.1 },
+					{ "time": 0.0667, "angle": 167.7 },
+					{ "time": 0.1333, "angle": 173.1 },
+					{ "time": 0.2333, "angle": 167.7 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": -64.5, "curve": "stepped" },
+					{ "time": 0.3333, "angle": -64.5 }
+				]
+			},
+			"HitEndEffect": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 0.067, "y": 0.067 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": -18.6 },
+					{ "time": 0.1, "angle": -36 },
+					{ "time": 0.3333, "angle": -18.6 }
+				],
+				"translate": [
+					{ "time": 0, "x": -0.27, "y": 0 },
+					{ "time": 0.1, "x": -57.97, "y": -1.03 },
+					{ "time": 0.3333, "x": -0.27, "y": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 57.9 },
+					{ "time": 0.1667, "angle": -37.8 },
+					{ "time": 0.3333, "angle": 0 }
+				]
+			},
+			"HitAirEffect": {
+				"rotate": [
+					{ "time": 0, "angle": 7.5 },
+					{ "time": 0.3333, "angle": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HitEvent" }
+		]
+	},
+	"HitSimpleAnimation": {
+		"slots": {
+			"HitEndEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.1667, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"HitSimpleEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.0667, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 195 },
+					{ "time": 0.3333, "angle": 183.9 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": -53.4 },
+					{ "time": 0.3333, "angle": -64.5 }
+				]
+			},
+			"HitEndEffect": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 0.067, "y": 0.067 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1, "angle": -23.7 },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -57.97, "y": -1.03 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 57.9 },
+					{ "time": 0.1667, "angle": -37.8 },
+					{ "time": 0.3333, "angle": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HitEvent" }
+		]
+	},
+	"HitUpAnimation": {
+		"slots": {
+			"HitEndEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe" }
+				]
+			},
+			"HitUpEffect": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.0667, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Pants": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -0.6, "y": 68.76 },
+					{ "time": 0.3333, "x": 0.37, "y": -42.58 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": -60.9 }
+				]
+			},
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 57.3 },
+					{ "time": 0.3333, "angle": 73.5 }
+				]
+			},
+			"HitEndEffect": {
+				"translate": [
+					{ "time": 0, "x": 21.3, "y": -22.44 }
+				],
+				"scale": [
+					{ "time": 0, "x": -1, "y": 1 },
+					{ "time": 0.3333, "x": -0.067, "y": 0.067 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -15.3 },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": -20.14, "y": 6.15 },
+					{ "time": 0.3333, "x": 38.86, "y": 4.42 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"LegTwo": {
+				"rotate": [
+					{ "time": 0, "angle": -336.6, "curve": "stepped" },
+					{ "time": 0.1667, "angle": -336.6 },
+					{ "time": 0.3, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 29.42, "y": -0.72, "curve": "stepped" },
+					{ "time": 0.1667, "x": 29.42, "y": -0.72 },
+					{ "time": 0.3, "x": 21.19, "y": 12.48 },
+					{ "time": 0.3333, "x": 39.2, "y": 12.05 },
+					{ "time": 0.3667, "x": 31.01, "y": 12.25 },
+					{ "time": 0.5, "x": 0.28, "y": 0 }
+				]
+			},
+			"Head": {
+				"translate": [
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -14.92, "y": 0.26 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 70.5, "curve": "stepped" },
+					{ "time": 0.1, "angle": 70.5 },
+					{ "time": 0.2, "angle": 10.5 },
+					{ "time": 0.3, "angle": -26.4 },
+					{ "time": 0.5, "angle": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HitEvent" }
+		]
+	},
+	"HurtAnimation": {
+		"slots": {
+			"Arm": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"ArmHoldGun": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EYEONE": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EYETWO": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"FootOne": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Hair": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HairPartOne": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HairPartTwo": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Head": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"LegOne": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"LegTwo": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Nose": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Pants": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Sword": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			}
+		},
+		"bones": {
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 34.2 },
+					{ "time": 0.1667, "angle": -15.3 },
+					{ "time": 0.2333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HurtEvent" }
+		]
+	},
+	"HurtRedAnimation": {
+		"slots": {
+			"Arm": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"ArmHoldGun": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EYEONE": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EYETWO": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"FootOne": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Hair": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HairPartOne": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HairPartTwo": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Head": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"LegOne": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"LegTwo": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Nose": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Pants": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Sword": {
+				"twoColor": [
+					{ "time": 0, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" }
+				]
+			}
+		},
+		"bones": {
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 34.2 },
+					{ "time": 0.1667, "angle": -15.3 },
+					{ "time": 0.2333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HurtEvent" }
+		]
+	},
+	"IdleAnimation": {
+		"slots": {
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Head": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{
+						"time": 0.1667,
+						"x": -5.51,
+						"y": 0.1,
+						"curve": 0.005, "c2":0.29, "c3":0.711,"c4": 1
+					},
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{
+						"time": 0.5,
+						"x": -5.51,
+						"y": 0.1,
+						"curve": 0.005,"c2": 0.29, "c3":0.711,"c4": 1
+					},
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -5.56, "y": 0.05 },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -5.56, "y": 0.05 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -6.3 },
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.5, "angle": -6.3 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -2.1 },
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.5, "angle": -2.1 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 19.8 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			},
+			"HairPartTwo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -342 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			}
+		}
+	},
+	"JumpDownAnimation": {
+		"slots": {
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"LegTwo": {
+				"rotate": [
+					{ "time": 0, "angle": -357.6 },
+					{ "time": 0.1667, "angle": -351.3 },
+					{ "time": 0.3333, "angle": -357.6 }
+				],
+				"translate": [
+					{ "time": 0, "x": -34.93, "y": -8.26, "curve": "stepped" },
+					{ "time": 0.3333, "x": -34.93, "y": -8.26 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{ "time": 0, "angle": -20.1 },
+					{ "time": 0.1667, "angle": -24.6 },
+					{ "time": 0.3333, "angle": -20.1 }
+				],
+				"translate": [
+					{ "time": 0, "x": 15, "y": -20.38, "curve": "stepped" },
+					{ "time": 0.3333, "x": 15, "y": -20.38 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": -18.6 },
+					{ "time": 0.1667, "angle": -15.6 },
+					{ "time": 0.3333, "angle": -18.6 }
+				]
+			}
+		}
+	},
+	"JumpUpAnimation": {
+		"slots": {
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"LegTwo": {
+				"rotate": [
+					{ "time": 0, "angle": -345.3 },
+					{ "time": 0.1667, "angle": -342.9 },
+					{ "time": 0.3333, "angle": -345.3 }
+				],
+				"translate": [
+					{ "time": 0, "x": 10.65, "y": 2.52, "curve": "stepped" },
+					{ "time": 0.3333, "x": 10.65, "y": 2.52 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{ "time": 0, "angle": -20.1 },
+					{ "time": 0.1667, "angle": -24.6 },
+					{ "time": 0.3333, "angle": -20.1 }
+				],
+				"translate": [
+					{ "time": 0, "x": -33.84, "y": -0.87, "curve": "stepped" },
+					{ "time": 0.3333, "x": -33.84, "y": -0.87 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": -18.6 },
+					{ "time": 0.1667, "angle": -15.6 },
+					{ "time": 0.3333, "angle": -18.6 }
+				]
+			}
+		}
+	},
+	"LandingAnimation": {
+		"bones": {
+			"Body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -101.45, "y": -0.92 },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "LandingEvent" }
+		]
+	},
+	"OpenAnimation": {
+		"bones": {
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -23.7 },
+					{ "time": 0.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -57.97, "y": -1.03 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": 57.9 },
+					{ "time": 0.5, "angle": -37.8 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			},
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": -24.6 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 18 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			},
+			"HealEffectOne": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": 0.084, "c2" : 0.56, "c3": 0.491, "c4": 0.89
+					},
+					{ "time": 0.8333, "x": 2, "y": 2 }
+				]
+			},
+			"HealEffectTwo": {
+				"scale": [
+					{ "time": 0, "x": 5, "y": 5 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"HealCrossEffects": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0667, "x": 2, "y": 2 },
+					{ "time": 0.2, "x": 1.3, "y": 1.3 },
+					{ "time": 0.3333, "x": 2, "y": 2, "curve": "stepped" },
+					{ "time": 0.5, "x": 2, "y": 2 },
+					{ "time": 0.8333, "x": 1.8, "y": 1.8 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.3, "name": "OpenEvent" }
+		]
+	},
+	"RunAnimation": {
+		"slots": {
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"LegTwo": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -294.5,
+						"curve":  0.234, "c2": 0.01 ,"c3": 1, "c4": 0.69
+					},
+					{ "time": 0.1667, "angle": 0 },
+					{
+						"time": 0.3333,
+						"angle": -77.88,
+						"curve":  0.25, "c2": 0 ,"c3": 0.996, "c4": 0.7
+					},
+					{ "time": 0.5, "angle": 0 },
+					{ "time": 0.6667, "angle": -294.5 }
+				],
+				"translate": [
+					{ "time": 0.1667, "x": 0, "y": 0 },
+					{
+						"time": 0.3333,
+						"x": -14.16,
+						"y": 47.47,
+						"curve":  0.25, "c2": 0 ,"c3": 0.996, "c4": 0.7
+					},
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -78.03,
+						"curve":  0.234, "c2": 0.01 ,"c3": 1, "c4": 0.69
+					},
+					{ "time": 0.1667, "angle": 0 },
+					{
+						"time": 0.3333,
+						"angle": -297.52,
+						"curve":  0.25, "c2": 0 ,"c3": 1, "c4": 0.7
+					},
+					{ "time": 0.5, "angle": 0 },
+					{ "time": 0.6667, "angle": -78.03 }
+				],
+				"translate": [
+					{ "time": 0.1667, "x": 0, "y": 0 },
+					{
+						"time": 0.3333,
+						"x": -4.64,
+						"y": -61.05,
+						"curve":  0.25, "c2": 0 ,"c3": 1, "c4": 0.7
+					},
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"FootOne": {
+				"translate": [
+					{ "time": 0.1667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -4.92, "y": 21.22 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"Pants": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0, "y": -10.77 },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": -10.77 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"Body": {
+				"translate": [
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -17.07, "y": 0.15 },
+					{ "time": 0.2333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.4333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -17.07, "y": 0.15 },
+					{ "time": 0.5667, "x": 0, "y": 0 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1667, "angle": 0 },
+					{ "time": 0.2333, "angle": -5.81 },
+					{ "time": 0.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 0.5, "angle": 0 },
+					{ "time": 0.5667, "angle": -5.81 },
+					{ "time": 0.6667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -10.36, "y": 0.18 },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -10.36, "y": 0.18 },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -18.3 },
+					{ "time": 0.2333, "angle": -294.9 },
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.5, "angle": 31.8 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			},
+			"HairPartTwo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -33 },
+					{ "time": 0.2333, "angle": -337.8 },
+					{ "time": 0.5, "angle": -349.5 },
+					{ "time": 0.6667, "angle": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.1333, "name": "StepEvent" },
+			{ "time": 0.4667, "name": "StepEvent" }
+		]
+	},
+	"SlideAnimation": {
+		"bones": {
+			"Pants": {
+				"translate": [
+					{ "time": 0, "x": 0.41, "y": -46.66 }
+				]
+			},
+			"LegTwo": {
+				"translate": [
+					{ "time": 0, "x": 47.1, "y": -1.15 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{ "time": 0, "angle": -50.4 }
+				]
+			},
+			"FootOne": {
+				"rotate": [
+					{ "time": 0, "angle": 51 }
+				],
+				"translate": [
+					{ "time": 0, "x": 10.22, "y": -23.01 }
+				]
+			},
+			"Arm": {
+				"rotate": [
+					{ "time": 0, "angle": 194.1 },
+					{ "time": 0.1667, "angle": 198.9 },
+					{ "time": 0.3333, "angle": 194.1 }
+				]
+			},
+			"ArmHoldGun": {
+				"rotate": [
+					{ "time": 0, "angle": -90.3 },
+					{ "time": 0.1667, "angle": -84.6 },
+					{ "time": 0.3333, "angle": -90.3 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "time": 0, "angle": -21 },
+					{ "time": 0.0667, "angle": -24.6 },
+					{ "time": 0.1667, "angle": -21 },
+					{ "time": 0.2333, "angle": -24.6 },
+					{ "time": 0.3333, "angle": -21 }
+				],
+				"translate": [
+					{ "time": 0, "x": -32.58, "y": -25.37 },
+					{ "time": 0.0667, "x": -32.58, "y": -12.45 },
+					{ "time": 0.1667, "x": -32.58, "y": -25.37 },
+					{ "time": 0.2333, "x": -32.58, "y": -12.45 },
+					{ "time": 0.3333, "x": -32.58, "y": -25.37 }
+				]
+			},
+			"HairPartOne": {
+				"rotate": [
+					{ "time": 0, "angle": 59.4 },
+					{ "time": 0.1, "angle": 6.3 },
+					{ "time": 0.2, "angle": 59.4 },
+					{ "time": 0.2667, "angle": 6.3 },
+					{ "time": 0.3333, "angle": 59.4 }
+				]
+			},
+			"HairPartTwo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 20.4 },
+					{ "time": 0.1667, "angle": 0 },
+					{ "time": 0.2333, "angle": 20.4 },
+					{ "time": 0.3333, "angle": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "SlideStepEvent" }
+		]
+	}
+}
+}

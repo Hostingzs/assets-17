@@ -1,0 +1,117 @@
+
+bossfly.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BloodCircleBig
+  rotate: false
+  xy: 687, 330
+  size: 323, 323
+  orig: 323, 323
+  offset: 0, 0
+  index: -1
+BloodExplosion
+  rotate: false
+  xy: 2, 605
+  size: 550, 409
+  orig: 550, 409
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 197
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: true
+  xy: 440, 2
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 687, 46
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+EyeClosedBlood
+  rotate: false
+  xy: 410, 273
+  size: 275, 330
+  orig: 275, 330
+  offset: 0, 0
+  index: -1
+EyeInside
+  rotate: false
+  xy: 525, 19
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+FlyEffect
+  rotate: false
+  xy: 916, 686
+  size: 90, 328
+  orig: 90, 328
+  offset: 0, 0
+  index: -1
+HitRoundEffect
+  rotate: false
+  xy: 554, 655
+  size: 360, 359
+  orig: 360, 359
+  offset: 0, 0
+  index: -1
+HitSimpleEffect
+  rotate: false
+  xy: 2, 25
+  size: 436, 170
+  orig: 436, 170
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 440, 86
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+
+bossfly2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HitEndEffect
+  rotate: true
+  xy: 315, 149
+  size: 102, 175
+  orig: 102, 175
+  offset: 0, 0
+  index: -1
+LegOne
+  rotate: true
+  xy: 2, 2
+  size: 95, 116
+  orig: 95, 116
+  offset: 0, 0
+  index: -1
+WingLeft
+  rotate: false
+  xy: 159, 99
+  size: 154, 152
+  orig: 154, 152
+  offset: 0, 0
+  index: -1
+WingRight
+  rotate: false
+  xy: 2, 99
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1

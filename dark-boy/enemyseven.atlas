@@ -1,0 +1,27 @@
+
+enemyseven.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlackLine
+  rotate: false
+  xy: 2, 143
+  size: 708, 20
+  orig: 708, 20
+  offset: 0, 0
+  index: -1
+Blic
+  rotate: false
+  xy: 143, 4
+  size: 140, 137
+  orig: 140, 137
+  offset: 0, 0
+  index: -1
+Razor
+  rotate: false
+  xy: 2, 2
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1

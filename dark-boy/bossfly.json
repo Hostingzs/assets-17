@@ -1,0 +1,568 @@
+{
+"skeleton": { "hash": "94iUgs8VW1ugExBtduZiQGFIwNA", "spine": "3.6.38", "width": 976.56, "height": 978.07, "images": "./bossfly/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "BloodCircleBig", "parent": "root", "length": 161.23, "rotation": 90, "x": 4.56, "y": 3.04 },
+	{
+		"name": "BloodExplosion",
+		"parent": "root",
+		"length": 180.71,
+		"rotation": 90,
+		"x": 11.31,
+		"y": -11.9,
+		"scaleX": 1.3,
+		"scaleY": 1.3
+	},
+	{ "name": "Body", "parent": "root", "length": 144.61, "rotation": 90, "x": 0.25, "y": -5.81 },
+	{ "name": "Crown", "parent": "Body", "length": 47.26, "x": 228.79, "y": 1.31 },
+	{ "name": "Eye", "parent": "Body", "length": 78.62, "x": 20.07, "y": -9.08 },
+	{ "name": "EyeClosedBlood", "parent": "Body", "length": 137.52, "rotation": -180, "x": -59.84, "y": -7.36 },
+	{ "name": "EyeInside", "parent": "Body", "length": 25.27, "x": 18.85, "y": -9.35 },
+	{ "name": "Sword", "parent": "Body", "length": 195.19, "rotation": 46.8, "x": -10.28, "y": 3.11 },
+	{ "name": "HitEndEffect", "parent": "Sword", "length": 119.53, "rotation": 113.65, "x": 377.28, "y": -5.2 },
+	{ "name": "LegOne", "parent": "Body", "length": 94.96, "rotation": 160.07, "x": -183.38, "y": 55.39 },
+	{ "name": "LegTwo", "parent": "Body", "length": 94.96, "rotation": -210.13, "x": -188.39, "y": -29.73 },
+	{ "name": "WingLeft", "parent": "Body", "length": 184.55, "rotation": 51.6, "x": 12.92, "y": -0.33 },
+	{ "name": "WingRight", "parent": "Body", "length": 194.69, "rotation": -48.3, "x": 12.92, "y": -0.33 }
+],
+"slots": [
+	{ "name": "FlyEffect", "bone": "root", "color": "ffffff00", "attachment": "FlyEffect" },
+	{ "name": "FlyEffectTwo", "bone": "root", "color": "ffffff00", "attachment": "FlyEffect" },
+	{ "name": "WingRight", "bone": "WingRight", "dark": "000000", "attachment": "WingRight" },
+	{ "name": "WingLeft", "bone": "WingLeft", "dark": "000000", "attachment": "WingLeft" },
+	{ "name": "Crown", "bone": "Crown", "dark": "000000", "attachment": "Crown" },
+	{ "name": "LegOne", "bone": "LegOne", "attachment": "LegOne" },
+	{ "name": "LegTwo", "bone": "LegTwo", "attachment": "LegOne" },
+	{ "name": "HitEndEffect", "bone": "HitEndEffect", "color": "ffffff00", "attachment": "HitEndEffect" },
+	{ "name": "HitRoundEffect", "bone": "root", "color": "ffffff00", "attachment": "HitRoundEffect" },
+	{ "name": "Sword", "bone": "Sword", "attachment": "Sword" },
+	{ "name": "Body", "bone": "Body", "dark": "000000", "attachment": "Body" },
+	{ "name": "Eye", "bone": "Eye", "dark": "000000", "attachment": "Eye" },
+	{ "name": "EyeInside", "bone": "EyeInside", "dark": "000000", "attachment": "EyeInside" },
+	{ "name": "EyeClosedBlood", "bone": "EyeClosedBlood", "color": "ffffff00", "dark": "000000", "attachment": "EyeClosedBlood" },
+	{ "name": "BloodCircleBig", "bone": "BloodCircleBig", "color": "ffffff00", "attachment": "BloodCircleBig" },
+	{ "name": "BloodExplosion", "bone": "BloodExplosion", "color": "ffffff00", "dark": "000000", "attachment": "BloodExplosion" },
+	{ "name": "HitSimpleEffect", "bone": "root", "color": "ffffff00", "attachment": "HitSimpleEffect" }
+],
+"skins": [
+	{
+		"name" :"default",
+		"attachments": {
+			"BloodCircleBig": {
+				"BloodCircleBig": { "rotation": -90, "width": 323, "height": 323 }
+			},
+			"BloodExplosion": {
+				"BloodExplosion": { "x": 38.71, "y": 45.87, "width": 550, "height": 409 }
+			},
+			"Body": {
+				"Body": { "x": 10.72, "y": -0.25, "rotation": -90, "width": 406, "height": 406 }
+			},
+			"Crown": {
+				"Crown": { "x": 9.02, "y": -1.31, "rotation": -90, "width": 82, "height": 83 }
+			},
+			"Eye": {
+				"Eye": { "x": 0.65, "y": -0.17, "rotation": -90, "width": 282, "height": 282 }
+			},
+			"EyeClosedBlood": {
+				"EyeClosedBlood": { "x": 69.04, "y": 1.91, "scaleX": 1.1, "scaleY": 1.1, "rotation": 90, "width": 275, "height": 330 }
+			},
+			"EyeInside": {
+				"EyeInside": { "x": 1.87, "y": 0.1, "rotation": -90, "width": 65, "height": 65 }
+			},
+			"FlyEffect": {
+				"FlyEffect": { "x": 256.28, "y": 24.64, "width": 90, "height": 328 }
+			},
+			"FlyEffectTwo": {
+				"FlyEffect": { "x": -253.23, "y": 24.64, "rotation": 180, "width": 90, "height": 328 }
+			},
+			"HitEndEffect": {
+				"HitEndEffect": { "x": 75.09, "y": -2.38, "rotation": -92.05, "width": 102, "height": 175 }
+			},
+			"HitRoundEffect": {
+				"HitRoundEffect": { "scaleX": 2.2, "scaleY": 2.2, "rotation": 74.1, "width": 360, "height": 359 }
+			},
+			"HitSimpleEffect": {
+				"HitSimpleEffect": { "x": 80.17, "y": -42.44, "scaleX": 1.5, "scaleY": 1.5, "width": 436, "height": 170 }
+			},
+			"LegOne": {
+				"LegOne": { "x": 45.69, "y": -4.97, "rotation": 121.03, "width": 95, "height": 116 }
+			},
+			"LegTwo": {
+				"LegOne": { "x": 45.69, "y": -4.97, "rotation": 121.03, "width": 95, "height": 116 }
+			},
+			"Sword": {
+				"Sword": { "x": 308.21, "y": -0.11, "rotation": -135, "width": 186, "height": 185 }
+			},
+			"WingLeft": {
+				"WingLeft": { "x": 218.7, "y": 2.62, "rotation": -180, "width": 154, "height": 152 }
+			},
+			"WingRight": {
+				"WingRight": { "x": 221.74, "y": -2.62, "width": 155, "height": 152 }
+			}
+		}
+	}
+],
+"events": {
+	"CrownEvent": {},
+	"DeathEvent": {},
+	"DeathExplosionEvent": {},
+	"FlyStepEvent": {},
+	"HitEvent": {},
+	"HurtEvent": {}
+},
+"animations": {
+	"DeathAnimation": {
+		"slots": {
+			"BloodCircleBig": {
+				"color": [
+					{ "time": 0.9333, "color": "ffffffa2" },
+					{ "time": 1.4667, "color": "ffffff00" }
+				]
+			},
+			"BloodExplosion": {
+				"twoColor": [
+					{ "time": 1, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 1.1, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1.1333, "light": "ffffff00", "dark": "000000" }
+				]
+			},
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"Crown": {
+				"twoColor": [
+					{ "time": 1.0667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1.1667, "light": "fffffffe", "dark": "ffffff" }
+				]
+			},
+			"Eye": {
+				"twoColor": [
+					{ "time": 0.1667, "light": "ffffff00", "dark": "000000" }
+				]
+			},
+			"EyeClosedBlood": {
+				"twoColor": [
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"EyeInside": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "000000" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "150000" },
+					{ "time": 0.2, "light": "ffffff00", "dark": "1a0000" }
+				]
+			},
+			"LegOne": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"LegTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"Sword": {
+				"color": [
+					{ "time": 1, "color": "fffffffe" },
+					{ "time": 1.0333, "color": "ffffff00" }
+				]
+			},
+			"WingLeft": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			},
+			"WingRight": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 1, "light": "fffffffe", "dark": "820000" },
+					{ "time": 1.0333, "light": "ffffff00", "dark": "820000" }
+				]
+			}
+		},
+		"bones": {
+			"Body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -156.19, "y": 0 },
+					{ "time": 0.5, "x": 81.19, "y": 0 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"WingLeft": {
+				"rotate": [
+					{ "time": 0, "angle": 127.2 },
+					{ "time": 0.1667, "angle": -175.8 },
+					{ "time": 0.2667, "angle": 74.4 },
+					{ "time": 0.6667, "angle": -179.1 },
+					{ "time": 1, "angle": 127.2 }
+				]
+			},
+			"WingRight": {
+				"rotate": [
+					{ "time": 0, "angle": -16.2 },
+					{ "time": 0.1667, "angle": -98.4 },
+					{
+						"time": 0.3333,
+						"angle": 137.7,
+						"curve": 0.391, "c2": 0, "c3": 0.686, "c4" : 0.62
+					},
+					{ "time": 0.6333, "angle": -113.4 },
+					{ "time": 1, "angle": 227.7 }
+				]
+			},
+			"Eye": {
+				"translate": [
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -10.89, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 0.065, "y": 1 }
+				]
+			},
+			"EyeClosedBlood": {
+				"scale": [
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.2667, "x": 1.475, "y": 1 },
+					{ "time": 0.5333, "x": 0.76, "y": 1 },
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			},
+			"BloodCircleBig": {
+				"scale": [
+					{
+						"time": 0.9333,
+						"x": 1,
+						"y": 1,
+						"curve": 0.083, "c2": 0.6, "c3": 0.263, "c4": 0.99
+					},
+					{ "time": 1.4667, "x": 2, "y": 2 }
+				]
+			},
+			"BloodExplosion": {
+				"rotate": [
+					{ "time": 1, "angle": 0 },
+					{ "time": 1.4667, "angle": -20.7 }
+				],
+				"scale": [
+					{ "time": 1, "x": 1.154, "y": 1.154 },
+					{ "time": 1.1333, "x": 0.8, "y": 0.8 }
+				]
+			},
+			"Sword": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.9667, "x": -234.75, "y": -249.98 }
+				]
+			},
+			"Crown": {
+				"rotate": [
+					{ "time": 0.9667, "angle": 0 },
+					{ "time": 1.4667, "angle": 66.9 }
+				],
+				"translate": [
+					{ "time": 0.9667, "x": 0, "y": 0 },
+					{ "time": 1.0333, "x": 274.2, "y": 0 },
+					{ "time": 1.1667, "x": 420.94, "y": 0 }
+				],
+				"scale": [
+					{ "time": 1.0667, "x": 1, "y": 1 },
+					{ "time": 1.1667, "x": 2, "y": 2 },
+					{ "time": 1.4667, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "DeathEvent" },
+			{ "time": 0.9667, "name": "DeathExplosionEvent" }
+		]
+	},
+	"FlyAnimation": {
+		"slots": {
+			"FlyEffect": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "fffffffe" },
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			},
+			"FlyEffectTwo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "fffffffe" },
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"WingLeft": {
+				"rotate": [
+					{ "time": 0, "angle": -23.1 },
+					{
+						"time": 0.1667,
+						"angle": 99.3,
+						"curve": 0, "c2": 0.8, "c3": 0.75, "c4": 1
+					},
+					{ "time": 0.5, "angle": -23.1 }
+				]
+			},
+			"WingRight": {
+				"rotate": [
+					{ "time": 0, "angle": 20.1 },
+					{
+						"time": 0.1667,
+						"angle": -103.8,
+						"curve": 0, "c2": 0.8, "c3": 0.75, "c4": 1
+					},
+					{ "time": 0.5, "angle": 20.1 }
+				]
+			},
+			"Body": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0, "y": 36.73 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"EyeInside": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -12.95, "y": 14.54 },
+					{ "time": 0.4, "x": -5.91, "y": -21.35 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"LegOne": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2667, "angle": -382.5 },
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"LegTwo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2667, "angle": -382.5 },
+					{ "time": 0.5, "angle": 0 }
+				]
+			},
+			"Sword": {
+				"rotate": [
+					{ "time": 0, "angle": 13.5 },
+					{ "time": 0.2333, "angle": 3.6 },
+					{ "time": 0.5, "angle": 13.5 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0667, "name": "FlyStepEvent" }
+		]
+	},
+	"HitRoundAnimation": {
+		"slots": {
+			"Crown": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.5, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HitEndEffect": {
+				"color": [
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.5667, "color": "fffffffe" }
+				]
+			},
+			"HitRoundEffect": {
+				"color": [
+					{ "time": 0.5, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.6, "color": "fffffffe" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Crown": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 1.4, "y": 1.4 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"Sword": {
+				"rotate": [
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.4333, "angle": 36.09, "curve": "stepped" },
+					{ "time": 0.4667, "angle": 36.09 },
+					{ "time": 0.5, "angle": 72.3 },
+					{ "time": 0.5667, "angle": 65.7 },
+					{ "time": 0.6667, "angle": 72.3 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": 9.71, "y": 10.34 },
+					{ "time": 0.3333, "x": -234.97, "y": -250.22 },
+					{ "time": 0.4667, "x": -97.6, "y": -307.25 },
+					{ "time": 0.5, "x": 9.67, "y": -14.23 }
+				]
+			},
+			"HitEndEffect": {
+				"rotate": [
+					{ "time": 0, "angle": -16.2 }
+				],
+				"scale": [
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 1.1667, "x": 0.1, "y": 0.1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "CrownEvent" },
+			{ "time": 0.4667, "name": "HitEvent" }
+		]
+	},
+	"HitSimpleAnimation": {
+		"slots": {
+			"Crown": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.5, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"HitEndEffect": {
+				"color": [
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.5667, "color": "fffffffe" }
+				]
+			},
+			"HitSimpleEffect": {
+				"color": [
+					{ "time": 0.5, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.6, "color": "fffffffe" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Crown": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 1.4, "y": 1.4 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"Sword": {
+				"rotate": [
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.4333, "angle": 12.69, "curve": "stepped" },
+					{ "time": 0.4667, "angle": 12.69 },
+					{ "time": 0.5, "angle": 42.3 },
+					{ "time": 0.5667, "angle": 32.1 },
+					{ "time": 0.6667, "angle": 42.3 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": 9.71, "y": 10.34 },
+					{ "time": 0.3333, "x": -172.06, "y": -183.22, "curve": "stepped" },
+					{ "time": 0.4667, "x": -172.06, "y": -183.22 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"HitEndEffect": {
+				"scale": [
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 1.1667, "x": 0.1, "y": 0.1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "CrownEvent" },
+			{ "time": 0.4667, "name": "HitEvent" }
+		]
+	},
+	"HurtAnimation": {
+		"slots": {
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Eye": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EyeInside": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"WingLeft": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"WingRight": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			}
+		},
+		"bones": {
+			"Eye": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1, "y": 0.4 },
+					{ "time": 0.2, "x": 0.74, "y": 1 },
+					{ "time": 0.3, "x": 1, "y": 1 }
+				]
+			},
+			"Crown": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": 32.1 },
+					{ "time": 0.2333, "angle": 0 },
+					{ "time": 0.3, "angle": -34.8 },
+					{ "time": 0.4, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 63.97, "y": 0 },
+					{ "time": 0.3, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.4, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HurtEvent" }
+		]
+	}
+}
+}

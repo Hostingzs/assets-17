@@ -1,0 +1,20 @@
+
+heart.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Heart
+  rotate: false
+  xy: 2, 2
+  size: 432, 364
+  orig: 432, 364
+  offset: 0, 0
+  index: -1
+WhiteEffect
+  rotate: false
+  xy: 436, 2
+  size: 432, 364
+  orig: 432, 364
+  offset: 0, 0
+  index: -1

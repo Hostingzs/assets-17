@@ -1,0 +1,261 @@
+{
+"skeleton": { "hash": "Z8+Xeuuvm9mfmRNToYQdDGOJ2wU", "spine": "3.6.38", "width": 460, "height": 390.04, "images": "./enemyone/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Blood", "parent": "root", "length": 59.35, "rotation": 90, "x": -0.81, "y": 2.44 },
+	{ "name": "BloodTwo", "parent": "root", "length": 59.35, "rotation": 90, "x": -0.81, "y": 2.44 },
+	{ "name": "Body", "parent": "root", "length": 247.11, "rotation": 90, "x": 1.17, "y": -1.43 },
+	{ "name": "Eye", "parent": "Body", "length": 98.54, "x": 204.66, "y": -28.8 },
+	{ "name": "EyeInside", "parent": "Body", "length": 37.1, "x": 206.96, "y": -28.95 }
+],
+"slots": [
+	{ "name": "Body", "bone": "Body", "dark": "000000", "attachment": "Body" },
+	{ "name": "Eye", "bone": "Eye", "color": "ffffff00", "dark": "000000", "attachment": "Eye" },
+	{ "name": "EyeInside", "bone": "EyeInside", "color": "ffffff00", "dark": "000000", "attachment": "EyeInside" },
+	{ "name": "EyeClosedBlood", "bone": "Body", "color": "ffffff00", "dark": "000000", "attachment": "EyeClosedBlood" },
+	{ "name": "EyeClosed", "bone": "Body", "color": "ffffff00", "attachment": "EyeClosed" },
+	{ "name": "MASK", "bone": "root", "attachment": "MASK" },
+	{ "name": "Blood", "bone": "Blood", "color": "ffffff00", "attachment": "Blood" },
+	{ "name": "BloodTwo", "bone": "BloodTwo", "color": "ffffff00", "attachment": "Blood" }
+],
+"skins": [
+	{
+		"name" :"default",
+		"attachments": {
+			"Blood": {
+				"Blood": { "x": 2.82, "y": -1.8, "rotation": -90, "width": 384, "height": 39 }
+			},
+			"BloodTwo": {
+				"Blood": { "x": 2.82, "y": -1.8, "rotation": -90, "width": 384, "height": 39 }
+			},
+			"Body": {
+				"Body": { "x": 188.22, "y": 0.18, "rotation": -90, "width": 460, "height": 378 }
+			},
+			"Eye": {
+				"Eye": { "x": 2.56, "y": -0.02, "rotation": -90, "width": 220, "height": 220 }
+			},
+			"EyeClosed": {
+				"EyeClosed": { "x": 209.54, "y": -30.4, "rotation": -90, "width": 193, "height": 40 }
+			},
+			"EyeClosedBlood": {
+				"EyeClosedBlood": { "x": 111.72, "y": -29.93, "rotation": -90, "width": 198, "height": 237 }
+			},
+			"EyeInside": {
+				"EyeInside": { "x": 0.27, "y": 0.13, "rotation": -90, "width": 74, "height": 74 }
+			},
+			"MASK": {
+				"MASK": {
+					"type": "clipping",
+					"end": "MASK",
+					"vertexCount": 4,
+					"vertices": [ -299.62, -13.8, 309.28, -13.8, 307.89, 416.17, -296.84, 414.78 ],
+					"color": "3aadceff"
+				}
+			}
+		}
+	}
+],
+"events": {
+	"BlinkEvent": {},
+	"DeathEvent": {},
+	"HurtEndEvent": {},
+	"HurtEvent": {}
+},
+"animations": {
+	"DeathAnimation": {
+		"slots": {
+			"Blood": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 1, "color": "fffffffe" }
+				]
+			},
+			"BloodTwo": {
+				"color": [
+					{ "time": 0, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 1, "color": "fffffffe" }
+				]
+			},
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 0.4333, "light": "ff0000fe", "dark": "aa0000", "curve": "stepped" },
+					{ "time": 0.6667, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.7, "light": "ff000000", "dark": "aa0000" }
+				]
+			},
+			"EyeClosedBlood": {
+				"twoColor": [
+					{ "time": 0, "light": "ffffff00", "dark": "ffffff" },
+					{ "time": 0.1667, "light": "fffffffe", "dark": "000000" },
+					{ "time": 0.4333, "light": "ff0000fe", "dark": "aa0000", "curve": "stepped" },
+					{ "time": 0.6667, "light": "ff0000fe", "dark": "aa0000" },
+					{ "time": 0.7, "light": "ff000000", "dark": "aa0000" }
+				]
+			}
+		},
+		"bones": {
+			"Body": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.365, "y": 1 },
+					{ "time": 0.2667, "x": 0.765, "y": 1 },
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 0.05, "y": 1 }
+				]
+			},
+			"Blood": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": 0.001, "c2": 0.59, "c3": 0.849, "c4" : 1
+					},
+					{ "time": 1, "x": -91.9, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": -91.9, "y": 0 },
+					{ "time": 1.8333, "x": -91.9, "y": -44.48 }
+				]
+			},
+			"BloodTwo": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": 0, "c2":0.6, "c3":0.851, "c4":1
+					},
+					{ "time": 1, "x": 71.8, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 71.8, "y": 0 },
+					{ "time": 1.8333, "x": 71.8, "y": -44.48 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "DeathEvent" }
+		]
+	},
+	"HurtAnimation": {
+		"slots": {
+			"Body": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"Eye": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EyeClosed": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				]
+			},
+			"EyeInside": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "ffffff", "curve": "stepped" },
+					{ "time": 0.0667, "light": "fffffffe", "dark": "ffffff" },
+					{ "time": 0.2, "light": "fffffffe", "dark": "000000" }
+				]
+			}
+		},
+		"bones": {
+			"Eye": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 52.48 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"EyeInside": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0, "y": 81.29 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Body": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 16.8, "y": 0 },
+					{ "time": 0.2333, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HurtEvent" },
+			{ "time": 0.3333, "name": "HurtEndEvent" }
+		]
+	},
+	"RunAnimation": {
+		"slots": {
+			"Eye": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000" },
+					{ "time": 0.1333, "light": "ffffff00", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.3, "light": "ffffff00", "dark": "000000" },
+					{ "time": 0.3333, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.5, "light": "fffffffe", "dark": "000000" }
+				]
+			},
+			"EyeClosed": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "fffffffe", "curve": "stepped" },
+					{ "time": 0.3, "color": "fffffffe" },
+					{ "time": 0.3333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"EyeInside": {
+				"twoColor": [
+					{ "time": 0, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.1, "light": "fffffffe", "dark": "000000" },
+					{ "time": 0.1333, "light": "ffffff00", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.3, "light": "ffffff00", "dark": "000000" },
+					{ "time": 0.3333, "light": "fffffffe", "dark": "000000", "curve": "stepped" },
+					{ "time": 0.5, "light": "fffffffe", "dark": "000000" }
+				]
+			}
+		},
+		"bones": {
+			"Body": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 0.905, "y": 1 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -7.5, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"Eye": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.0667, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 0.01, "y": 1, "curve": "stepped" },
+					{ "time": 0.3, "x": 0.01, "y": 1 },
+					{ "time": 0.4, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.1, "name": "BlinkEvent" }
+		]
+	}
+}
+}

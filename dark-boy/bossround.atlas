@@ -1,0 +1,83 @@
+
+bossround.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blood
+  rotate: false
+  xy: 2, 209
+  size: 384, 39
+  orig: 384, 39
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 250
+  size: 405, 406
+  orig: 405, 406
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: true
+  xy: 210, 5
+  size: 202, 126
+  orig: 202, 126
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 598, 374
+  size: 282, 282
+  orig: 282, 282
+  offset: 0, 0
+  index: -1
+EyeClosedBlood
+  rotate: false
+  xy: 707, 687
+  size: 279, 335
+  orig: 279, 335
+  offset: 0, 0
+  index: -1
+EyeInside
+  rotate: false
+  xy: 702, 267
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+HitEndEffect
+  rotate: false
+  xy: 598, 197
+  size: 102, 175
+  orig: 102, 175
+  offset: 0, 0
+  index: -1
+HitRoundEffect
+  rotate: false
+  xy: 2, 658
+  size: 703, 364
+  orig: 703, 364
+  offset: 0, 0
+  index: -1
+HitSimpleEffect
+  rotate: true
+  xy: 409, 174
+  size: 482, 187
+  orig: 482, 187
+  offset: 0, 0
+  index: -1
+LegOne
+  rotate: false
+  xy: 809, 254
+  size: 78, 118
+  orig: 78, 118
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: true
+  xy: 2, 2
+  size: 205, 206
+  orig: 205, 206
+  offset: 0, 0
+  index: -1

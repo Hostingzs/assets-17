@@ -1,0 +1,59 @@
+{
+	"meele" : [
+	{
+		"name": "noob", 
+		"speed": 200, 
+		"health": 100, 
+		"health_decay_rate": 10, 
+		"attack_strength": 1
+	},
+	{
+		"name": "noob_1", 
+		"speed": 250, 
+		"health": 100, 
+		"health_decay_rate": 10, 
+		"attack_strength": 1
+	},
+	{
+		"name": "noob_2", 
+		"speed": 300, 
+		"health": 100, 
+		"health_decay_rate": 10, 
+		"attack_strength": 1
+	}
+	
+	], 
+	"shooter" : [
+	{
+		"name": "shooter",
+		"speed": 300,
+		"health": 100,
+		"health_decay_rate" : 10,
+		"attack_strength": 5,
+		"fire_rate": 1
+	},
+	{
+		"name": "shooter_1",
+		"speed": 500,
+		"health": 100,
+		"health_decay_rate" : 10,
+		"attack_strength": 5,
+		"fire_rate": 3
+		
+	}
+	
+	],
+	"car": [
+	{
+		"name": "car_noob",
+		"speed": 1000
+	}
+	],
+	"heli": [
+	{
+		"name": "heli_noob",
+		"speed": 500
+	}
+	]
+	
+}

@@ -1,0 +1,76 @@
+
+enemyfive.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BloodCircleBig
+  rotate: false
+  xy: 2, 279
+  size: 322, 322
+  orig: 322, 322
+  offset: 0, 0
+  index: -1
+BloodExplosion
+  rotate: false
+  xy: 2, 603
+  size: 550, 408
+  orig: 550, 408
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 554, 727
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 840, 869
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+EyeClosed
+  rotate: false
+  xy: 554, 711
+  size: 108, 14
+  orig: 108, 14
+  offset: 0, 0
+  index: -1
+EyeInside
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+FlyEffect
+  rotate: true
+  xy: 2, 186
+  size: 91, 328
+  orig: 91, 328
+  offset: 0, 0
+  index: -1
+Shooter
+  rotate: false
+  xy: 2, 52
+  size: 131, 132
+  orig: 131, 132
+  offset: 0, 0
+  index: -1
+WingLeft
+  rotate: false
+  xy: 326, 470
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+WingRight
+  rotate: false
+  xy: 840, 736
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1

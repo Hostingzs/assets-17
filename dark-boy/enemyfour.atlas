@@ -1,0 +1,48 @@
+
+enemyfour.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blood
+  rotate: false
+  xy: 467, 215
+  size: 332, 39
+  orig: 332, 39
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 36
+  size: 218, 463
+  orig: 218, 463
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 684, 105
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+EyeClosed
+  rotate: false
+  xy: 2, 20
+  size: 108, 14
+  orig: 108, 14
+  offset: 0, 0
+  index: -1
+EyeClosedBlood
+  rotate: true
+  xy: 467, 105
+  size: 108, 215
+  orig: 108, 215
+  offset: 0, 0
+  index: -1
+EyeInside
+  rotate: false
+  xy: 112, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

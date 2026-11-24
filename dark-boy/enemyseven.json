@@ -1,0 +1,115 @@
+{
+"skeleton": { "hash": "kQj50VKiPgR+bb/5TgIoevr0ECM", "spine": "3.6.38", "width": 1415, "height": 279.29, "images": "./enemyseven/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "FullRazor", "parent": "root", "length": 98.53, "rotation": 90, "x": 521.36, "y": -5.61 },
+	{ "name": "Blic", "parent": "FullRazor", "length": 94.09, "rotation": -48, "x": 6.85, "y": 3.02 },
+	{ "name": "Razor", "parent": "FullRazor", "length": 127.62, "x": 7.28, "y": 2.82 }
+],
+"slots": [
+	{ "name": "Razor", "bone": "Razor", "attachment": "Razor" },
+	{ "name": "RazorMask", "bone": "Razor", "attachment": "RazorMask" },
+	{ "name": "Blic", "bone": "Blic", "attachment": "Blic" },
+	{ "name": "BlackLine", "bone": "root", "attachment": "BlackLine" }
+],
+"skins": {
+	"default": {
+		"BlackLine": {
+			"BlackLine": { "x": -11.96, "y": 1.33, "width": 1415, "height": 39 }
+		},
+		"Blic": {
+			"Blic": { "x": -3.16, "y": -2.13, "rotation": -42, "width": 280, "height": 273 }
+		},
+		"Razor": {
+			"Razor": { "x": -0.33, "y": -0.94, "rotation": -90, "width": 278, "height": 278 }
+		},
+		"RazorMask": {
+			"RazorMask": {
+				"type": "clipping",
+				"end": "Blic",
+				"vertexCount": 32,
+				"vertices": [ 78.99, 18.98, 117.75, 18.48, 114.27, -0.9, 78.99, -22.77, 70.04, -41.65, 95.88, -71.47, 80.97, -81.41, 40.72, -71.97, 18.35, -80.42, 19.35, -120.18, 1.42, -116.49, -22.56, -79.05, -42.28, -69.98, -71.61, -97.32, -81.55, -80.42, -70.62, -40.6, -79.19, -20.34, -117.83, -19.79, -112.86, -1.4, -79.56, 20.97, -71.61, 40.85, -96.95, 69.18, -82.04, 79.61, -40.79, 70.67, -20.91, 77.63, -18.92, 118.88, 0.59, 113.79, 23.12, 77.93, 43.04, 68.9, 71.51, 95.83, 80.81, 80.4, 72.03, 42.84 ],
+				"color": "3aa8ceff"
+			}
+		}
+	}
+},
+"events": {
+	"ChangeDirectionEvent": {},
+	"HurtHeroEvent": {}
+},
+"animations": {
+	"HurtHeroAnimation": {
+		"slots": {
+			"Blic": {
+				"color": [
+					{ "time": 0, "color": "ba0015fe", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ba0015fe" },
+					{ "time": 0.3333, "color": "fffffffe" }
+				]
+			},
+			"Razor": {
+				"color": [
+					{ "time": 0, "color": "ba0015fe", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ba0015fe" },
+					{ "time": 0.3333, "color": "fffffffe" }
+				]
+			}
+		},
+		"events": [
+			{ "time": 0.0333, "name": "HurtHeroEvent" }
+		]
+	},
+	"RazorGoAnimation": {
+		"bones": {
+			"FullRazor": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.315, 0, 0.69, 1 ]
+					},
+					{
+						"time": 2,
+						"x": -1070.42,
+						"y": 0,
+						"curve": [ 0.307, 0, 0.698, 1 ]
+					},
+					{ "time": 4, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"events": [
+			{ "time": 1.9667, "name": "ChangeDirectionEvent" },
+			{ "time": 3.9667, "name": "ChangeDirectionEvent" }
+		]
+	},
+	"RazorSpinningAnimation": {
+		"bones": {
+			"Razor": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 90 },
+					{ "time": 0.6667, "angle": -180 },
+					{ "time": 1, "angle": -90 },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			},
+			"Blic": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": 11.7 },
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.5, "angle": 11.7 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.8333, "angle": 11.7 },
+					{ "time": 1, "angle": 0 },
+					{ "time": 1.1667, "angle": 11.7 },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

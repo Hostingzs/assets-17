@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<levels>
+		<level id ="0">
+			<name>Wake Up</name>
+			<objectives>
+				<objective id="key">Find the key</objective>
+				<objective id="lighthouse">Unlock the lighthouse with key</objective>
+			</objectives>
+			<chat>
+				<message speaker="enemy" scale="0.65">Hey there little boy</message>
+				<message speaker="player" scale="0.5">Yes?</message>
+				<message speaker="enemy" scale="0.75">What are you doing in this dark place?</message>
+				<message speaker="player" scale="0.7">I am making it lighter</message>
+				<message speaker="enemy" scale="0.75">You are bringing trouble here</message>
+				<message speaker="player" scale="0.65">I cannot be stopped</message>
+				<message speaker="enemy" scale="0.75">We shall see, Argh! Argh! Argh!</message>
+			</chat>
+		</level>
+		<level id ="1">
+			<name>Arrival</name>
+			<objectives>
+				<objective id="key">Find the key and collect it</objective>
+				<objective id="locate_boss">Find the big dark boss</objective>
+				<objective id="lighthouse">Unlock the lighthouse with key</objective>
+			</objectives>
+			<chat>
+				<message speaker="enemy" scale="0.65">Hey there little boy</message>
+				<message speaker="player" scale="0.6">Yes Big GuY ...?</message>
+				<message speaker="enemy" scale="0.75">What are you doing in this dark place?</message>
+				<message speaker="player" scale="0.7">I am looking for light</message>
+				<message speaker="enemy" scale="0.8">Sounds like, you are bringing trouble here</message>
+				<message speaker="player" scale="0.65">Get out of my way!</message>
+				<message speaker="enemy" scale="0.85">You dare to challenge me? Argh! Argh! Argh!</message>
+			</chat>
+		</level>
+		<level id ="2">
+			<name>Sunshine</name>
+			<objectives>
+				<objective id="switch">Clear the barrier surrounding the cave</objective>
+				<objective id="key">Search for lighthouse key</objective>
+				<objective id="lighthouse">Unlock the lighthouse with key</objective>
+			</objectives>
+		</level>
+		<level id ="3">
+			<name>Charge</name>
+			<objectives>
+				<objective id="locate_boss">Locate the dark monster</objective>
+				<objective id="key">Find the key of lighthouse</objective>
+				<objective id="lighthouse">Unlock the lighthouse with key</objective>
+			</objectives>
+			<chat>
+				<message speaker="enemy" scale="0.5">Dark Boy???</message>
+				<message speaker="player" scale="0.5">That is me</message>
+				<message speaker="enemy" scale="0.75">I was told, you will come</message>
+				<message speaker="player" scale="0.7">Now I have come</message>
+				<message speaker="enemy" scale="0.8">But you seem be a little boy</message>
+				<message speaker="player" scale="0.75">Courage is not about size</message>
+				<message speaker="enemy" scale="0.9">I will teach you, Argh! Argh! Argh!</message>
+			</chat>
+		</level>
+		<level id ="4">
+			<name>Darkness</name>
+			<objectives>
+				<objective id="reach">Get inside the the tunnel</objective>
+				<objective id="key">Find the key</objective>
+				<objective id="lighthouse">Unlock the lighthouse with key</objective>
+			</objectives>
+		</level>
+		<level id ="5">
+			<name>Rise Again</name>
+			<objectives>
+				<objective id="locate_boss">Locate the flying monster</objective>
+				<objective id="key">Find the key and collect it</objective>
+				<objective id="lighthouse">Unlock the lighthouse with key</objective>
+			</objectives>
+			<chat>
+				<message speaker="enemy" scale="0.65">Hey Kiddo</message>
+				<message speaker="player" scale="0.5">Kid? Me?</message>
+				<message speaker="enemy" scale="0.75">You are stupid too</message>
+				<message speaker="player" scale="0.7">It is insulting</message>
+				<message speaker="enemy" scale="0.75">Why you killed my long brother??</message>
+				<message speaker="player" scale="0.65">He was a monster like you</message>
+				<message speaker="enemy" scale="0.75">A Monster?, Argh! Argh! Argh!</message>
+			</chat>
+		</level>
+		<level id ="6">
+			<name>Enlightment</name>
+			<objectives>
+				<objective id="reach">Cross the death lake</objective>
+				<objective id="key">Find the key and collect it</objective>
+				<objective id="lighthouse">Unlock the lighthouse with key</objective>
+			</objectives>
+			<chat>
+				<message speaker="enemy" scale="0.65">Hey there little boy</message>
+				<message speaker="player" scale="0.5">Yes?</message>
+				<message speaker="enemy" scale="0.75">What are you doing in this dark place?</message>
+				<message speaker="player" scale="0.7">I am making it lighter</message>
+				<message speaker="enemy" scale="0.75">You are bringing trouble here</message>
+				<message speaker="player" scale="0.65">I cannot be stopped</message>
+				<message speaker="enemy" scale="0.75">We shall see, Argh! Argh! Argh!</message>
+			</chat>
+		</level>
+
+		<level id ="7">
+			<name>Hope</name>
+			<objectives>
+				<objective id="locate_boss">Encounter the darkest monster</objective>
+				<objective id="key">Find the key and collect it</objective>
+				<objective id="lighthouse">Unlock the lighthouse with key</objective>
+			</objectives>
+			<chat>
+				<message speaker="enemy" scale="0.65">Hey tiny kid</message>
+				<message speaker="player" scale="0.5">Yes Monster</message>
+				<message speaker="enemy" scale="0.85">You are going to die in this dark place</message>
+				<message speaker="player" scale="0.75">That will be decided in battle</message>
+				<message speaker="enemy" scale="0.75">You are no match for me</message>
+				<message speaker="player" scale="0.8">I have defeated monsters like you</message>
+				<message speaker="enemy" scale="0.85">You challenge me? Argh! Argh! Argh!</message>
+			</chat>
+		</level>
+	</levels>
+
+</content>

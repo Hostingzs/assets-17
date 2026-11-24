@@ -1,0 +1,118 @@
+
+enemysix.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 275, 710
+  size: 236, 150
+  orig: 236, 150
+  offset: 0, 0
+  index: -1
+ArmHoldGun
+  rotate: true
+  xy: 513, 739
+  size: 121, 96
+  orig: 121, 96
+  offset: 0, 0
+  index: -1
+Blood
+  rotate: false
+  xy: 623, 975
+  size: 384, 39
+  orig: 384, 39
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 414, 502
+  size: 173, 206
+  orig: 173, 206
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 215, 511
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+EyeInside
+  rotate: false
+  xy: 2, 2
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2, 753
+  size: 271, 261
+  orig: 271, 261
+  offset: 0, 0
+  index: -1
+FootOne
+  rotate: false
+  xy: 748, 768
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+HitDownEffect
+  rotate: false
+  xy: 2, 163
+  size: 191, 272
+  orig: 191, 272
+  offset: 0, 0
+  index: -1
+HitEndEffect
+  rotate: true
+  xy: 215, 407
+  size: 102, 175
+  orig: 102, 175
+  offset: 0, 0
+  index: -1
+HitSimpleEffect
+  rotate: true
+  xy: 2, 437
+  size: 314, 211
+  orig: 314, 211
+  offset: 0, 0
+  index: -1
+HitUpEffect
+  rotate: true
+  xy: 275, 862
+  size: 152, 346
+  orig: 152, 346
+  offset: 0, 0
+  index: -1
+LegOne
+  rotate: true
+  xy: 611, 768
+  size: 73, 135
+  orig: 73, 135
+  offset: 0, 0
+  index: -1
+LegTwo
+  rotate: true
+  xy: 2, 57
+  size: 104, 175
+  orig: 104, 175
+  offset: 0, 0
+  index: -1
+Pants
+  rotate: true
+  xy: 895, 853
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: true
+  xy: 623, 843
+  size: 130, 270
+  orig: 130, 270
+  offset: 0, 0
+  index: -1

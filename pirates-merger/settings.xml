@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<content>
+	<levels>
+		<level id="level_0">
+			<name>Mission One</name>
+			<coins>500</coins>
+			<reward>10</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_1">
+			<name>Mission Two</name>
+			<coins>750</coins>
+			<reward>10</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_2">
+			<name>Mission Three</name>
+			<coins>1000</coins>
+			<reward>12</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_3">
+			<name>Mission Four</name>
+			<coins>1500</coins>
+			<reward>15</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_4">
+			<name>Mission Five</name>
+			<coins>2000</coins>
+			<reward>20</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_5">
+			<name>Mission Six</name>
+			<coins>5000</coins>
+			<reward>25</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_6">
+			<name>Mission Seven</name>
+			<coins>7500</coins>
+			<reward>30</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_7">
+			<name>Mission Eight</name>
+			<coins>10000</coins>
+			<reward>35</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_8">
+			<name>Mission Nine</name>
+			<coins>15000</coins>
+			<reward>40</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_9">
+			<name>Mission Ten</name>
+			<coins>25000</coins>
+			<reward>45</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_10">
+			<name>Mission Eleven</name>
+			<coins>50000</coins>
+			<reward>50</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_11">
+			<name>Mission Twelve</name>
+			<coins>100000</coins>
+			<reward>55</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_12">
+			<name>Mission Thirteen</name>
+			<coins>200000</coins>
+			<reward>60</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_13">
+			<name>Mission Fourteen</name>
+			<coins>300000</coins>
+			<reward>70</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_14">
+			<name>Mission Fifteen</name>
+			<coins>500000</coins>
+			<reward>80</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_15">
+			<name>Mission Sixteen</name>
+			<coins>750000</coins>
+			<reward>90</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_16">
+			<name>Mission Seventeen</name>
+			<coins>1150000</coins>
+			<reward>100</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_17">
+			<name>Mission Eighteen</name>
+			<coins>1500000</coins>
+			<reward>125</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_18">
+			<name>Mission Nineteen</name>
+			<coins>2000000</coins>
+			<reward>150</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_19">
+			<name>Mission Twenty</name>
+			<coins>2500000</coins>
+			<reward>175</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_20">
+			<name>Mission Twenty One</name>
+			<coins>3500000</coins>
+			<reward>200</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+
+		<level id="level_21">
+			<name>Mission Twenty Two</name>
+			<coins>5000000</coins>
+			<reward>250</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+
+		<level id="level_22">
+			<name>Mission Twenty Three</name>
+			<coins>7500000</coins>
+			<reward>275</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+
+		<level id="level_23">
+			<name>Mission Twenty Four</name>
+			<coins>10000000</coins>
+			<reward>300</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_24">
+			<name>Mission Twenty Five</name>
+			<coins>20000000</coins>
+			<reward>350</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_25">
+			<name>Mission Twenty Six</name>
+			<coins>30000000</coins>
+			<reward>400</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_26">
+			<name>Mission Twenty Seven</name>
+			<coins>50000000</coins>
+			<reward>500</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_27">
+			<name>Mission Twenty Eight</name>
+			<coins>100000000</coins>
+			<reward>650</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+
+		<level id="level_28">
+			<name>Mission Twenty Nine</name>
+			<coins>300000000</coins>
+			<reward>750</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+		<level id="level_29">
+			<name>Mission Thirty</name>
+			<coins>500000000</coins>
+			<reward>1000</reward>
+			<enHpMul>1</enHpMul>
+		</level>
+
+	</levels>
+
+</content>
